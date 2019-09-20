@@ -53,6 +53,22 @@ post_date: 2019-09-20 18:37:15
 <figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-10-1024x483.png" alt="" class="wp-image-42"/><figcaption>--@a Try the Substance created in Houdini</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/cd65f27c-913b-421e-8d9c-e844b9e17f93" alt=""/></figure>
+<!-- wp:image {"id":44} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-11-1024x411.png" alt="" class="wp-image-44"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>--@observing The Generated Texture Maps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":47} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Normal.png" alt="" class="wp-image-47"/><figcaption>Normal</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":46} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Base-Color.png" alt="" class="wp-image-46"/><figcaption>Base Color</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":48} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Height.png" alt="" class="wp-image-48"/></figure>
 <!-- /wp:image -->
