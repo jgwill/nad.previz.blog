@@ -18,7 +18,7 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":53,"width":607,"height":310} -->
-<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-12.png" alt="" class="wp-image-53" width="607" height="310"/><figcaption>--@issue I want to texture the object in Houdini but do not know how.<br>--@mastery Houdini required</figcaption></figure>
+<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-12.png" alt="" class="wp-image-53" width="607" height="310"/><figcaption>--@issue I want to texture the object in Houdini but do not know how.<br>--@mastery Houdini required<br>--@result Unacceptable</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
