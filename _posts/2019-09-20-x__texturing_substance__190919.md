@@ -22,7 +22,7 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:image -->
 
 <!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>No</td><td>T</td><td>Q</td><td>R</td><td>N</td></tr><tr><td></td><td></td><td>How to merge shooting in HDR Automatically?</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>I do not know.</td><td></td></tr><tr><td></td><td></td><td>Who would know?</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table class="wp-block-table"><tbody><tr><td>No</td><td>T</td><td>Q</td><td>R</td><td>N</td></tr><tr><td></td><td></td><td>How to merge shooting in HDR Automatically?</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>I do not know.</td><td></td></tr><tr><td></td><td></td><td>Who would know?</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Does Substance Alchemist support .DNG format?</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 <!-- /wp:table -->
 
 <!-- wp:image {"id":18,"width":489,"height":661,"linkDestination":"custom"} -->
