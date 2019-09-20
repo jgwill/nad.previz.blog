@@ -70,5 +70,5 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:image -->
 
 <!-- wp:image {"id":48} -->
-<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Height.png" alt="" class="wp-image-48"/></figure>
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Height.png" alt="" class="wp-image-48"/><figcaption>Height</figcaption></figure>
 <!-- /wp:image -->
