@@ -10,7 +10,7 @@ published: true
 post_date: 2019-09-20 18:37:15
 ---
 <!-- wp:paragraph -->
-<p> @STCGoal&nbsp;Can&nbsp;Substance&nbsp;alchemist&nbsp;generate&nbsp;shading&nbsp;material&nbsp;and&nbsp;texture&nbsp;maps&nbsp;using&nbsp;photogrammetry? @a Merge the HDR</p>
+<p> @STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? <br>@a Try Creating the Material in Alchemist using the DNG<br>@cr Merged the HDR<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
