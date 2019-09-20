@@ -42,5 +42,9 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:image -->
 
 <!-- wp:image {"id":38} -->
-<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-8-1024x942.png" alt="" class="wp-image-38"/><figcaption>Exporting</figcaption></figure>
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-8-1024x942.png" alt="" class="wp-image-38"/><figcaption>Exporting<br></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":40} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-9.png" alt="" class="wp-image-40"/><figcaption>...</figcaption></figure>
 <!-- /wp:image -->
