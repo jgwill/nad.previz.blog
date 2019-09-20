@@ -13,6 +13,18 @@ post_date: 2019-09-20 18:37:15
 <p> @STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? <br>@a Try Creating the Material in Alchemist using the DNG<br>@cr Merged the HDR<br></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+<h2>Results</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":53,"width":607,"height":310} -->
+<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-12.png" alt="" class="wp-image-53" width="607" height="310"/><figcaption>--@issue I want to texture the object in Houdini but do not know how.<br>--@mastery Houdini required</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
 <!-- wp:paragraph -->
 <p>Observations: </p>
 <!-- /wp:paragraph -->
@@ -76,3 +88,7 @@ post_date: 2019-09-20 18:37:15
 <!-- wp:image {"id":51} -->
 <figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/tex__x__texturing_substance__190919__01__first_try__substance_shop_Roughness.png" alt="" class="wp-image-51"/><figcaption>Roughness</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
