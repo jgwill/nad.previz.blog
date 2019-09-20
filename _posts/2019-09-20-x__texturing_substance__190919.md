@@ -32,3 +32,7 @@ post_date: 2019-09-20 18:37:15
 <!-- wp:image {"id":32,"width":680,"height":441} -->
 <figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-5-1024x664.png" alt="" class="wp-image-32" width="680" height="441"/><figcaption>DNG multiangle dropped</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:image {"id":34} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-6-321x1024.png" alt="" class="wp-image-34"/><figcaption>--@a Adding Channels...</figcaption></figure>
+<!-- /wp:image -->
