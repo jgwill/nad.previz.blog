@@ -52,3 +52,7 @@ post_date: 2019-09-20 18:37:15
 <!-- wp:image {"id":42} -->
 <figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-10-1024x483.png" alt="" class="wp-image-42"/><figcaption>--@a Try the Substance created in Houdini</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/cd65f27c-913b-421e-8d9c-e844b9e17f93" alt=""/></figure>
+<!-- /wp:image -->
