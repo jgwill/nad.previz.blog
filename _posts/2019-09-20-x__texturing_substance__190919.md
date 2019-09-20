@@ -36,3 +36,7 @@ post_date: 2019-09-20 18:37:15
 <!-- wp:image {"id":34} -->
 <figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-6-321x1024.png" alt="" class="wp-image-34"/><figcaption>--@a Adding Channels...</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:image {"id":36} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-7.png" alt="" class="wp-image-36"/><figcaption>--@issue Stuff about the Angle...</figcaption></figure>
+<!-- /wp:image -->
