@@ -28,3 +28,7 @@ post_date: 2019-09-20 18:37:15
 <!-- wp:image {"id":18,"width":489,"height":661,"linkDestination":"custom"} -->
 <figure class="wp-block-image is-resized"><a href="https://www.google.com/search?q=create+project+using+houdini&amp;rlz=1C1CHBF_enCA851CA851&amp;oq=create+project+using+houdini&amp;aqs=chrome..69i57.3464j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-1-757x1024.png" alt="" class="wp-image-18" width="489" height="661"/></a><figcaption>@o I have created the project experimentation using Houdini</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:image {"id":32,"width":680,"height":441} -->
+<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-5-1024x664.png" alt="" class="wp-image-32" width="680" height="441"/><figcaption>DNG multiangle dropped</figcaption></figure>
+<!-- /wp:image -->
