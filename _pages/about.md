@@ -2,7 +2,7 @@
 ID: 8
 post_title: about
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "About this Previz Blog"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/about/
@@ -10,11 +10,11 @@ published: true
 post_date: 2019-09-20 18:26:41
 ---
 <!-- wp:paragraph -->
-<p>This page is about the previz I want to show October 22.</p>
+<p>This page is about the previz I want to show October 22.  What are the next actions?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>@v [GOAL]</p>
+<p>@v I am well planned and it feels great.  I nourishes my desire to create and collaborate and opens career opportunities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
