@@ -18,7 +18,15 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":53,"width":607,"height":310} -->
-<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-12.png" alt="" class="wp-image-53" width="607" height="310"/><figcaption>--@issue I want to texture the object in Houdini but do not know how.<br>--@mastery Houdini required<br>--@result Unacceptable</figcaption></figure>
+<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-12.png" alt="" class="wp-image-53" width="607" height="310"/><figcaption>--@issue I want to texture the object in Houdini but do not know how.<br>--@mastery Houdini required<br>--@result Unacceptable<br><br></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3>--@a Frack off Houdini, let's use Clarisse</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/e5d32970-245e-4fb2-bec2-e22ddbc4c937" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
