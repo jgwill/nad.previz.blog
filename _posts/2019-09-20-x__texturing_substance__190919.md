@@ -10,7 +10,7 @@ published: true
 post_date: 2019-09-20 18:37:15
 ---
 <!-- wp:paragraph -->
-<p> @STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? <br>@a Try Creating the Material in Alchemist using the DNG<br>@cr Merged the HDR<br></p>
+<p> @STCGoal&nbsp;Can&nbsp;Substance&nbsp;alchemist&nbsp;generate&nbsp;shading&nbsp;material&nbsp;and&nbsp;texture&nbsp;maps&nbsp;using&nbsp;photogrammetry? <br>@a Try Creating the Material in Alchemist using the DNG<br>@cr Merged the HDR<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -25,8 +25,8 @@ post_date: 2019-09-20 18:37:15
 <h3>--@a Frack off Houdini, let's use Clarisse</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/ac46d1d3-1bda-439f-bc5f-320a13c6f196" alt=""/></figure>
+<!-- wp:image {"id":66} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-18-1024x517.png" alt="" class="wp-image-66"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":63} -->
