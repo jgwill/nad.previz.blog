@@ -26,7 +26,19 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/e5d32970-245e-4fb2-bec2-e22ddbc4c937" alt=""/></figure>
+<figure class="wp-block-image"><img src="blob:http://guillaumeisabelle.com/ac46d1d3-1bda-439f-bc5f-320a13c6f196" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":63} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-16-1024x527.png" alt="" class="wp-image-63"/><figcaption>03 added normal, not really interesting...</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":62} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-15-1024x421.png" alt="" class="wp-image-62"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":59} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-14-1024x440.png" alt="" class="wp-image-59"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
