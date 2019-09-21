@@ -50,11 +50,11 @@ post_date: 2019-09-20 18:37:15
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Observations: </p>
+<p>Plates: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20,"width":408,"height":286} -->
-<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-2.png" alt="" class="wp-image-20" width="408" height="286"/></figure>
+<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-2.png" alt="" class="wp-image-20" width="408" height="286"/><figcaption>One of the plate used in Alchemist</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:table -->
