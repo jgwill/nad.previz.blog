@@ -10,7 +10,7 @@ published: true
 post_date: 2019-09-21 03:29:46
 ---
 <!-- wp:paragraph -->
-<p>@STCGoal Moon and Space capability to generate. Great assets and context ready to use. Planet, Space Environment, Galaxy and Nebula painting and space, NOTHING (light being turned in a black hole)<br>@cr Bought 92k Moon displacement</p>
+<p>--@STCGoal Moon and Space capability to generate. Great assets and context ready to use. Planet, Space Environment, Galaxy and Nebula painting and space, NOTHING (light being turned in a black hole)<br>--@cr Bought 92k Moon displacement</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":100} -->
