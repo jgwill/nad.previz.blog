@@ -25,6 +25,10 @@ post_date: 2019-09-20 18:37:15
 <h3>--@a Frack off Houdini, let's use Clarisse</h3>
 <!-- /wp:heading -->
 
+<!-- wp:image {"id":68} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-19.png" alt="" class="wp-image-68"/><figcaption>--@result Not what I want but I love it :)</figcaption></figure>
+<!-- /wp:image -->
+
 <!-- wp:image {"id":66} -->
 <figure class="wp-block-image"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-18-1024x517.png" alt="" class="wp-image-66"/></figure>
 <!-- /wp:image -->
