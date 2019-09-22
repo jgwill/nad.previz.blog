@@ -18,7 +18,7 @@ post_date: 2019-09-20 18:37:15
 
 <!-- /wp:paragraph -->
 
-<!-- wp:block-lab/stc-vision-block {"vision":"\u002d\u002d@STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? ","dtdue":"190925"} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"--@STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? ","dtdue":"190925"} /-->
 
 <!-- wp:heading -->
 
