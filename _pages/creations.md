@@ -9,19 +9,8 @@ permalink: >
 published: true
 post_date: 2019-09-20 21:09:57
 ---
-<!-- wp:paragraph -->
-
---@STCGoal simply have all the created artwork in here (or their representation)
-
-<!-- /wp:paragraph -->
-
 <!-- wp:block-lab/stc-vision-block {"vision":"\u002d\u002d@STCGoal simply have all the created artwork in here (or their representation)","dtdue":"191020"} /-->
-
-
 
 <!-- wp:image {"id":57} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-13-1024x680.png" alt="" class="wp-image-57" /> <figcaption>--@v Inspiring photography for a city or an ancient structure</figcaption> 
-</figure> 
-
-<!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-13-1024x680.png" alt="" class="wp-image-57" /><figcaption>--@v Inspiring photography for a city or an ancient structure</figcaption></figure> <!-- /wp:image -->
