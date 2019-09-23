@@ -25,8 +25,10 @@ A rhythmically active accompaniment naturally creates an underlying sense of unr
 
 ![from JanÃ¡Äek: In the Mists][1]</figure> <!-- /wp:image -->
 
-<!-- wp:audio {"id":133} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/Janacek-1__accompaniment.mp3" autoplay loop></audio></figure> 
+<!-- wp:audio {"id":133} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/Janacek-1__accompaniment.mp3" loop></audio></figure> 
 
 <!-- /wp:audio -->
+
+<!-- wp:block-lab/stc-vision-block {"vision":"\u002d\u002d@STCGoal A Composed music that generates a feeling of unrest"} /-->
 
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/9-Janacek-In-the-mists-1.png
