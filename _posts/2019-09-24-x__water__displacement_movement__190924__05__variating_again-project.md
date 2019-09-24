@@ -3,7 +3,9 @@ ID: 160
 post_title: >
   x__water__displacement_movement__190924__05__Variating_again.project
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  --@STCGoal A Submarine ambiance
+  picturing an unresting beauty
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/24/x__water__displacement_movement__190924__05__variating_again-project/
