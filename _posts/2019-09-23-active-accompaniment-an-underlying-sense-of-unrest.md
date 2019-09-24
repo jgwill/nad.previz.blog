@@ -2,7 +2,7 @@
 ID: 132
 post_title: 'Active Accompaniment- an underlying sense of unrest.'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "--@STCGoal Creating a sense of unrest."
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/23/active-accompaniment-an-underlying-sense-of-unrest/
