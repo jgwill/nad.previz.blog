@@ -2,7 +2,7 @@
 ID: 135
 post_title: Tension profile
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "--@STCIssue I really appreciated the profile curve.  The resolution in many audio from the resource is also handy."
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/23/tension-profile/
