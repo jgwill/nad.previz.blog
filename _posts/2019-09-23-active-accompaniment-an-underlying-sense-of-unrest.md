@@ -29,6 +29,6 @@ A rhythmically active accompaniment naturally creates an underlying sense of unr
 
 <!-- /wp:audio -->
 
-<!-- wp:block-lab/stc-vision-block {"vision":"\u002d\u002d@STCGoal A Composed music that generates a feeling of unrest"} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"--@STCGoal A Composed music that generates a feeling of unrest"} /-->
 
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/9-Janacek-In-the-mists-1.png
