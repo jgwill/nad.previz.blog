@@ -2,7 +2,7 @@
 ID: 163
 post_title: Quixel Angkor Wat Temple Stones
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "--@action Demander commande"
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/24/quixel-angkor-wat-temple-stones/
