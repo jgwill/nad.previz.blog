@@ -1,0 +1,15 @@
+---
+ID: 160
+post_title: >
+  x__water__displacement_movement__190924__05__Variating_again.project
+author: gicomadmin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/09/24/x__water__displacement_movement__190924__05__variating_again-project/
+published: true
+post_date: 2019-09-24 14:17:43
+---
+<!-- wp:image {"id":161} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-28-1024x583.png" alt="" class="wp-image-161" /><figcaption>x\_\_water\_\_displacement_movement\_\_190924\_\_05__Variating_again.project</figcaption></figure> <!-- /wp:image -->
