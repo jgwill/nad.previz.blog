@@ -12,7 +12,7 @@ post_date: 2019-09-26 12:36:49
 ---
 <!-- wp:paragraph -->
 
-[spin360 canvas_name="s1" imgs_folder="x\_\_water\_\_displacement_movement\_\_190925\_\_10\_\_seaweeds\_\_Variated/" imgs_nbr=60 autostart=false gesture=vertical aspect_ratio=2.2] 
+[spin360 canvas_name="s1" imgs_folder="x\_\_water\_\_displacement_movement\_\_190926\_\_15\_\_Import\_\_fogram\_\_construct_underroad\_\_190924\_\_02\_\_only_tuyo__RELIGHT/" imgs_nbr=4 autostart=false gesture=vertical aspect_ratio=1.778 speed=0.1] 
 
 <!-- /wp:paragraph -->
 
