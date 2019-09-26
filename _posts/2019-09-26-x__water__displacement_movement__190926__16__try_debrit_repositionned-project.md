@@ -10,6 +10,8 @@ permalink: >
 published: true
 post_date: 2019-09-26 18:51:33
 ---
+<!-- wp:block-lab/stc-vision-block {"vision":"Composition I love that could be used as proof of concept for photogrammetry for visualizing"} /-->
+
 <!-- wp:image {"id":249} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-41.png" alt="" class="wp-image-249" /></figure> <!-- /wp:image -->
