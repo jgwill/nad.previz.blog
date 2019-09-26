@@ -18,6 +18,8 @@ post_date: 2019-09-26 18:51:33
 
 <!-- /wp:paragraph -->
 
+<!-- wp:block-lab/mmot {"mmotacceptable":true,"mmotthrees":"Getting better"} /-->
+
 <!-- wp:image {"id":249} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-41.png" alt="" class="wp-image-249" /></figure> <!-- /wp:image -->
