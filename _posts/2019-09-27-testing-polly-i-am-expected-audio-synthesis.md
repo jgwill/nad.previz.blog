@@ -2,7 +2,10 @@
 ID: 290
 post_title: 'Testing Polly &#8211; I am expected audio synthesis'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  That is the except of the Testing Polly.
+  It means that when I am hearing this,
+  that is where the excerpt will be placed
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/27/testing-polly-i-am-expected-audio-synthesis/
