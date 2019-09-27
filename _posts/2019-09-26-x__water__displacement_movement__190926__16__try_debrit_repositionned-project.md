@@ -18,7 +18,7 @@ post_date: 2019-09-26 18:51:33
 
 <!-- /wp:paragraph -->
 
-<!-- wp:block-lab/mmot {"mmotacceptable":false,"mmotthrees":"Getting better"} /-->
+<!-- wp:block-lab/mmot {"mmotacceptable":true,"mmottrend":"Getting better","mmotanalyze":"Acted quick, \ngave myself short timeframe for photogrammetry\n","mmotplan":"Shooting in 10 min is ok.\nA bit more angle on top and side might have been good","mmotfeedback":"do 3 like these before october 22"} /-->
 
 <!-- wp:image {"id":249} --><figure class="wp-block-image">
 
