@@ -31,3 +31,6 @@ post_date: 2019-09-26 18:51:33
 <!-- wp:image {"id":251} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-43.png" alt="" class="wp-image-251" /></figure> <!-- /wp:image -->
+
+
+<!-- wp:block-lab/stc-vision-block {"vision":"--@STCGoal Quick experimentation to photogrammetrize a place that has great resolution point and put that model in the concept art.  The whole desired pipeline timeframe is less than 60 min."} /-->
