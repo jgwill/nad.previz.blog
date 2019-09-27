@@ -13,9 +13,9 @@ permalink: >
 published: true
 post_date: 2019-09-27 11:59:28
 ---
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:image {"id":324} --><figure class="wp-block-image">
 
-![][1]</figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/x__water__displacement_movement__190927__19__Volume_Density_Increased__D00055.jpg" alt="" class="wp-image-324" /><figcaption>Latest comp</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation","dtdue":"191010"} /-->
 
@@ -37,7 +37,6 @@ Other related: <a href="http://guillaumeisabelle.com/nad-previz/2019/09/26/x__wa
 
 > @STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation
 
-Source: *[nad.previz/x/x\_\_water\_\_displacement_movement__190922 at master · jgwill/nad.previz][2]*
+Source: *[nad.previz/x/x\_\_water\_\_displacement_movement__190922 at master · jgwill/nad.previz][1]*
 
- [1]: blob:http://guillaumeisabelle.com/275fdf2f-e412-4ee5-93d9-ce76038f8acd
- [2]: https://github.com/jgwill/nad.previz/tree/master/x/x__water__displacement_movement__190922
+ [1]: https://github.com/jgwill/nad.previz/tree/master/x/x__water__displacement_movement__190922
