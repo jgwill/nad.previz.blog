@@ -15,12 +15,12 @@ post_date: 2019-09-27 11:59:28
 ---
 <!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation","dtdue":"191010"} /-->
 
-> @STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation
-
-Source: *[nad.previz/x/x\_\_water\_\_displacement_movement__190922 at master · jgwill/nad.previz][1]*
-
 <!-- wp:image {"id":311} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-46-1024x676.png" alt="" class="wp-image-311" /></figure> <!-- /wp:image -->
+
+> @STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation
+
+Source: *[nad.previz/x/x\_\_water\_\_displacement_movement__190922 at master · jgwill/nad.previz][1]*
 
  [1]: https://github.com/jgwill/nad.previz/tree/master/x/x__water__displacement_movement__190922
