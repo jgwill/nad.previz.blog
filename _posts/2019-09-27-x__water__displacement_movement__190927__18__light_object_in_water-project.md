@@ -15,6 +15,10 @@ post_date: 2019-09-27 11:59:28
 ---
 <!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal Uncertainty to a color of joy, light and creativity. Shift of orientation","dtdue":"191010"} /-->
 
+<!-- wp:image {"id":318} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-47.png" alt="" class="wp-image-318" /></figure> <!-- /wp:image -->
+
 <!-- wp:image {"id":311} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-46-1024x676.png" alt="" class="wp-image-311" /></figure> <!-- /wp:image -->
