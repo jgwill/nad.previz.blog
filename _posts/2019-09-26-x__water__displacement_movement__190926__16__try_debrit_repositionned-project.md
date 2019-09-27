@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2019-09-26 18:51:33
 ---
-<!-- wp:block-lab/stc-vision-block {"vision":"Composition I love that could be used as proof of concept for photogrammetry for visualizing","mmotacceptable":true,"mmonanalyze":"Great photo resolution gives great object for creating\nNo editing of the model","mmotplan":"Repeat and observe and document even more","mmotfeedback":"add to schedule"} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"Composition I love that could be used as proof of concept for photogrammetry for visualizing","mmotacceptable":true,"mmotanalyze":"Great photo resolution gives great object for creating\nNo editing of the model","mmotplan":"Repeat and observe and document even more","mmotfeedback":"add to schedule"} /-->
 
 <!-- wp:paragraph -->
 
