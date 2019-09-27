@@ -39,3 +39,13 @@ post_date: 2019-09-26 12:36:49
 <!-- wp:image {"id":241} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/09/image-40.png" alt="" class="wp-image-241" /></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+Goal: I am researching in the field of photogrammetry in order to create an optimal pipeline (acceptable). This range in action from Shooting methods based on shading rules.  
+The end result is a fully textured model that is usable in photo-realistic creation (that won't exclude the usage in low resolution processing).  
+FOGRAM also has one objective related to envisionning using photogrammetry (I'll post on later on the topic here : <a rel="noreferrer noopener" href="https://www.researchgate.net/deref/http%3A%2F%2Fsimp.ly%2Fp%2FQSSlHc" target="_blank">http://simp.ly/p/QSSlHc</a>)   
+  
+<https://www.researchgate.net/project/FOGRAM-Photogrammetry-for-Digital-Art>
+
+<!-- /wp:paragraph -->
