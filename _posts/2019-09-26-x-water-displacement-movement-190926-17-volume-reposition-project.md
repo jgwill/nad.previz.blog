@@ -1,7 +1,6 @@
 ---
 ID: 269
-post_title: >
-  x__water__displacement_movement__190926__17__Volume_Reposition.project
+post_title: 'x  water  displacement_movement  190926  17  Volume_Reposition.project'
 author: gicomadmin
 post_excerpt: >
   @STCGoal An ambiance that I really love
@@ -9,7 +8,7 @@ post_excerpt: >
   also uncertain, insecure
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/2019/09/26/x__water__displacement_movement__190926__17__volume_reposition-project/
+  http://guillaumeisabelle.com/nad-previz/2019/09/26/x-water-displacement-movement-190926-17-volume-reposition-project/
 published: true
 post_date: 2019-09-26 20:38:56
 ---
