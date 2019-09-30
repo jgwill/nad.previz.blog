@@ -12,7 +12,7 @@ permalink: >
 published: true
 post_date: 2019-09-24 14:17:43
 ---
-<!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal A Submarine ambiance picturing an unresting beauty"} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal A Submarine ambiance picturing an unresting beauty","dtdue":"190928"} /-->
 
 <!-- wp:image {"id":161} --><figure class="wp-block-image">
 
