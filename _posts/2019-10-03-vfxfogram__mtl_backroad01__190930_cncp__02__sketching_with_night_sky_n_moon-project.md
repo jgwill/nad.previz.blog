@@ -10,3 +10,6 @@ permalink: >
 published: true
 post_date: 2019-10-03 19:33:56
 ---
+<!-- wp:image {"id":392} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-3-1024x578.png" alt="" class="wp-image-392" /></figure> <!-- /wp:image -->
