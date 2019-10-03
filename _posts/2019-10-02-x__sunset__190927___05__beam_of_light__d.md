@@ -16,3 +16,9 @@ post_date: 2019-10-02 10:06:11
 <!-- wp:image {"id":373} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-2-1024x668.png" alt="" class="wp-image-373" /></figure> <!-- /wp:image -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![][1]</figure> <!-- /wp:image -->
+
+ [1]: blob:http://guillaumeisabelle.com/71c50818-0799-4ff4-b4af-9dba85a8ec22
