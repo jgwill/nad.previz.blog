@@ -10,6 +10,10 @@ permalink: >
 published: true
 post_date: 2019-10-03 19:33:56
 ---
+<!-- wp:image {"id":413} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-5.png" alt="" class="wp-image-413" /></figure> <!-- /wp:image -->
+
 <!-- wp:image {"id":409} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-4-1024x629.png" alt="" class="wp-image-409" /><figcaption>VFXfogram\_\_mtl_backroad01\_\_190930_cncp\_\_03\_\_Adjusting_LightMap.project</figcaption></figure> <!-- /wp:image -->
