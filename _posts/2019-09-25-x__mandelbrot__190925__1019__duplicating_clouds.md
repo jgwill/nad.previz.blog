@@ -15,7 +15,7 @@ post_date: 2019-09-25 19:29:43
 ---
 <!-- wp:image --><figure class="wp-block-image">
 
-![][1]</figure> <!-- /wp:image -->
+![][1]<figcaption>x\_\_mandelbrot\_\_191005\_\_15\_\_In_The_Cloud.hipnc</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal Cloud gray and preparing a reaction, a release of a long unresolved tension","dtdue":"191020"} /-->
 
