@@ -10,6 +10,10 @@ permalink: >
 published: true
 post_date: 2019-10-03 19:33:56
 ---
+<!-- wp:image {"id":452} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-6.png" alt="" class="wp-image-452" /><figcaption>Rought Comp</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:image {"id":413} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-5.png" alt="" class="wp-image-413" /></figure> <!-- /wp:image -->
