@@ -10,9 +10,9 @@ permalink: >
 published: true
 post_date: 2019-10-03 19:33:56
 ---
-<!-- wp:image {"id":452} --><figure class="wp-block-image">
+<!-- wp:image {"id":454} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-6.png" alt="" class="wp-image-452" /><figcaption>Rought Comp</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-7.png" alt="comp/VFXfogram__mtl_backroad01__191005_cncp__16__Ambiance_Adjusted__BG__A__hr2_00000.psd" class="wp-image-454" /><figcaption>comp/VFXfogram\_\_mtl_backroad01\_\_191005_cncp\_\_16\_\_Ambiance_Adjusted\_\_BG\_\_A__hr2_00000.psd</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":413} --><figure class="wp-block-image">
 
