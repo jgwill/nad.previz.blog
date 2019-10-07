@@ -41,5 +41,9 @@ Inductive reactance increases with the Hz
 
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":490} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image.jpeg" alt="Inductive reactance increases with the Hz " class="wp-image-490" /><figcaption> Inductive reactance increases with the Hz </figcaption></figure> <!-- /wp:image -->
+
  [1]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-controlled-190919.jpeg
  [2]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-not-controlled-190919.jpeg
