@@ -23,7 +23,7 @@ Parent for Principle page
 
 <!-- wp:paragraph -->
 
-INDUCTION Intro here
+Notice that part of the movement in the reactive mesurements has many unacceptable phases. Also observe the increasing momentum and stability of a well inducted circuit.
 
 <!-- /wp:paragraph -->
 
