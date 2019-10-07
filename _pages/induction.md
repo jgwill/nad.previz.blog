@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/induction/
+  http://guillaumeisabelle.com/nad-previz/principles/induction/
 published: true
 post_date: 2019-10-07 07:45:04
 ---
@@ -34,6 +34,12 @@ post_date: 2019-10-07 07:45:04
 <!-- wp:image --><figure class="wp-block-image">
 
 ![][2]</figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+Inductive reactance increases with the Hz 
+
+<!-- /wp:paragraph -->
 
  [1]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-controlled-190919.jpeg
  [2]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-not-controlled-190919.jpeg
