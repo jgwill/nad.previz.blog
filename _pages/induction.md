@@ -13,13 +13,9 @@ post_date: 2019-10-07 07:45:04
 
 ![][1]</figure> <!-- /wp:image -->
 
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:table {"backgroundColor":"subtle-pale-pink"} -->
 
-![][2]</figure> <!-- /wp:image -->
-
-<!-- wp:table -->
-
-<table class="wp-block-table">
+<table class="wp-block-table has-subtle-pale-pink-background-color has-background">
   <tbody>
     <tr>
       <td>
@@ -35,5 +31,9 @@ post_date: 2019-10-07 07:45:04
 
 <!-- /wp:table -->
 
- [1]: https://raw.githubusercontent.com/jgwill/nad.previz/8513f18dc08dd615b670102b96791958c6def3cd/principles/induction/electro-induction-controlled-190919.jpeg?token=AFQRWNOR7ZZJR5KMXBCZKBK5TMSKI
- [2]: https://raw.githubusercontent.com/jgwill/nad.previz/8513f18dc08dd615b670102b96791958c6def3cd/principles/induction/electro-induction-not-controlled-190919.jpeg?token=AFQRWNLRPTHYBVUYRJFZTZK5TMSKS
+<!-- wp:image --><figure class="wp-block-image">
+
+![][2]</figure> <!-- /wp:image -->
+
+ [1]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-controlled-190919.jpeg
+ [2]: https://github.com/jgwill/nad.previz/raw/master/principles/induction/electro-induction-not-controlled-190919.jpeg
