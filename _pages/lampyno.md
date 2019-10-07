@@ -14,3 +14,5 @@ post_date: 2019-10-07 05:00:05
 ### @STCGoal A Containerized Platform for creator/researcher
 
 <!-- /wp:heading -->
+
+* Tests on Dev station worked.
