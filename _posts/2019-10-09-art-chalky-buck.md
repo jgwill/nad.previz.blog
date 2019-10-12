@@ -17,6 +17,6 @@ post_date: 2019-10-09 06:29:41
 
 <!-- wp:paragraph -->
 
-I really love this peace of art, the "rawness of it is inspiring".
+I really love this peace of art, the "rawness of it is inspiring"!
 
 <!-- /wp:paragraph -->
