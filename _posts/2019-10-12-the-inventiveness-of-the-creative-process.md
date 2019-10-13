@@ -13,6 +13,12 @@ post_date: 2019-10-12 20:02:39
 ---
 <!-- wp:paragraph -->
 
-"The inventiveness of the creative process does not come from generating alternatives, but from generating a path from the original concept of what you want to create to the final creation of it in reality." from "Path of Least Resistance, The - Kindle Book - Kindle eBook" by Robert Fritz http://a.co/dVtzfxg
+"The inventiveness of the creative process does not come from generating alternatives, but from generating a path from the original concept of what you want to create to the final creation of it in reality." 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+From "Path of Least Resistance, The - Kindle Book - Kindle eBook" by Robert Fritz http://a.co/dVtzfxg
 
 <!-- /wp:paragraph -->
