@@ -65,15 +65,15 @@ Camera field of view (FOV) varies foreach RGB
   <tbody>
     <tr>
       <td>
-        Channel
+        <strong>Channel</strong>
       </td>
       
       <td>
-        Angle
+        <strong>Angle</strong> (FOV)
       </td>
       
       <td>
-        Note
+        <strong>Note</strong>
       </td>
     </tr>
     
