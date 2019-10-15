@@ -51,6 +51,10 @@ Camera field of view (FOV) varies foreach RGB
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-24.png" alt="" class="wp-image-586" /><figcaption>Blue has 24.9 FOV</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":589} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-26.png" alt="" class="wp-image-589" /><figcaption>Red has 25 FOV</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:image {"id":587} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-25.png" alt="" class="wp-image-587" /><figcaption>Green has 25.1 FOV</figcaption></figure> <!-- /wp:image -->
