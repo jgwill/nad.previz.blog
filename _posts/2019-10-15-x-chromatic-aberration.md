@@ -122,10 +122,10 @@ Camera field of view (FOV) varies foreach RGB
 
 <!-- wp:paragraph -->
 
-Finally the Locator object is the parent of each cameras
+Finally the Locator object is the focus point of each cameras
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":593} --><figure class="wp-block-image">
+<!-- wp:image {"id":595} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-27-1024x610.png" alt="" class="wp-image-593" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-28-1024x221.png" alt="" class="wp-image-595" /><figcaption>Focus object in the camera properties</figcaption></figure> <!-- /wp:image -->
