@@ -119,3 +119,13 @@ Camera field of view (FOV) varies foreach RGB
 </table>
 
 <!-- /wp:table -->
+
+<!-- wp:paragraph -->
+
+Finally the Locator object is the parent of each cameras
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":593} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-27-1024x610.png" alt="" class="wp-image-593" /></figure> <!-- /wp:image -->
