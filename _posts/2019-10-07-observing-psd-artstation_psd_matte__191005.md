@@ -25,6 +25,6 @@ artstation_psd_matte__191005
 
 <!-- wp:paragraph -->
 
-[spin360 canvas_name="s1" imgs_folder=" artstation_psd_matte__191005/" imgs_nbr=52 aspect_ratio=0.506 speed=0.1 loop=false] 
+[spin360 canvas_name="s1" imgs_folder=" artstation_psd_matte__191005/" imgs_nbr=52 aspect_ratio=1.506 ] 
 
 <!-- /wp:paragraph -->
