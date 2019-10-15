@@ -16,4 +16,10 @@ post_date: 2019-10-07 05:00:05
 <!-- /wp:heading -->
 
 *   Tests on Dev station worked.
+*    
+
+<!-- wp:list -->
+
 *   I have fixed the host and so far stable: see : https://github.com/GuillaumeIsabelleX/docker-compose-lamp/blob/master/INSTALL-HOST.md
+
+<!-- /wp:list -->
