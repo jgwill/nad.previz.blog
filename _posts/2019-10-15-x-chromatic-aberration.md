@@ -36,3 +36,7 @@ Each renderer selects one of RGB.
 <!-- wp:image {"id":581} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-21-1024x437.png" alt="" class="wp-image-581" /><figcaption>Layer Editor has 3 rendered image (from renderers)</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":584} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-23-1024x224.png" alt="" class="wp-image-584" /><figcaption>Blue layer has its own Camera and path tracing renderer</figcaption></figure> <!-- /wp:image -->
