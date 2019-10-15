@@ -40,3 +40,17 @@ Each renderer selects one of RGB.
 <!-- wp:image {"id":584} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-23-1024x224.png" alt="" class="wp-image-584" /><figcaption>Blue layer has its own Camera and path tracing renderer</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+Camera field of view (FOV) varies foreach RGB
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":586} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-24.png" alt="" class="wp-image-586" /><figcaption>Blue has 24.9 FOV</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":587} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-25.png" alt="" class="wp-image-587" /><figcaption>Green has 25.1 FOV</figcaption></figure> <!-- /wp:image -->
