@@ -128,4 +128,4 @@ Finally the Locator object is the focus point of each cameras
 
 <!-- wp:image {"id":595} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-28-1024x221.png" alt="" class="wp-image-595" /><figcaption>Focus object in the camera properties</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-28-1024x221.png" alt="" class="wp-image-595" /><figcaption>Focus object in the camera attributes editor</figcaption></figure> <!-- /wp:image -->
