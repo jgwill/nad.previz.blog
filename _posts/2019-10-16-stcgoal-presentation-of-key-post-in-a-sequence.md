@@ -16,3 +16,16 @@ post_date: 2019-10-16 08:38:38
 I have few plugin for that
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":625} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-29-1024x504.png" alt="" class="wp-image-625" /><figcaption>  
+</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":626} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-30-1024x544.png" alt="" class="wp-image-626" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":627} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-31-1024x506.png" alt="" class="wp-image-627" /><figcaption>Presenting chart, quantitative component of a research</figcaption></figure> <!-- /wp:image -->
