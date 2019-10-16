@@ -57,7 +57,7 @@ Mid Res full sequence
       </td>
       
       <td>
-        17
+        17 minutes
       </td>
       
       <td>
