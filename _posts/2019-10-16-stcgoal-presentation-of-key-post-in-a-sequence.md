@@ -28,6 +28,8 @@ I have few plugin for that
 
 <!-- wp:image {"id":627} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-31-1024x506.png" alt="" class="wp-image-627" /><figcaption>Presenting chart, quantitative component of a research</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-31-1024x506.png" alt="" class="wp-image-627" /><figcaption>Presenting chart, quantitative component of a research  
+[**POST**][2]</figcaption></figure> <!-- /wp:image -->
 
  [1]: http://guillaumeisabelle.com/blogging/2019/10/16/layer-slider-plugin-web-settler/
+ [2]: http://guillaumeisabelle.com/blogging/2019/10/16/rj-quickcharts-wordpress-plugin-wordpress-org/
