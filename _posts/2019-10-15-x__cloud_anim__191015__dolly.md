@@ -9,6 +9,16 @@ permalink: >
 published: true
 post_date: 2019-10-15 18:32:01
 ---
+<!-- wp:heading -->
+
+##   
+Mid Res full sequence   
+
+
+<!-- /wp:heading -->
+
+<!-- wp:block-lab/stc-vision-block {"vision":"Evaluating the paralaxing in the cloud"} /-->
+
 <!-- wp:paragraph -->
 
 [spin360 canvas_name="s2" imgs_folder="x\_\_in_the_cloud\_\_191008__render_191016/" imgs_nbr=94 aspect_ratio=1.778 speed=0.05] 
