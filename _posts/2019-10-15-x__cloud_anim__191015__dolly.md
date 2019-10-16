@@ -74,12 +74,15 @@ Mid Res full sequence
       </td>
       
       <td>
+        128x72
       </td>
       
       <td>
+        2 minutes
       </td>
       
       <td>
+        1 minutes
       </td>
       
       <td>
