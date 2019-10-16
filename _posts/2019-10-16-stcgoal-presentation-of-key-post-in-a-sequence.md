@@ -20,7 +20,7 @@ I have few plugin for that
 <!-- wp:image {"id":625} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-29-1024x504.png" alt="" class="wp-image-625" /><figcaption>[**Layer Slider post**][1]  
-</figcaption></figure> <!-- /wp:image -->
+23 $</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":626} --><figure class="wp-block-image">
 
