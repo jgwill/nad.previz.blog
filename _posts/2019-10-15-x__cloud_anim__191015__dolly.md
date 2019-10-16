@@ -25,6 +25,69 @@ Mid Res full sequence
 
 <!-- /wp:paragraph -->
 
+<!-- wp:table -->
+
+<table class="wp-block-table">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      
+      <td>
+        Resolution
+      </td>
+      
+      <td>
+        Time per frame (TPF)
+      </td>
+      
+      <td>
+      </td>
+      
+      <td>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+      </td>
+      
+      <td>
+        MidRez
+      </td>
+      
+      <td>
+        17
+      </td>
+      
+      <td>
+      </td>
+      
+      <td>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+      </td>
+      
+      <td>
+      </td>
+      
+      <td>
+      </td>
+      
+      <td>
+      </td>
+      
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- /wp:table -->
+
 <!-- wp:heading -->
 
 ##   
