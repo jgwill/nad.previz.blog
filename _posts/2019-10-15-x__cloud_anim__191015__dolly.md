@@ -38,10 +38,11 @@ Mid Res full sequence
       </td>
       
       <td>
-        Time per frame (TPF)
+        Time per frame highest (TPFH)
       </td>
       
       <td>
+        Time per frame lowest(TPFL)
       </td>
       
       <td>
@@ -53,7 +54,7 @@ Mid Res full sequence
       </td>
       
       <td>
-        MidRez
+        640x360
       </td>
       
       <td>
@@ -61,6 +62,7 @@ Mid Res full sequence
       </td>
       
       <td>
+        8 minutes
       </td>
       
       <td>
