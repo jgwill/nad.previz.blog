@@ -21,7 +21,7 @@ Mid Res full sequence
 
 <!-- wp:paragraph -->
 
-[spin360 canvas_name="s2" imgs_folder="x\_\_in_the_cloud\_\_191008__render_191016/" imgs_nbr=94 aspect_ratio=1.778 speed=0.05] 
+[spin360 canvas_name="s2" imgs_folder="x\_\_in_the_cloud\_\_191008__render_191016/" imgs_nbr=94 aspect_ratio=1.778 speed=0.05  autostart=false gesture=vertical ] 
 
 <!-- /wp:paragraph -->
 
@@ -35,6 +35,6 @@ Initial 4 frames of the desired sequence
 
 <!-- wp:paragraph -->
 
-[spin360 canvas_name="s1" imgs_folder="x\_\_cloud_anim\_\_191015__dolly/" imgs_nbr=4 aspect_ratio=1.778 speed=0.001 loop=false ] 
+[spin360 canvas_name="s1" imgs_folder="x\_\_cloud_anim\_\_191015__dolly/" imgs_nbr=4 aspect_ratio=1.778 speed=0.001 loop=false  autostart=false gesture=vertical ] 
 
 <!-- /wp:paragraph -->
