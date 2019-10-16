@@ -10,3 +10,9 @@ published: true
 post_date: 2019-10-16 08:38:38
 ---
 <!-- wp:block-lab/stc-vision-block {"vision":"I am able to choose from my post or page and create a sequence for presenting - The navigation between them is fluid and I would optionally like to comment the page/post/media I am linking","dtdue":"191020"} /-->
+
+<!-- wp:paragraph -->
+
+I have few plugin for that
+
+<!-- /wp:paragraph -->
