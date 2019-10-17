@@ -11,8 +11,12 @@ post_date: 2019-10-17 07:48:28
 ---
 <!-- wp:block-lab/stc-vision-block {"vision":"Wordpress as a Platform / Framework"} /-->
 
-<!-- wp:paragraph -->
+<!-- wp:shortcode --> [zotpress tag="wpapp"] 
 
-[zotpress tag="wpapp"]
+<!-- /wp:shortcode -->
 
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+
+## 
+
+<!-- /wp:heading -->
