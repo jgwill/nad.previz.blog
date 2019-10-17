@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/bibliography/wpapp/
+  http://guillaumeisabelle.com/nad-previz/bibliography/bibliography-apps/wpapp/
 published: true
 post_date: 2019-10-17 07:48:28
 ---
