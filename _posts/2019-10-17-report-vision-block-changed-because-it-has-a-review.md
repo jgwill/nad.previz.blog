@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2019-10-17 11:12:39
 ---
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:image {"id":710} --><figure class="wp-block-image">
 
-![][1]</figure> <!-- /wp:image -->
-
- [1]: blob:http://guillaumeisabelle.com/a1fab939-9191-4d8e-a775-65be078de0a0
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-40-1024x779.png" alt="" class="wp-image-710" /></figure> <!-- /wp:image -->
