@@ -2,7 +2,10 @@
 ID: 687
 post_title: 'Get Wacom Inkspace App &#8211; Microsoft Store en-CA'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  Does the wacom Inkspace app enable an
+  adequate previsualizing virtual context
+  ?
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/10/17/get-wacom-inkspace-app-microsoft-store-en-ca/
@@ -13,8 +16,8 @@ post_date: 2019-10-17 07:15:10
 
 Source: *[Get Wacom Inkspace App - Microsoft Store en-CA][1]*
 
-<!-- wp:image {"id":689} --><figure class="wp-block-image">
+<!-- wp:image {"id":689,"width":453,"height":815} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-39-569x1024.png" alt="" class="wp-image-689" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-39-569x1024.png" alt="" class="wp-image-689" width="453" height="815" /><figcaption>@o There is an online space for content that is free</figcaption></figure> <!-- /wp:image -->
 
  [1]: https://www.microsoft.com/en-ca/p/wacom-inkspace-app/9ng5x2820fgx?rtc=1&activetab=pivot:overviewtab
