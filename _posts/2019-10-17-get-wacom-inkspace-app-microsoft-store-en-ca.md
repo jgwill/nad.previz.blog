@@ -12,7 +12,7 @@ permalink: >
 published: true
 post_date: 2019-10-17 07:15:10
 ---
-<!-- wp:block-lab/stc-vision-block {"vision":"The Wacom Inkspace app is for your Intuos Pro Paper edition, Folio and Slate. Use the app to turn what you write or sketch on paper into digital ink directly on your Windows 10 device. Inkspace keeps your work made on paper alive for further editing, enhancing and sharing."} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"The Wacom Inkspace app is for your Intuos Pro Paper edition, Folio and Slate. Use the app to turn what you write or sketch on paper into digital ink directly on your Windows 10 device. Inkspace keeps your work made on paper alive for further editing, enhancing and sharing.","dtdue":"191017","mmotacceptable":false,"mmottrend":"Getting worse","mmotanalyze":"Can not paste clipboard\nOnline link to publish resource not found or not obvious","mmotplan":"Report to Wacom requirement for Pasting clipboard\nrequest online published link to be obvious","mmotfeedback":"reminder in 60 days"} /-->
 
 Source: *[Get Wacom Inkspace App - Microsoft Store en-CA][1]*
 
