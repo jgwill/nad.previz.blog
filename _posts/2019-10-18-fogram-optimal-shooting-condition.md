@@ -22,3 +22,7 @@ post_date: 2019-10-18 16:00:21
 --@Action REFERENCE TAKEN that are stored on the LightRoom Cloud
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":772} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-43-886x1024.png" alt="" class="wp-image-772" /><figcaption>Object photo shooting, lighting and optimal shooting condition</figcaption></figure> <!-- /wp:image -->
