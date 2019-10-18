@@ -2,7 +2,7 @@
 ID: 744
 post_title: Bibliography / Structural Dynamics
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Tagged Structural Dynamics in my bibliography with notes and abstract"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/bibliography-structural-dynamics/
