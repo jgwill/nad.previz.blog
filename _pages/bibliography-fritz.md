@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/bibliography-fritz/
+  http://guillaumeisabelle.com/nad-previz/bibliography/bibliography-fritz/
 published: true
 post_date: 2019-10-18 13:27:39
 ---
