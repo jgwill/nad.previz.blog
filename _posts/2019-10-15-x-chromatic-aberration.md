@@ -129,3 +129,22 @@ Finally the Locator object is the focus point of each cameras
 <!-- wp:image {"id":595} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-28-1024x221.png" alt="" class="wp-image-595" /><figcaption>Focus object in the camera attributes editor</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+Monte Carlo article  
+<https://www.dropbox.com/s/u068qzavbxwtqs9/monte-Carlo-lens-rendering__191003.pdf?dl=0>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Aberration context project - Clarisse
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+<https://www.dropbox.com/s/s8kahkh7iy5mv3m/lens_aberation__context.project?dl=0>
+
+<!-- /wp:paragraph -->
