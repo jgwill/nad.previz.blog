@@ -2,7 +2,7 @@
 ID: 768
 post_title: bibliography-M.A.
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Tagged Master Degree in Art"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/bibliography-m-a/
