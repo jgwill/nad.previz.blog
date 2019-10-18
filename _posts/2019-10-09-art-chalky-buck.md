@@ -11,12 +11,14 @@ permalink: >
 published: true
 post_date: 2019-10-09 06:29:41
 ---
-<!-- wp:image {"id":504} --><figure class="wp-block-image">
+<!-- wp:image --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/img_5823.jpg" alt="" class="wp-image-504" /></figure> <!-- /wp:image -->
+![][1]<figcaption>Chalky Buck Art Reference</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
 I really love this peace of art, the "rawness" of it is inspiring.
 
 <!-- /wp:paragraph -->
+
+ [1]: http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/img_5823.jpg
