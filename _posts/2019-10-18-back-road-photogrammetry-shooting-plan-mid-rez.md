@@ -11,10 +11,6 @@ permalink: >
 published: true
 post_date: 2019-10-18 21:27:07
 ---
-<!-- wp:image --><figure class="wp-block-image">
-
-![][1]</figure> <!-- /wp:image -->
-
 <!-- wp:block-lab/stc-vision-block {"vision":"Higher Resolution and deeper quality shooting (16bit NEF) of location - A map to where that is","dtdue":"191021"} /-->
 
 <!-- wp:image {"id":800} --><figure class="wp-block-image">
@@ -32,5 +28,3 @@ Map Coordinate
 
 
 <!-- /wp:paragraph -->
-
- [1]: blob:https://www.icloud.com/6e46a5ab-5e57-49e5-8094-5843441524d0
