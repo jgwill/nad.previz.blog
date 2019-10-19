@@ -19,4 +19,16 @@ post_date: 2019-10-18 21:27:07
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/IMG_5629-768x1024.jpeg" alt="" class="wp-image-800" /></figure> <!-- /wp:image -->
 
+<!-- wp:paragraph -->
+
+Map Coordinate
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
  [1]: blob:https://www.icloud.com/6e46a5ab-5e57-49e5-8094-5843441524d0
