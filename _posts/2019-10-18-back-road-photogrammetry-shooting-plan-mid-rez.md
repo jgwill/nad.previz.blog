@@ -25,6 +25,8 @@ Map Coordinate
 
 <!-- /wp:paragraph -->
 
+<!-- wp:block-lab/stc-vision-block {"vision":"Higher Resolution and deeper quality shooting (16bit NEF) of location - A map to where that is","dtdue":"191021"} /-->
+
 <!-- wp:paragraph -->
 
 
