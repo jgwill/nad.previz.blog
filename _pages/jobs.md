@@ -32,3 +32,15 @@ Stay tune
 ((Subscribe to FORM))
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+What are the feature to add on to have a subscribe section ?
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
