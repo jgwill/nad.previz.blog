@@ -41,6 +41,6 @@ What are the feature to add on to have a subscribe section ?
 
 <!-- wp:paragraph -->
 
-
+What about managing the description of the type of intervention I require ? (An intervention is a job. An action to execute )
 
 <!-- /wp:paragraph -->
