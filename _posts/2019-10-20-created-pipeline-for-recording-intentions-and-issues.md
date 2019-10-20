@@ -25,7 +25,7 @@ post_date: 2019-10-20 14:04:18
 
 <!-- wp:image {"id":848,"width":314,"height":334} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-50.png" alt="" class="wp-image-848" width="314" height="334" /><figcaption>Usec STCIssue to receive the audio message and store all issues mentionning</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-50.png" alt="" class="wp-image-848" width="314" height="334" /><figcaption>Domain User STCIssue created to receive the audio message and store all issues mentioning from various system such as the distributed-file system committing messages</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":850,"width":794,"height":142} --><figure class="wp-block-image is-resized">
 
