@@ -16,9 +16,13 @@ Vision: A Planet ambiance I love
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":872} --><figure class="wp-block-image">
+<!-- wp:image {"id":872} --><figure class="wp-block-image"> 
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/x__sunset__190928-1024x578.png" alt="" class="wp-image-872" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/x__sunset__190928-1024x578.png" alt="" class="wp-image-872" /></figure> 
+
+<!-- /wp:image -->
+
+
 
 <!-- wp:heading -->
 
@@ -28,7 +32,7 @@ Vision: A Planet ambiance I love
 
 <!-- wp:paragraph -->
 
-Great ambiance, 
+Great ambiance,
 
 <!-- /wp:paragraph -->
 
