@@ -16,15 +16,9 @@ post_date: 2019-10-21 18:17:04
 
 <!-- wp:heading -->
 
-## Critique
+## Critiquefais l’essai d’ajouter une critique ici après avoir regardé l’image pour voir de quoi Ca a l’air le moment de revue critique 
 
 <!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
-APPRECIATIVEHEREJe fais l’essai d’ajouter une critique ici après avoir regardé l’image pour voir de quoi Haller
-
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
@@ -34,6 +28,12 @@ CORRECTIVEHERE
 
 <!-- wp:paragraph -->
 
+Critique de moi envers mon œuvre avant un feed-back externe 
 
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+critique externe 
 
 <!-- /wp:paragraph -->
