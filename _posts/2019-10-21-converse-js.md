@@ -1,6 +1,6 @@
 ---
 ID: 902
-post_title: Converse.js
+post_title: 'Conversing&#8230;'
 author: gicomadmin
 post_excerpt: ""
 layout: post
@@ -10,5 +10,9 @@ published: true
 post_date: 2019-10-21 07:34:56
 ---
 Source: *[Converse][1]*
+
+<!-- wp:shortcode --> [zotpress tags="conversing" abstract="true" notes="true"] 
+
+<!-- /wp:shortcode -->
 
  [1]: https://conversejs.org/
