@@ -10,6 +10,12 @@ permalink: >
 published: true
 post_date: 2019-10-20 15:33:27
 ---
+<!-- wp:paragraph -->
+
+L’expression d’une perspective vagues et la lenteur du mouvement de Montréal toutefois une beauté visuel
+
+<!-- /wp:paragraph -->
+
 <!-- wp:image {"id":868} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/10/image-54-1024x692.png" alt="" class="wp-image-868" /><figcaption>15 min quick render and comp</figcaption></figure> <!-- /wp:image -->
