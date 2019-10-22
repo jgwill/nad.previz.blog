@@ -12,7 +12,7 @@ post_date: 2019-10-20 15:33:27
 ---
 <!-- wp:paragraph -->
 
-L’expression d’une perspective vagues et la lenteur du mouvement de Montréal toutefois une beauté visuel
+L’expression d’une perspective vagues et la lenteur du mouvement de ce cadrage avec toutefois une beauté visuel
 
 <!-- /wp:paragraph -->
 
