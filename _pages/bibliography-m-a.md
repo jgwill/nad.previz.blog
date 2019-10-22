@@ -11,6 +11,6 @@ post_date: 2019-10-18 16:57:52
 ---
 <!-- wp:block-lab/stc-vision-block {"vision":"Content related to the Master Degree in Art of UQAC/NAD from my Bibliography","dtdue":"191111"} /-->
 
-<!-- wp:shortcode --> [zotpress tag="M.A." abstract="true" notes="true"] 
+<!-- wp:shortcode --> [zotpress tag="NAD.MA" abstract="true" notes="true"] 
 
 <!-- /wp:shortcode -->
