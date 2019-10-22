@@ -21,4 +21,4 @@ post_date: 2019-10-02 10:06:11
 
 ![][1]</figure> <!-- /wp:image -->
 
- [1]: blob:http://guillaumeisabelle.com/71c50818-0799-4ff4-b4af-9dba85a8ec22
+ [1]: http://guillaumeisabelle.com/71c50818-0799-4ff4-b4af-9dba85a8ec22
