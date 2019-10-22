@@ -13,7 +13,7 @@ post_date: 2019-10-22 14:51:36
 ---
 <!-- wp:paragraph -->
 
-Learning is a cumulative process, and past learning becomes the foundation of new learning. For this reason, using structural tension, people increase their effectiveness over time and experience.
+Learning is a cumulative process, and past learning becomes the foundation of new learning. For this reason, using structural tension, people **increase their effectiveness over time and experience.**
 
 <!-- /wp:paragraph -->
 
