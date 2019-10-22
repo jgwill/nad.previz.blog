@@ -16,7 +16,7 @@ post_date: 2019-10-21 18:17:04
 
 <!-- wp:heading -->
 
-## Critiquefais l’essai d’ajouter une critique ici après avoir regardé l’image pour voir de quoi Ca a l’air le moment de revue critique 
+## Critique - je fais l’essai d’ajouter une critique ici après avoir regardé l’image pour voir de quoi Ca a l’air le moment de revue critique 
 
 <!-- /wp:heading -->
 
