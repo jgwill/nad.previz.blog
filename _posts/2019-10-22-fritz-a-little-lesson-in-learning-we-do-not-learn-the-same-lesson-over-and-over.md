@@ -7,7 +7,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/2019/10/22/a-little-lesson-in-learning-we-do-not-learn-the-same-lesson-over-and-over/
+  http://guillaumeisabelle.com/nad-previz/2019/10/22/fritz-a-little-lesson-in-learning-we-do-not-learn-the-same-lesson-over-and-over/
 published: true
 post_date: 2019-10-22 14:51:36
 ---
