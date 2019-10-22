@@ -2,7 +2,7 @@
 ID: 767
 post_title: bibliography-UQAC
 author: gicomadmin
-post_excerpt: "Present the Tagged UQAC part of my bibliography along with abstract and notes"
+post_excerpt: ""
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/bibliography/bibliography-uqac/
