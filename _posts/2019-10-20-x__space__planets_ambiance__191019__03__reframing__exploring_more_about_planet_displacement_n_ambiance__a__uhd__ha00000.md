@@ -31,3 +31,15 @@ CRITIQUE TEXT HERE
 Bump trop profond 
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Annotation d’après critique avec un intervenant en direction artistique
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Nous avons une courte discussion sur le fonctionnement de la lumière dans l’espace qui n’est pas très attrayant niveau artistique. Cela m’invite à un changement de perspective qui me positionnera dans une ambiance de l’atmosphère. Les réactions de la lumière avec celle-ci sont beaucoup plus intéressant visuellement sans pour autant exclure la vue d’une planète ou d’une lune dans l’espace.￼
+
+<!-- /wp:paragraph -->
