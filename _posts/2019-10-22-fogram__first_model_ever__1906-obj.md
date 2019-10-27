@@ -9,6 +9,18 @@ permalink: >
 published: true
 post_date: 2019-10-22 08:57:45
 ---
+<!-- wp:paragraph -->
+
+Bellow is the model viewer 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:shortcode --> [vrm360 canvas_name=s1 model_url=http://guillaumeisabelle.com/wp-content/assets/fogram/fogram\_\_first_model_ever\_\_1906/texturedMesh.obj aspect_ratio=1.33333 hide_cmds=zoom,fullscreen] 
 
 <!-- /wp:shortcode -->
