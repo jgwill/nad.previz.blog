@@ -32,3 +32,33 @@ It means I am getting a new message on a Slack channel when I create new post in
 What is the usage of that ? Those related to the channel can learn a new post was done. I can keep track of my new post in that channel along with other message. I can set a reminder for reviewing a post... list goes infinite
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+How did I do it?
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+/rss $MY_WPAPP_RSS_FEED
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+That simple?
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+ya :)
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
