@@ -1,6 +1,6 @@
 ---
 ID: 1075
-post_title: publish__xmandelbrot__also__pomAnal.sh
+post_title: 'BASH Structural Tension Charting &#8211; publish__xmandelbrot__also__pomAnal.sh'
 author: gicomadmin
 post_excerpt: 'In this script, '
 layout: post
