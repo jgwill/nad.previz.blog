@@ -15,10 +15,6 @@ This Shading computational VEX Script wrangle a volume and make it a MandelBrot 
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress items="{180474:ZDX2Z9DW}" style="apa"] 
-
-<!-- /wp:shortcode -->
-
 <!-- wp:code -->
 
 <pre class="wp-block-code"><code>//--- Functions ---
@@ -81,4 +77,14 @@ else {
 
 <!-- wp:image {"id":1097} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-6-1024x993.png" alt="" class="wp-image-1097" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-6-1024x993.png" alt="" class="wp-image-1097" /><figcaption>Houdini Geo network</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## Reference to creating the Bulb VEX
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [zotpress items="{180474:ZDX2Z9DW}" style="apa"] 
+
+<!-- /wp:shortcode -->
