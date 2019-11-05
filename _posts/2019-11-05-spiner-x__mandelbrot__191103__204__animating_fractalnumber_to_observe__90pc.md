@@ -1,6 +1,6 @@
 ---
 ID: 1077
-post_title: 'SPINER &#8211; x__mandelbrot__191103__204__Animating_FractalNumber_TO_OBSERVE__90pc'
+post_title: 'Fractal Number Observer &#8211; x__mandelbrot__191103__204__Animating_FractalNumber_TO_OBSERVE__90pc'
 author: gicomadmin
 post_excerpt: 'In this OBSERVER, the Fractal number has been animated - Goal:  Understand what the fractal number does.'
 layout: post
