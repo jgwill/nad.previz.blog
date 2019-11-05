@@ -2,13 +2,22 @@
 ID: 1075
 post_title: 'BASH Structural Tension Charting &#8211; publish__xmandelbrot__also__pomAnal.sh'
 author: gicomadmin
-post_excerpt: 'In this script, '
+post_excerpt: |
+  In this script, I explore the possibility to create structural tension charting and even a moment of truth.  The definition of the current action verb and object and the next step and corrective action are arguments.
+  correlated concept : channel switching
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/11/05/publish__xmandelbrot__also__pomanal-sh/
 published: true
 post_date: 2019-11-05 14:28:05
 ---
+<!-- wp:paragraph -->
+
+In this script, I explore the possibility to create structural tension charting and even a moment of truth. The definition of the current action verb and object and the next step and corrective action are arguments.  
+correlated concept : channel switching
+
+<!-- /wp:paragraph -->
+
 <!-- wp:code {"language":"bash"} -->
 
 <pre class="wp-block-code"><code>#!/bin/bash
