@@ -20,7 +20,8 @@ correlated concept : channel switching
 
 <!-- wp:image {"id":1081} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-5-1024x309.png" alt="" class="wp-image-1081" /><figcaption>After the execution, the resulting state is given and the hint for the next step is also given.  
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-5-1024x309.png" alt="After the execution, the resulting state is given and the hint for the next step is also given.
+I am expecting this practice to form structural tension and enable fluidity in &quot;channel switching&quot;" class="wp-image-1081" /><figcaption>After the execution, the resulting state is given and the hint for the next step is also given.  
 I am expecting this practice to form structural tension and enable fluidity in "channel switching"</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:code {"language":"bash"} -->
