@@ -14,5 +14,3 @@ post_date: 2019-11-05 14:41:08
 In this OBSERVER, the Fractal number has been animated - Goal: Understand what the fractal number does.
 
 <!-- /wp:paragraph -->
-
-<!-- wp:block {"ref":971} /-->
