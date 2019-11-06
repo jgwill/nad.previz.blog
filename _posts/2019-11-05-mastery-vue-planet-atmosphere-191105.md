@@ -15,6 +15,10 @@ Second iteration when it crashed.. I am impressed by the quality of the sky/plan
 
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":1125} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-10.png" alt="" class="wp-image-1125" /></figure> <!-- /wp:image -->
+
 <!-- wp:image {"id":1123} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-9.png" alt="" class="wp-image-1123" /></figure> <!-- /wp:image -->
