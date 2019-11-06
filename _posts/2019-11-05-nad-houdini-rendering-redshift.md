@@ -9,6 +9,14 @@ permalink: >
 published: true
 post_date: 2019-11-05 22:51:06
 ---
+<!-- wp:paragraph {"customBackgroundColor":"#e3f7ff"} -->
+
+<p style="background-color:#e3f7ff" class="has-background">
+  STATUS: Success install in 17.0, FAILED in 17.5
+</p>
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":3} -->
 
 ### Redshift 
