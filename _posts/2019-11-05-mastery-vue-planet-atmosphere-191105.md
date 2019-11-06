@@ -9,6 +9,11 @@ permalink: >
 published: true
 post_date: 2019-11-05 23:51:52
 ---
+<!-- wp:image {"id":1130} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/x__vue__mastery__191105__06__sea_added-1.jpg" alt="" class="wp-image-1130" /><figcaption>2k  
+x\_\_vue\_\_mastery\_\_191105\_\_06__sea_added </figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:paragraph -->
 
 Third iteration with Water
@@ -17,7 +22,8 @@ Third iteration with Water
 
 <!-- wp:image {"id":1128} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/x__vue__mastery__191105__06__sea_added-1024x576.jpg" alt="" class="wp-image-1128" /><figcaption>x\_\_vue\_\_mastery\_\_191105\_\_06__sea_added</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/x__vue__mastery__191105__06__sea_added-1024x576.jpg" alt="" class="wp-image-1128" /><figcaption>1k  
+x\_\_vue\_\_mastery\_\_191105\_\_06__sea_added</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
