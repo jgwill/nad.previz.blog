@@ -33,6 +33,12 @@ Nad path : /y/Redshift/2.6.38
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+Env var : $REDSHIFT_COREDATAPATH
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 
 ## Houdini
