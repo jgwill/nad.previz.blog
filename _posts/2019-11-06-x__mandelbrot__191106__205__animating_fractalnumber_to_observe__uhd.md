@@ -16,13 +16,13 @@ Fractal number animated over 40 frames to observe the results - Quality enhanced
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1136,"linkDestination":"media"} --><figure class="wp-block-image">
-
-<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" alt="" class="wp-image-1136" /></a><figcaption>Iteration 1  
-</figcaption></figure> <!-- /wp:image -->
-
 <!-- wp:image {"id":1137,"linkDestination":"media"} --><figure class="wp-block-image">
 
 <a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-12.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-12.png" alt="iteration 2 (still rendering)
 I love the shadows inside the fractal that the right part does on the left part" class="wp-image-1137" /></a><figcaption>iteration 2 (still rendering)  
 I love the shadows inside the fractal that the right part does on the left part</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1136,"linkDestination":"media"} --><figure class="wp-block-image">
+
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" alt="" class="wp-image-1136" /></a><figcaption>Iteration 1  
+</figcaption></figure> <!-- /wp:image -->
