@@ -27,6 +27,12 @@ Nad version: 2.6.38
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+Nad path : /y/Redshift/2.6.38
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 
 ## Houdini
