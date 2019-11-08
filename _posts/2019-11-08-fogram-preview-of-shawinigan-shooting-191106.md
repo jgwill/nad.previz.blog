@@ -63,3 +63,21 @@ What are the next step?
 A Video référence of the water movement !? Ya
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+TODO Upload and embed the Water movement reference -St-Maurice River - https://www.dropbox.com/s/luymfuwbcfvydyf/VFXnea\_\_ref\_\_calm_water__191107.mov?dl=0
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+https://www.dropbox.com/s/luymfuwbcfvydyf/VFXnea\_\_ref\_\_calm_water__191107.mov?dl=0
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
