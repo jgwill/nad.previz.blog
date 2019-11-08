@@ -66,9 +66,13 @@ A Video référence of the water movement !? Ya
 
 <!-- wp:paragraph -->
 
-TODO Upload and embed the Water movement reference -St-Maurice River - https://www.dropbox.com/s/luymfuwbcfvydyf/VFXnea\_\_ref\_\_calm_water__191107.mov?dl=0
+TODO Upload and embed the Water movement reference -St-Maurice River ((now I’m on cellular wifi so won’t upload it ) expected is the 4K movie 10 seconds 60 frame per seconds of the above scene with water.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1153} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6735.png" alt="" class="wp-image-1153" /><figcaption>Still of the 60fps 4K water reference movement </figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
