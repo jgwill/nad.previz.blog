@@ -80,8 +80,12 @@ https://www.dropbox.com/s/luymfuwbcfvydyf/VFXnea\_\_ref\_\_calm_water__191107.mo
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:heading -->
 
+## What CG asset/mastery do **I** have in **relationship** to that creation ?
 
+<!-- /wp:heading -->
 
-<!-- /wp:paragraph -->
+<!-- wp:image {"id":1155} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6734.png" alt="" class="wp-image-1155" /><figcaption>Results of my first VUE Esprit experimentation (done thinking of components of this creation )</figcaption></figure> <!-- /wp:image -->
