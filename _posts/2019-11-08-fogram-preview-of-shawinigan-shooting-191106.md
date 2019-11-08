@@ -49,4 +49,17 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- wp:image {"id":1144} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656.jpg" alt="" class="wp-image-1144" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656.jpg" alt="" class="wp-image-1144" /><figcaption>Sky element / comp ref  
+(this is ref as the 16 bit RAW are still on the SLR camera abstracting only the sky)</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+What are the next step?
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+A Video référence of the water movement !? Ya
+
+<!-- /wp:paragraph -->
