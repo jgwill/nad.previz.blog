@@ -1,6 +1,6 @@
 ---
 ID: 1145
-post_title: 'Fogram- preview of Shawinigan Shooting &#8211; 191106'
+post_title: 'VFX NEA &#8211; Fogram-Shawinigan Shooting &#8211; 191106'
 author: gicomadmin
 post_excerpt: 'Documenting some of my intentions for the shot material - a great visual effect natural environment with a nice and smooth camera move'
 layout: post
