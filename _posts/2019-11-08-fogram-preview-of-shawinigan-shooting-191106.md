@@ -41,7 +41,7 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- wp:image {"id":1142} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6700.jpg" alt="" class="wp-image-1142" /><figcaption>foreground element (sample part of the photogrammetry set)</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6700-1024x768.jpg" alt="" class="wp-image-1142" /><figcaption>foreground element (sample part of the photogrammetry set)</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1143} --><figure class="wp-block-image">
 
