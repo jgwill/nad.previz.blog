@@ -39,13 +39,13 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1142} --><figure class="wp-block-image">
+<!-- wp:image {"id":1174} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6700-1024x768.jpg" alt="" class="wp-image-1142" /><figcaption>foreground element (sample part of the photogrammetry set)</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6698.jpg" alt="" class="wp-image-1174" /></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1143} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660.jpg" alt="" class="wp-image-1143" /><figcaption>foreground and background reference plate </figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660.jpg" alt="Ref " class="wp-image-1143" /><figcaption>foreground and background reference plate </figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1144} --><figure class="wp-block-image">
 
