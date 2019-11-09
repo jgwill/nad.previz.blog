@@ -39,20 +39,17 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1174} --><figure class="wp-block-image">
+<!-- wp:image {"id":1174,"width":384,"height":512} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6698.jpg" alt="" class="wp-image-1174" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6698-e1573269137655-768x1024.jpg" alt="" class="wp-image-1174" width="384" height="512" /></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":1143} --><figure class="wp-block-image">
+<!-- wp:image {"id":1143,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660.jpg" alt="Ref " class="wp-image-1143" /><figcaption>foreground and background reference plate </figcaption></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382-768x1024.jpg" alt="" class="wp-image-1143" /></a></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":1144} --><figure class="wp-block-image">
+<!-- wp:image {"id":1144,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656.jpg" alt="" class="wp-image-1144" /><figcaption>Sky element / comp ref  
-(this is ref as the 16 bit RAW are still on the SLR camera abstracting only the sky)  
-@PS. Also note the SLR Data are time laps ( 2 sequences of 200+ image 1fps 5k 16 bits  
-</figcaption></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111-768x1024.jpg" alt="" class="wp-image-1144" /></a></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
