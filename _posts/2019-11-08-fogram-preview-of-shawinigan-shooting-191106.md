@@ -74,7 +74,7 @@ TODO Upload and embed the Water movement reference -St-Maurice River ((now I’m
 
 <!-- wp:image {"id":1153} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6735.png" alt="" class="wp-image-1153" /><figcaption>Still of the 60fps 4K water reference movement </figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6735-576x1024.png" alt="" class="wp-image-1153" /><figcaption>Still of the 60fps 4K water reference movement </figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
