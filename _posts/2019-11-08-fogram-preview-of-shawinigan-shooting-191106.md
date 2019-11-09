@@ -45,7 +45,7 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- wp:image {"id":1143,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382-768x1024.jpg" alt="" class="wp-image-1143" /></a></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382-768x1024.jpg" alt="" class="wp-image-1143" /></a><figcaption>foreground and background reference plate</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1144,"linkDestination":"media"} --><figure class="wp-block-image">
 
