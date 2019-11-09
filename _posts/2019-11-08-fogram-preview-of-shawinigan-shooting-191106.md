@@ -49,7 +49,9 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- wp:image {"id":1144,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111-768x1024.jpg" alt="" class="wp-image-1144" /></a></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111-768x1024.jpg" alt="" class="wp-image-1144" /></a><figcaption>Sky element / comp ref  
+(this is ref as the 16 bit RAW are still on the SLR camera abstracting only the sky)  
+@PS. Also note the SLR Data are time laps ( 2 sequences of 200+ image 1fps 5k 16 bits</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
