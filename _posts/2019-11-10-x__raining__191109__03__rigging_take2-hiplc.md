@@ -51,9 +51,9 @@ As I create, I am adding key parameter of my network to the parent node with def
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-17.png" alt="" class="wp-image-1204" width="426" height="221" /><figcaption>Tab of the Stream Replicate  
 </figcaption></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":1206} --><figure class="wp-block-image">
+<!-- wp:image {"id":1206,"width":402,"height":393} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-18.png" alt="" class="wp-image-1206" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-18.png" alt="" class="wp-image-1206" width="402" height="393" /><figcaption>Stream part of the Pop network replicating the particle</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:heading -->
 
