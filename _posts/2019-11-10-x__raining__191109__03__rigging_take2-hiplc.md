@@ -81,11 +81,19 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-24.png" alt="result are geometry drop copied on each particle point of the main group" class="wp-image-1221" /><figcaption>result are geometry drop copied on each particle point of the main group</figcaption></figure> <!-- /wp:image -->
 
-<!-- wp:paragraph -->
+<!-- wp:image {"id":1224} --><figure class="wp-block-image">
 
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-25.png" alt="" class="wp-image-1224" /><figcaption>Drop copy</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:heading -->
 
-<!-- /wp:paragraph -->
+## TRying to present the result and key houdini network elements in a Gallery forming a presentation that I want to evaluate the performance in term of: Is that enhancing the presentation?, does that make the viewing of description and title of each image in an appreciable manner? ...
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [foogallery id="1223"] 
+
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 
