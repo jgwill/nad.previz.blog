@@ -55,6 +55,10 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-18.png" alt="" class="wp-image-1206" width="402" height="393" /><figcaption>Stream part of the Pop network replicating the particle</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":1212} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-20.png" alt="" class="wp-image-1212" /><figcaption>342M caching of simulation geometry</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## References and Source material
