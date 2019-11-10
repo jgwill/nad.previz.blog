@@ -77,6 +77,16 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-23.png" alt="Particle group is named: &quot;main&quot; and later, operator can be applied only on that group" class="wp-image-1218" /><figcaption>Particle group is named: "main" and later, operator can be applied only on that group</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":1221} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-24.png" alt="result are geometry drop copied on each particle point of the main group" class="wp-image-1221" /><figcaption>result are geometry drop copied on each particle point of the main group</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 
 ## References and Source material
