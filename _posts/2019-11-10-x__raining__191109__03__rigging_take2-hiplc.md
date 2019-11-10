@@ -16,9 +16,9 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1197,"width":485,"height":555} --><figure class="wp-block-image is-resized">
+<!-- wp:image {"id":1197,"width":392,"height":449} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-13.png" alt="" class="wp-image-1197" width="485" height="555" /><figcaption>v1  
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-13.png" alt="" class="wp-image-1197" width="392" height="449" /><figcaption>v1 - All params are together  
 </figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1199,"width":412,"height":229} --><figure class="wp-block-image is-resized">
