@@ -67,6 +67,16 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-21.png" alt="" class="wp-image-1214" /></figure> <!-- /wp:image -->
 
+<!-- wp:heading {"level":3} -->
+
+### Particle group is named: "main" and later, operator can be applied only on that group
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1218} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-23.png" alt="Particle group is named: &quot;main&quot; and later, operator can be applied only on that group" class="wp-image-1218" /><figcaption>Particle group is named: "main" and later, operator can be applied only on that group</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## References and Source material
