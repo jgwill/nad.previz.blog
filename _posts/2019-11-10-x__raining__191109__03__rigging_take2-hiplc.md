@@ -61,6 +61,6 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress items="{180474:W3BD9MZH}" style="apa"] 
+<!-- wp:shortcode --> [zotpress items="{180474:W3BD9MZH}" style="apa" files="true"] 
 
 <!-- /wp:shortcode -->
