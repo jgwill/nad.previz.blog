@@ -29,3 +29,23 @@ As I create, I am adding key parameter of my network to the parent node with def
 <!-- wp:image {"id":1200,"width":420,"height":226} --><figure class="wp-block-image is-resized">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-15.png" alt="" class="wp-image-1200" width="420" height="226" /><figcaption>v2 - Reorganized Rain interface into folders (tabs)</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Now the rain replicates itself when hitting the colliding object
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1203} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-16.png" alt="" class="wp-image-1203" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1204} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-17.png" alt="" class="wp-image-1204" /></figure> <!-- /wp:image -->
