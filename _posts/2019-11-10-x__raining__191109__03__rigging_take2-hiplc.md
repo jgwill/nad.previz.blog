@@ -95,6 +95,20 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <!-- /wp:shortcode -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:core-embed/youtube {"url":"https://youtu.be/MEY1jDN_CjY"} --><figure class="wp-block-embed-youtube wp-block-embed">
+
+<div class="wp-block-embed__wrapper">
+  https://youtu.be/MEY1jDN_CjY
+</div></figure> 
+
+<!-- /wp:core-embed/youtube -->
+
 <!-- wp:heading -->
 
 ## References and Source material
