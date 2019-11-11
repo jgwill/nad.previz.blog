@@ -87,7 +87,7 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <!-- wp:heading -->
 
-## TRying to present the result and key houdini network elements in a Gallery forming a presentation that I want to evaluate the performance in term of: Is that enhancing the presentation?, does that make the viewing of description and title of each image in an appreciable manner? ...
+## Trying to present the result and key houdini network elements in a Gallery forming a presentation that I want to evaluate the performance in term of: Is that enhancing the presentation?, does that make the viewing of description and title of each image in an appreciable manner? ...
 
 <!-- /wp:heading -->
 
@@ -101,7 +101,7 @@ As I create, I am adding key parameter of my network to the parent node with def
 
 <!-- /wp:more -->
 
-<!-- wp:core-embed/youtube {"url":"https://youtu.be/MEY1jDN_CjY"} --><figure class="wp-block-embed-youtube wp-block-embed">
+<!-- wp:core-embed/youtube {"url":"https://youtu.be/MEY1jDN_CjY","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
   https://youtu.be/MEY1jDN_CjY
