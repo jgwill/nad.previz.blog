@@ -3,7 +3,10 @@ ID: 1196
 post_title: >
   x__raining__191109__03__Rigging_take2.hiplc
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  This post exposes some of the part of
+  this experimentation creating particle
+  network in houdini
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/11/10/x__raining__191109__03__rigging_take2-hiplc/
@@ -15,6 +18,10 @@ post_date: 2019-11-10 00:50:58
 As I create, I am adding key parameter of my network to the parent node with default value. I am expecting this to help integrating the knowledge and generate an optimal re-usability for this type of effect. (Even though the first iteration might not be quite flexible and reusable, the UI classification and params gives an idea of what to connect)
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1243} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-27-1024x583.png" alt="" class="wp-image-1243" /><figcaption>Top geometry network</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1216} --><figure class="wp-block-image">
 
