@@ -33,6 +33,6 @@ Experimentation to generate realistic ocean waves
 
 <!-- /wp:more -->
 
-<!-- wp:shortcode --> [spin360 canvas_name="x\_\_ocean\_\_191110\_\_01_large_with_white" imgs_folder="x\_\_ocean\_\_191110\_\_01_large_with_white/" imgs_nbr=140 aspect_ratio=1.778 speed=1 
+<!-- wp:shortcode --> [spin360 canvas_name="x\_\_ocean\_\_191110\_\_01_large_with_white" imgs_folder="x\_\_ocean\_\_191110\_\_01_large_with_white/" imgs_nbr=140 aspect_ratio=1.778 speed=1] 
 
 <!-- /wp:shortcode -->
