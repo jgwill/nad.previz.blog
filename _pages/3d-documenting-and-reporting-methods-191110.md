@@ -31,7 +31,7 @@ I want to document the little actions I have done to document my creative work t
 
 <!-- wp:image {"id":1232} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-26-1024x664.png" alt="Action verbs as an understanding of non-linear Houdini network" class="wp-image-1232" /><figcaption>Action verbs as an understanding of non-linear Houdini network</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-26-1024x664.png" alt="Action verbs as an understanding of non-linear Houdini network - Documenting the process and making it clear for other" class="wp-image-1232" /><figcaption>Action verbs as an understanding of non-linear Houdini network</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
