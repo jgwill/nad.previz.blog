@@ -27,6 +27,12 @@ Why do we diagram?
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress tags="@STCGoal Diagramming" notes="true" files="true"] 
+<!-- wp:heading -->
+
+## Zotero Bibliography, Files and Notes
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [zotpress tags="diagramming" notes="true" files="true"] 
 
 <!-- /wp:shortcode -->
