@@ -27,9 +27,9 @@ Why do we diagram?
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1292} --><figure class="wp-block-image">
+<!-- wp:image {"id":1292,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-29-1024x576.png" alt="diagramming environment" class="wp-image-1292" /></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-29.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-29-1024x576.png" alt="diagramming environment" class="wp-image-1292" /></a></figure> <!-- /wp:image -->
 
 <!-- wp:heading -->
 
