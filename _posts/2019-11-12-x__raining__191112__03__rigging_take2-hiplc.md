@@ -1,0 +1,21 @@
+---
+ID: 1295
+post_title: >
+  x__raining__191112__03__Rigging_take2.hiplc
+author: gicomadmin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/11/12/x__raining__191112__03__rigging_take2-hiplc/
+published: true
+post_date: 2019-11-12 14:39:54
+---
+<!-- wp:paragraph -->
+
+I want to enhance the realistic effect of water - Motion blur, Depth of field
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1296} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-30.png" alt="" class="wp-image-1296" /></figure> <!-- /wp:image -->
