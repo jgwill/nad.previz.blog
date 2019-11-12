@@ -25,3 +25,10 @@ I want to enhance the realistic effect of water - Motion blur, Depth of field
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-31.png" alt="" class="wp-image-1298" /><figcaption>Camera View  
 Near Clipping was push a little further to remove large drop</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1300} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-32.png" alt="" class="wp-image-1300" /><figcaption>A mantra PBR was created and:   
+>Enable Depth of Field  
+>Allow Motion Blur  
+options were turned on</figcaption></figure> <!-- /wp:image -->
