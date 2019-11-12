@@ -18,9 +18,9 @@ post_date: 2019-11-12 18:12:54
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1312} --><figure class="wp-block-image">
+<!-- wp:image {"id":1312,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-35-1024x572.png" alt="" class="wp-image-1312" /></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-35.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-35-1024x572.png" alt="" class="wp-image-1312" /></a><figcaption>Uncorrected rendered pic</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":1310} --><figure class="wp-block-image">
 
