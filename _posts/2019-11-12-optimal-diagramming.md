@@ -1,6 +1,6 @@
 ---
 ID: 1278
-post_title: Optimal Diagramming
+post_title: Article on Optimal Diagramming
 author: gicomadmin
 post_excerpt: ""
 layout: post
