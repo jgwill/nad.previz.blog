@@ -1,7 +1,6 @@
 ---
 ID: 1185
-post_title: >
-  x__fluid__anim_obj__water__191109__01__Flat_Tank
+post_title: 'Trail &#8211; x__fluid__anim_obj__water__191109__01__Flat_Tank'
 author: gicomadmin
 post_excerpt: >
   A first experimentation using Houdini
