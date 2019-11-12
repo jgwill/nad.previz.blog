@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/2019/11/12/7art802-lecture-la-representation-comme-fiction/
+  http://guillaumeisabelle.com/nad-previz/2019/11/12/7art802-lecture-191112-la-representation-comme-fiction/
 published: true
 post_date: 2019-11-12 10:21:30
 ---
