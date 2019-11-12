@@ -16,6 +16,6 @@ Experimentation of Particle networking - result are rain drop, splashing and sli
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191109\_\_03\_\_Rigging_take2" imgs_folder="x\_\_raining\_\_191109\_\_03\_\_Rigging_take2/" imgs_nbr=72 aspect_ratio=1.778 speed=1] 
+<!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191109\_\_03\_\_Rigging_take2" imgs_folder="x\_\_raining\_\_191109\_\_03\_\_Rigging_take2/" imgs_nbr=72 aspect_ratio=1.778 speed=1 gesture="vertical"] 
 
 <!-- /wp:shortcode -->
