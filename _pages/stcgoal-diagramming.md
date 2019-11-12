@@ -27,6 +27,10 @@ Why do we diagram?
 
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":1292} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-29-1024x576.png" alt="diagramming environment" class="wp-image-1292" /></figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## Zotero Bibliography, Files and Notes
