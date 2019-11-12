@@ -27,11 +27,35 @@ Goal : Optimal Diagramming
 
 <!-- /wp:heading -->
 
+<!-- wp:image {"id":1285} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/pipeline-gulp-sequence.png" alt="" class="wp-image-1285" /></figure> <!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+
+### State
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1286} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/pipeline-gulp-state.png" alt="" class="wp-image-1286" /></figure> <!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+
+### Classes
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
 
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1287} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/pipeline-gulp-class.png" alt="" class="wp-image-1287" /></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
