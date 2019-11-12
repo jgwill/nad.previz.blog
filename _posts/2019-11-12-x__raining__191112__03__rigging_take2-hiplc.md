@@ -18,4 +18,10 @@ I want to enhance the realistic effect of water - Motion blur, Depth of field
 
 <!-- wp:image {"id":1296} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-30.png" alt="" class="wp-image-1296" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-30.png" alt="" class="wp-image-1296" /><figcaption>Camera Sampling  
+</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1298} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-31.png" alt="" class="wp-image-1298" /><figcaption>Camera View  
+Near Clipping was push a little further to remove large drop</figcaption></figure> <!-- /wp:image -->
