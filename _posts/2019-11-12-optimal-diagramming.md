@@ -15,6 +15,24 @@ Goal : Optimal Diagramming
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## Sampling
+
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+
+### Sequencing
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 
 [zotpress tags="Optimal Diagramming" notes="true" abstract="true" files="true"]
