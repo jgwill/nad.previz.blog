@@ -27,6 +27,6 @@ Why do we diagram?
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress tags="@STCGoal Diagramming" notes="true"] 
+<!-- wp:shortcode --> [zotpress tags="@STCGoal Diagramming" notes="true" files="true"] 
 
 <!-- /wp:shortcode -->
