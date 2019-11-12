@@ -1,7 +1,6 @@
 ---
 ID: 1191
-post_title: >
-  x__fluid__anim_obj__water__191109__04__Flat_Tank__Dropping
+post_title: 'Out &#8211; x__fluid__anim_obj__water__191109__04__Flat_Tank__Dropping'
 author: gicomadmin
 post_excerpt: >
   In this experimentation, an animated
