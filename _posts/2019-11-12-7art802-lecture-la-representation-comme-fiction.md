@@ -1,11 +1,11 @@
 ---
 ID: 1256
-post_title: 7ART802-Lecture
+post_title: '7ART802-Lecture &#8211; La représentation comme fiction'
 author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/nad-previz/2019/11/12/7art802-lecture/
+  http://guillaumeisabelle.com/nad-previz/2019/11/12/7art802-lecture-la-representation-comme-fiction/
 published: true
 post_date: 2019-11-12 10:21:30
 ---
