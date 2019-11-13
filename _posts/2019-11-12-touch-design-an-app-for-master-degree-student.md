@@ -29,6 +29,6 @@ LPR used it to communicate his vision for his thesis art.
 
 <a href="https://derivative.ca/feature/high-performance-media-systems" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-37.png" alt="" class="wp-image-1335" /></a><figcaption> Ultra resolution video playback which maximizes your hardware power will let you do more with less. Complete customizability to dream up a media server for any unique requirement.   </figcaption></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":1337} --><figure class="wp-block-image">
+<!-- wp:image {"id":1337,"linkDestination":"custom"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-38.png" alt="" class="wp-image-1337" /><figcaption> Combining built-in 3D to simulate real-world objects, multi-projector outputs, and ultra resolution video engine, TouchDesigner is ready for any projection mapping project.  </figcaption></figure> <!-- /wp:image -->
+<a href="https://derivative.ca/feature/projection-mapping" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-38.png" alt="" class="wp-image-1337" /></a><figcaption> Combining built-in 3D to simulate real-world objects, multi-projector outputs, and ultra resolution video engine, TouchDesigner is ready for any projection mapping project.  </figcaption></figure> <!-- /wp:image -->
