@@ -24,3 +24,7 @@ LPR used it to communicate his vision for his thesis art.
 <!-- wp:image {"id":1333} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-36.png" alt="" class="wp-image-1333" /><figcaption> Native support for input devices, web connectivity, video and audio devices, and network-based communication. TouchDesigner is the hub that brings these all together. </figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1335,"linkDestination":"custom"} --><figure class="wp-block-image">
+
+<a href="https://derivative.ca/feature/high-performance-media-systems" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-37.png" alt="" class="wp-image-1335" /></a><figcaption> Ultra resolution video playback which maximizes your hardware power will let you do more with less. Complete customizability to dream up a media server for any unique requirement.   </figcaption></figure> <!-- /wp:image -->
