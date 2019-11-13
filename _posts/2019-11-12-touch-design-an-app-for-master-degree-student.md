@@ -14,3 +14,11 @@ post_date: 2019-11-12 21:52:03
 LPR used it to communicate his vision for his thesis art.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://derivative.ca/"} --><figure class="wp-block-embed">
+
+<div class="wp-block-embed__wrapper">
+  https://derivative.ca/
+</div></figure> 
+
+<!-- /wp:embed -->
