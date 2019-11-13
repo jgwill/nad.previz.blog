@@ -25,3 +25,13 @@ Comme exemple pour comprendre le principe de l’écart minimale
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/6283dba8-cce2-4098-8b6e-89c93538442d-547-00000066de7694f4.jpg" alt="" class="wp-image-1321" /><figcaption>**Magritte**  
 </figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## **Escher**
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1323} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/528b4514-38f9-4142-9949-84c1a5c16f47-547-000000677ca3c081.jpg" alt="" class="wp-image-1323" /><figcaption>**Escher**</figcaption></figure> <!-- /wp:image -->
