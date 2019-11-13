@@ -15,10 +15,12 @@ LPR used it to communicate his vision for his thesis art.
 
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://derivative.ca/"} --><figure class="wp-block-embed">
+<!-- wp:paragraph -->
 
-<div class="wp-block-embed__wrapper">
-  https://derivative.ca/
-</div></figure> 
+<https://derivative.ca/>
 
-<!-- /wp:embed -->
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1333} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-36.png" alt="" class="wp-image-1333" /><figcaption> Native support for input devices, web connectivity, video and audio devices, and network-based communication. TouchDesigner is the hub that brings these all together. </figcaption></figure> <!-- /wp:image -->
