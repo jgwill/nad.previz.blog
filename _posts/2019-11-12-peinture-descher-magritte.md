@@ -11,6 +11,6 @@ post_date: 2019-11-12 19:02:19
 ---
 <!-- wp:paragraph -->
 
-Comme exemple pour comprendre l’écart minimale 
+Comme exemple pour comprendre le principe de l’écart minimale 
 
 <!-- /wp:paragraph -->
