@@ -35,3 +35,15 @@ Comme exemple pour comprendre le principe de l’écart minimale
 <!-- wp:image {"id":1323} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/528b4514-38f9-4142-9949-84c1a5c16f47-547-000000677ca3c081.jpg" alt="" class="wp-image-1323" /><figcaption>**Escher**</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+Principes de générsrion
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+acceptation, supplémentation, reality principle, Mutual Belief Principle
+
+<!-- /wp:paragraph -->
