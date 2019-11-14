@@ -10,6 +10,10 @@ permalink: >
 published: true
 post_date: 2019-11-12 18:12:54
 ---
+<!-- wp:image {"id":1359,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-39-1024x574.png" alt="" class="wp-image-1359" /><figcaption>Increased quality of the rendering</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:paragraph {"customTextColor":"#a30000","customBackgroundColor":"#9be1ff"} -->
 
 <p style="background-color:#9be1ff;color:#a30000" class="has-text-color has-background">
