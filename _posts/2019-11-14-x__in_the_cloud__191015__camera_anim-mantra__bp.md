@@ -12,7 +12,7 @@ post_date: 2019-11-14 14:28:59
 ---
 <!-- wp:heading {"level":3} -->
 
-### Observing 3D Volumetric Mandelbrot Fractal Cloud paralax as the dolly in occurs
+### Observing 3D Volumetric Mandelbrot Fractal Cloud paralax as the dolly in occurs, by Guillaume Descoteaux-Isabelle
 
 <!-- /wp:heading -->
 
