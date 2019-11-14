@@ -28,9 +28,7 @@ x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [spin360 canvas_name="x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud" imgs_folder="x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud/" imgs_nbr=240 aspect_ratio=1.778 speed=1] 
-
-<!-- /wp:shortcode -->
+<!-- wp:block {"ref":1357} /-->
 
 <!-- wp:heading {"level":3} -->
 
