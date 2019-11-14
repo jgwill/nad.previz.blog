@@ -22,6 +22,16 @@ post_date: 2019-11-14 14:28:59
 
 <!-- /wp:separator -->
 
+<!-- wp:paragraph -->
+
+x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud
+
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode --> [spin360 canvas_name="x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud" imgs_folder="x\_\_in_the_cloud\_\_191019\_\_Camera_Anim\_\_paler_cloud/" imgs_nbr=240 aspect_ratio=1.778 speed=1] 
+
+<!-- /wp:shortcode -->
+
 <!-- wp:heading {"level":3} -->
 
 ### 
