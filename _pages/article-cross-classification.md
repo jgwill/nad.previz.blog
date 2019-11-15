@@ -29,6 +29,6 @@ post_date: 2019-11-15 16:49:06
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress tags="Cross-Classification" abstract="yes" notes="yes"] 
+<!-- wp:shortcode --> [zotpress tags="Cross-Classification" abstract="yes" notes="no"] 
 
 <!-- /wp:shortcode -->
