@@ -83,6 +83,14 @@ post_date: 2019-11-14 23:08:15
     </div>
     
     <!-- /wp:group -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/tyusezj.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/tyusezj.png
+    </div><figcaption>Final for today</figcaption></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
