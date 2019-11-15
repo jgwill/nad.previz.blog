@@ -9,9 +9,11 @@ permalink: >
 published: true
 post_date: 2019-11-15 16:49:06
 ---
-<!-- wp:paragraph -->
+<!-- wp:paragraph {"customBackgroundColor":"#f4ecd7"} -->
 
-Cross classification is a common issue I end up being a victim of. In this article, I want to expose that problematic and how I reoriented my classification strategies in order to avoid those and even more than just than, show up the innovation I've created and who transcend and dominates the problems of cross-classification
+<p style="background-color:#f4ecd7" class="has-background">
+  Cross classification is a common issue I end up being a victim of. In this article, I want to expose that problematic and how I reoriented my classification strategies in order to avoid those and even more than just than, show up the innovation I've created and who transcend and dominates the problems of cross-classification
+</p>
 
 <!-- /wp:paragraph -->
 
@@ -23,7 +25,7 @@ Cross classification is a common issue I end up being a victim of. In this artic
 
 <!-- wp:heading {"level":3} -->
 
-### Cross-Classification Tags
+### Cross-Classification Bibliography lib Tags
 
 <!-- /wp:heading -->
 
