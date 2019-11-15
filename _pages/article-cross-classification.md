@@ -1,0 +1,32 @@
+---
+ID: 1392
+post_title: Article-Cross-Classification
+author: gicomadmin
+post_excerpt: ""
+layout: page
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/article-cross-classification/
+published: true
+post_date: 2019-11-15 16:49:06
+---
+<!-- wp:paragraph -->
+
+Cross classification is a common issue I end up being a victim of. In this article, I want to expose that problematic and how I reoriented my classification strategies in order to avoid those and even more than just than, show up the innovation I've created and who transcend and dominates the problems of cross-classification
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### Cross-Classification Tags
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [zotpress tags="Cross-Classification" abstract="yes" notes="yes"] 
+
+<!-- /wp:shortcode -->
