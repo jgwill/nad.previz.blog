@@ -33,6 +33,14 @@ post_date: 2019-11-14 23:08:15
 
 <!-- /wp:core-embed/imgur -->
 
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/TWbF0IO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+<div class="wp-block-embed__wrapper">
+  https://i.imgur.com/TWbF0IO.png
+</div><figcaption>Final for today</figcaption></figure> 
+
+<!-- /wp:core-embed/imgur -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
