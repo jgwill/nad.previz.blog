@@ -36,7 +36,7 @@ post_date: 2019-11-15 16:49:06
 <!-- wp:button -->
 
 <div class="wp-block-button">
-  <a class="wp-block-button__link" href="http://guillaumeisabelle.com/nad-previz/?page_id=1398" target="_blank" rel="noreferrer noopener">Tagged as : Cross-Classification in my Bibliography</a>
+  <a class="wp-block-button__link" href="http://guillaumeisabelle.com/nad-previz/?page_id=1398" target="_blank" rel="noreferrer noopener">Open link Tagged as : Cross-Classification in my Bibliography</a>
 </div>
 
 <!-- /wp:button -->
