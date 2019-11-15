@@ -22,9 +22,27 @@ Those who knows me know I am not a fan of Microsoft product. STOP! Here is my li
 <!-- wp:paragraph -->
 
 Anyways, using Snip & Sketch is just a good example of being not really satisfied and not really having what I want (which is where you are when you problem-solve -> no problem is often not really what you want !!)  
-Snip & Sketch is 
+Snip & Sketch is one of those unsatisfying product resulting from Microsoft best efforts.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+It stopped working and instead of solving the problem, I oriented myself toward what I truely desire a screen capture app to do and organically got to ShareX which I appreciated after I figured out to reprogram the hotkey for the region capture.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Things I loved: 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+
+*   Automatically uploaded on the web, a url is available to use the media from another server than mine.
+
+<!-- /wp:list -->
 
 <!-- wp:image {"id":1366,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
