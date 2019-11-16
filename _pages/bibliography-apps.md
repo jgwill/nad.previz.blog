@@ -2,7 +2,7 @@
 ID: 685
 post_title: bibliography-apps
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "I plan to share references for Apps that are tagged: apps in my Bibliographic System"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/bibliography/bibliography-apps/
