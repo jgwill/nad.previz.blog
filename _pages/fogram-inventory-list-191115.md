@@ -2,7 +2,7 @@
 ID: 1491
 post_title: FOGRAM Inventory list 191115
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "An inventory of FOGRAM shooting and photogrammetry results"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/fogram-inventory-list-191115/
