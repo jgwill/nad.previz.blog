@@ -17,13 +17,13 @@ Le but de ce document est de servir de structure à la rédaction de mon travail
 
 <!-- wp:heading {"level":3} -->
 
-### Choix - Prévisualisation d'une étude de cas - Production réalisée par Robin Tremblay dans le contexte du NAD, un questionnement sur les fondements structuraux qui soutiennent les succès de ce réalisateur/enseignant/artiste/chercheur.
+## SUJET - Prévisualisation d'une étude de cas - Production réalisée par Robin Tremblay dans le contexte du NAD, un questionnement sur les fondements structuraux qui soutiennent les succès de ce réalisateur/enseignant/artiste/chercheur.
 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 
-Le cadre théorique utilisé sera celui de Robert Fritz
+Le cadre théorique utilisé sera celui de Robert Fritz.  Charte de tension structurale et moment de vérité de gestion.
 
 <!-- /wp:paragraph -->
 
