@@ -2,7 +2,7 @@
 ID: 1523
 post_title: Career
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Parent page to nest my career desire."
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/career/
