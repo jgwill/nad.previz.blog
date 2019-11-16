@@ -11,6 +11,6 @@ post_date: 2019-10-07 02:54:15
 ---
 <!-- wp:paragraph -->
 
-A front end a platform for creating
+A front end a platform for creating - A journal is a methodology for research (7ART800)
 
 <!-- /wp:paragraph -->
