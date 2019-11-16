@@ -2,7 +2,7 @@
 ID: 176
 post_title: Submarine sketch 190924
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Submarine ambiance using Clarisse IFX"
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/09/24/submarine-sketch-190924/
