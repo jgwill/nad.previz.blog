@@ -3,7 +3,7 @@ ID: 459
 post_title: >
   x__sunset__191003___11__VAR_F__Composition_Enhancement.project
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "A mistake of ambiance that turned out to be really nice look"
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/10/07/x__sunset__191003___11__var_f__composition_enhancement-project/
@@ -16,6 +16,6 @@ post_date: 2019-10-07 01:26:28
 
 <!-- wp:paragraph -->
 
-....
+A mistake of ambiance that turned out to be really nice look.
 
 <!-- /wp:paragraph -->
