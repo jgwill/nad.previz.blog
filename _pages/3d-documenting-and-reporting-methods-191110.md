@@ -1,10 +1,10 @@
 ---
 ID: 1228
 post_title: >
-  3D Documenting and reporting methods
+  Extending and documenting in Houdini - A 3D Documenting and reporting methods
   191110
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Working on mastering houdini, I came across a documenting pattern in my practice that both made whatever you are in my networks intention clear, along that I extended the interface of the parent note which lead to abstracting the important concepts to understand and choose by then which PARAMETERIZATION I would made.  The results is a reusable Raining network with a top level interface and also sub-level network also have their interface which is less abstract than the root one."
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/3d-documenting-and-reporting-methods-191110/
