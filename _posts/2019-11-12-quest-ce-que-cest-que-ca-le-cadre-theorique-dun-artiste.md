@@ -19,6 +19,6 @@ Questionnement pendant une présentation préviz
 
 <!-- wp:paragraph -->
 
-Les concepts importants
+un cadre théorique d'un artiste serait les concepts importants qu'il utilise pour créer.
 
 <!-- /wp:paragraph -->
