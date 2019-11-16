@@ -16,3 +16,9 @@ post_date: 2019-11-12 21:18:42
 Questionnement pendant une présentation préviz
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Les concepts importants
+
+<!-- /wp:paragraph -->
