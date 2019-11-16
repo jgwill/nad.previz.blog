@@ -2,7 +2,7 @@
 ID: 736
 post_title: bibliography-distributed-filesystem
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Distributed filesystem bibliography and references"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/bibliography/bibliography-distributed-filesystem/
