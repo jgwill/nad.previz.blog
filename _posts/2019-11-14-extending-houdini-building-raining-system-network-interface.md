@@ -95,3 +95,17 @@ post_date: 2019-11-14 23:08:15
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":1} -->
+
+# See part 2 > [Extending Houdini – Building Raining system network interface part 2][1]
+
+<!-- /wp:heading -->
+
+ [1]: http://guillaumeisabelle.com/nad-previz/?p=1439
