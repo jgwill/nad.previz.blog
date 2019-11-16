@@ -2,7 +2,7 @@
 ID: 793
 post_title: Art Ref
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Link to my art references that are in my Zotero library"
 layout: page
 permalink: >
   http://guillaumeisabelle.com/nad-previz/art-ref/
