@@ -18,10 +18,10 @@ Raining rig I am creating, by Guillaume Descoteaux-Isabelle, 2019
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1561,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
-
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-44-scaled.png" alt="" class="wp-image-1561" /></figure> <!-- /wp:image -->
-
 <!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191115\_\_11\_\_rig_x_with\_\_minerals\_\_thehole\_\_190604\_\_V2R3" imgs_folder="x\_\_raining\_\_191115\_\_11\_\_rig_x_with\_\_minerals\_\_thehole\_\_190604\_\_V2R3/" imgs_nbr=10 aspect_ratio=1.778 speed=1] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:image {"id":1561,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-44-scaled.png" alt="" class="wp-image-1561" /></figure> <!-- /wp:image -->
