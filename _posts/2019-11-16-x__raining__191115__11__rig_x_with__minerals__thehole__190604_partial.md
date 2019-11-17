@@ -22,5 +22,3 @@ Fogram Raining simulation experimentation, by Guillaume Descoteaux-Isabelle, 201
 <!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191115\_\_11\_\_rig_x_with\_\_minerals\_\_thehole\_\_190604_partial" imgs_folder="x\_\_raining\_\_191115\_\_11\_\_rig_x_with\_\_minerals\_\_thehole\_\_190604_partial/" imgs_nbr=20 aspect_ratio=1.778 speed=1] 
 
 <!-- /wp:shortcode -->
-
-<!-- wp:block {"ref":971} /-->
