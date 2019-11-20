@@ -15,7 +15,7 @@ Raining experimentation iteration 13 - Doubled the rain of i12, @STCMMOT Near cl
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191117\_\_13\_\_lots_of_rain" imgs_folder="x\_\_raining\_\_191117\_\_13\_\_lots_of_rain/" imgs_nbr=89 aspect_ratio=1.778 speed=1 gesture=vertical] 
+<!-- wp:shortcode --> [spin360 canvas_name="x\_\_raining\_\_191117\_\_13\_\_lots_of_rain" imgs_folder="x\_\_raining\_\_191117\_\_13\_\_lots_of_rain/" imgs_nbr=30 aspect_ratio=1.778 speed=1 gesture=vertical] 
 
 <!-- /wp:shortcode -->
 
