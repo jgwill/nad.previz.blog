@@ -19,6 +19,18 @@ Raining experimentation iteration 13 - Doubled the rain of i12, @STCMMOT Near cl
 
 <!-- /wp:shortcode -->
 
+<!-- wp:paragraph -->
+
+Previous post and related Raining references
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:shortcode --> [zotpress items="{180474:3PL3B4GM},{180474:UXR2I2NY},{180474:W3BD9MZH}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes" title="yes"] 
 
 <!-- /wp:shortcode -->
