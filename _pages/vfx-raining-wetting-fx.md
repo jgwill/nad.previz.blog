@@ -19,7 +19,7 @@ post_date: 2019-11-26 11:07:20
 
 <!-- wp:paragraph -->
 
-In this article, I’m documenting the different steps and annotate them on my learning of propagating in Houdini in order to generate the wet effect of water after the rain effect decimated few seconds later it has hit the surface. I am expecting to have a rendering of the model with the usual shading having been recomposed with layers that will make it look transparent and wet. I am also expecting it to have some glassy oscillation in the patterns giving the impression the water is slowly moving down on gravity.
+In this article, I’m am planning on documenting the different steps and annotate them on my learning of propagating in Houdini in order to generate the wet effect of water after the rain effect decimated few seconds later it has hit the surface. I am expecting to have a rendering of the model with the usual shading having been recomposed with layers that will make it look transparent and wet. I am also expecting it to have some glassy oscillation in the patterns giving the impression the water is slowly moving down on gravity.
 
 <!-- /wp:paragraph -->
 
