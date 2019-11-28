@@ -31,6 +31,30 @@ In this article, I’m am planning on documenting the different steps and annota
 
 <!-- wp:heading -->
 
+## Experimentation no 1-2
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+I have created the propagation network 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
 ## Bibliography and References
 
 <!-- /wp:heading -->
