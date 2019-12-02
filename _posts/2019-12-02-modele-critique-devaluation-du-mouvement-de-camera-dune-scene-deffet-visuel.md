@@ -15,8 +15,24 @@ Ce modèle sert à l'évaluation critique d'un mouvement de caméra afin d'attei
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
+<hr class="wp-block-separator" />
 
+<!-- /wp:separator -->
 
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+
+## Références et Bibliographie
+
+<!-- /wp:heading -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:block {"ref":1684} /-->
+  </div>
+</div>
+
+<!-- /wp:group -->
