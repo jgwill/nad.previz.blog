@@ -28,6 +28,9 @@ I want to clarify and get the picture of what is a "methodology" in context of a
 <!-- wp:list -->
 
 *   Clarity of what is a methodology in context of a research in art
-    *   What is an "acceptable research"?
+    *   What is an "acceptable research"? ([VIEW SUBARTICLE][1])
+*   
 
 <!-- /wp:list -->
+
+ [1]: http://guillaumeisabelle.com/nad-previz/?p=1724
