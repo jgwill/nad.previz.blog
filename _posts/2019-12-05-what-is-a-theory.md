@@ -17,3 +17,27 @@ post_date: 2019-12-05 14:05:52
 It is a large group of concepts that you can use to understand reality or to describe a phenomenon.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Context
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+I am a master degree student at UQAC NAD and my comprehension to this adjustment period of 4 months (session 1) was that I am confuse about what basic term such as **theory **means.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Issues
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+I am unable to find a "**theorical framework" **for my research.
+
+<!-- /wp:paragraph -->
