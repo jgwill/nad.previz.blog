@@ -38,3 +38,15 @@ Generating knowledge taht is superior to the technical level of mastering art co
 *   
 
 <!-- /wp:list -->
+
+<!-- wp:heading -->
+
+## Hythothesis
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Must be so well documented that another artist/researcher is able to reproduce the artistic experimentation and use the methodology to reproduce the meta-artistic aspect of the research
+
+<!-- /wp:list -->
