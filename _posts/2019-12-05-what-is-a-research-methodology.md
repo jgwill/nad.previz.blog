@@ -19,8 +19,15 @@ I want to clarify and get the picture of what is a "methodology" in context of a
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:heading -->
 
+## Desired Results
 
+<!-- /wp:heading -->
 
-<!-- /wp:paragraph -->
+<!-- wp:list -->
+
+*   Clarity of what is a methodology in context of a research in art
+    *   What is an "acceptable research"?
+
+<!-- /wp:list -->
