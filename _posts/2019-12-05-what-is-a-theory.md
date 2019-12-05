@@ -41,3 +41,33 @@ I am a master degree student at UQAC NAD and my comprehension to this adjustment
 I am unable to find a "**theorical framework" **for my research.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Questions
+
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+
+### Do a Clarification of What is a theory would bring an acceptable understanding of the principles required to pursuit of an intellectually rigorous research in Art (or any domain of research)
+
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Results
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Glossary : Theory
+
+<!-- /wp:paragraph -->
