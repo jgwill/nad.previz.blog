@@ -15,7 +15,7 @@ post_date: 2019-12-05 14:33:48
 ---
 <!-- wp:paragraph -->
 
-I want to clarify and get the picture of what is a "methodology" in context of a research in art.
+I want to clarify and get the picture of what is a **methodology **in ***context ***of a **research in art**.
 
 <!-- /wp:paragraph -->
 
