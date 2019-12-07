@@ -10,7 +10,7 @@ layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/05/what-is-a-theory/
 published: true
-post_date: 2019-12-05 14:05:52
+post_date: 2019-12-05 09:05:52
 ---
 <!-- wp:paragraph -->
 
@@ -53,6 +53,18 @@ I am unable to find a "**theorical framework" **for my research.
 ### Do a Clarification of What is a theory would bring an acceptable understanding of the principles required to pursuit of an intellectually rigorous research in Art (or any domain of research)
 
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Is there a different type of theory?
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
 
 <!-- wp:separator -->
 
