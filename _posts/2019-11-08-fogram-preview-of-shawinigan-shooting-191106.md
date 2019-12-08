@@ -9,6 +9,14 @@ permalink: >
 published: true
 post_date: 2019-11-08 13:16:06
 ---
+<!-- wp:paragraph {"customBackgroundColor":"#ffda9b"} -->
+
+<p style="background-color:#ffda9b" class="has-background">
+  STATUS: <strong>NEGATED</strong><br />REASON: An HDRI of the Sky has to be shot to recreate the water and light the foreground.
+</p>
+
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 
 I got few background plates from shooting while moving out my stuff from Shawinigan (good distraction because moving my stuff is not something I love but must do for my comfort in Montreal while doing my Master degree at NAD school)
