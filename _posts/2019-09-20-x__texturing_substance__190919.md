@@ -18,8 +18,14 @@ post_date: 2019-09-20 18:37:15
 
 <!-- /wp:paragraph -->
 
-<!-- wp:block-lab/stc-vision-block {"vision":"--@STCGoal Can Substance alchemist generate shading material and texture maps using photogrammetry? ","dtdue":"190925"} /-->
+<!-- wp:block-lab/stc-vision-block {"vision":"--@STCGoal @q Can Substance alchemist generate shading material and texture maps using photogrammetry? ","dtdue":"190925"} /-->
 
+<!-- wp:paragraph -->
+
+--@STCIssue Specular mapping, bumping and other sort of maps are painted manually when in fact, reality has those information available right there to mesure.
+
+
+<!-- /wp:paragraph -->
 <!-- wp:heading -->
 
 ## Results
