@@ -1,0 +1,34 @@
+---
+ID: 1761
+post_title: 'Qu&#8217;est-ce qu&#8217;un cadre théorique en recherche ?'
+author: gicomadmin
+post_excerpt: "Qu'est-ce qu'un cadre théorique en recherche ?"
+layout: post
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/12/13/quest-ce-quun-cadre-theorique-en-recherche/
+published: true
+post_date: 2019-12-13 15:44:16
+---
+<!-- wp:paragraph -->
+
+Je me questionne : qu'est-ce qu'un cadre théorique en recherche ?  
+Le but de ce questionnement est de résoudre à une compréhension suffisante pour le construire.   
+**Contexte : **Artiste en recherche création aillaint besoin d'une perspective d'artiste faisant une recherche.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Possible références
+
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode --> [zotpress items="{180474:SAN4A4P6}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
+
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode /-->
+
+<!-- wp:shortcode --> [zotpress tags="CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
+
+<!-- /wp:shortcode -->
