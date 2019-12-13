@@ -1,10 +1,11 @@
 ---
-ID: 
-post_title: 'My new post'
-author: gicomadmin
-post_excerpt: "a new post created by GIT"
+ID: 1797
+post_title: My new post
+author: guillaume
+post_excerpt: ""
 layout: post
-permalink: 
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/12/13/my-new-post/
 published: true
 post_date: 2019-12-13 15:44:16
 ---
@@ -16,12 +17,11 @@ un nouveau poste - j'aimerais publier des references automatiquement avec GIT da
 
 <!-- wp:heading -->
 
-## Article Zotero - CadreThéorique  
-
+## Article Zotero - CadreThéorique
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress tags="article.CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
+<!-- wp:shortcode --> [zotpress tags="article.CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"]
 
 <!-- /wp:shortcode -->
 
@@ -37,6 +37,6 @@ un nouveau poste - j'aimerais publier des references automatiquement avec GIT da
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress tags="CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
+<!-- wp:shortcode --> [zotpress tags="CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"]
 
 <!-- /wp:shortcode -->
