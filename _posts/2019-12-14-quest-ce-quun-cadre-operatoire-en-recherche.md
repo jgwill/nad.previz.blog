@@ -35,4 +35,10 @@ Est-ce que c’est synonyme d’une méthodologie de recherche ?
 
 <!-- /wp:more -->
 
-<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif"} /-->
+<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif","postNumber":"5","postSort":"latest"} /-->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
