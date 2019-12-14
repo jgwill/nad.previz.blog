@@ -1,6 +1,6 @@
 ---
 ID: 1805
-post_title: 'S&#8217;imaginer le résultat à obtenir pendant la phase de réflection'
+post_title: '(Picturing) S&#8217;imaginer le résultat à obtenir pendant la phase de réflection'
 author: gicomadmin
 post_excerpt: >
   Imagining the desired end-result during
