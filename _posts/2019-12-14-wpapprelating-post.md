@@ -12,7 +12,7 @@ post_date: 2019-12-14 13:15:06
 <!-- wp:paragraph {"customBackgroundColor":"#f3d0ef"} -->
 
 <p style="background-color:#f3d0ef" class="has-background">
-  Vision : Related posting - Capable to relate post that has a "<strong>taxonomical</strong> relationship"
+  <strong>Vision </strong>: Related posting - Capable to relate post that has a "<strong>taxonomical</strong> relationship"
 </p>
 
 <!-- /wp:paragraph -->
