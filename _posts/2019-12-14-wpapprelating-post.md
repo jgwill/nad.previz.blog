@@ -16,3 +16,11 @@ post_date: 2019-12-14 13:15:06
 </p>
 
 <!-- /wp:paragraph -->
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/WcJhWpj.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+<div class="wp-block-embed__wrapper">
+  https://i.imgur.com/WcJhWpj.png
+</div></figure> 
+
+<!-- /wp:core-embed/imgur -->
