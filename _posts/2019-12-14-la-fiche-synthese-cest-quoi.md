@@ -64,3 +64,15 @@ Syn-thèse - donc le mot thèse fait partie de l’appellation.
 Intéressant et à suivre :)
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+
+### Ainsi, son contenus sera la seule source de **consultation** pendant les **différent**es **étapes** de **la recherche**.
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Quelles sont les étapes de ma recherche-création ?
+
+<!-- /wp:paragraph -->
