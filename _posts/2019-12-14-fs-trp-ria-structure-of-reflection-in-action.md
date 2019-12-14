@@ -30,3 +30,11 @@ Fiche Synthèse(FS) - "The Reflective Practitioner" : "Resea
 </div>
 
 <!-- /wp:embedpress/google-drawings-block -->
+
+<!-- wp:embedpress/google-slides-block {"url":"https://docs.google.com/presentation/d/e/2PACX-1vSca2Z6yjwxlV2Dc4OEINVQ0xEDuirxATDawc2KhgWE34FkDlcK5N7I0-3usbiXdaCqEMICltHwHFaM/pub?start=false\u0026loop=false\u0026delayms=3000","iframeSrc":"https://docs.google.com/presentation/d/e/2PACX-1vSca2Z6yjwxlV2Dc4OEINVQ0xEDuirxATDawc2KhgWE34FkDlcK5N7I0-3usbiXdaCqEMICltHwHFaM/embed?start=false\u0026loop=false\u0026delayms=3000"} -->
+
+<div class="ose-google-docs-presentation" class="wp-block-embedpress-google-slides-block">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSca2Z6yjwxlV2Dc4OEINVQ0xEDuirxATDawc2KhgWE34FkDlcK5N7I0-3usbiXdaCqEMICltHwHFaM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="450" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<!-- /wp:embedpress/google-slides-block -->
