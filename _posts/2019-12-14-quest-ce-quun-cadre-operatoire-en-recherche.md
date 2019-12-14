@@ -42,3 +42,13 @@ Est-ce que c’est synonyme d’une méthodologie de recherche ?
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
+
+<!-- wp:shortcode --> [zotpress tags="CadreOperatoire" abstract=yes notes=yes cite=yes download=yes] 
+
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
