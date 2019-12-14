@@ -23,9 +23,9 @@ See Picturing : “Picturing - Fritz.” Accessed December 13, 2019. <https://ww
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1807,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+<!-- wp:image {"id":1807,"width":134,"height":122,"sizeSlug":"large"} --><figure class="wp-block-image size-large is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-2.png" alt="" class="wp-image-1807" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-2.png" alt="" class="wp-image-1807" width="134" height="122" /></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
