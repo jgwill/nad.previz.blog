@@ -28,6 +28,12 @@ Le but de ce questionnement est de résoudre à une compréhension suffisante po
 
 <!-- /wp:heading -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 
 
 <!-- wp:shortcode --> [zotpress tags="article.CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
