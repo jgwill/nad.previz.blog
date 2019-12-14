@@ -25,7 +25,7 @@ I got few background plates from shooting while moving out my stuff from Shawini
 
 <!-- wp:paragraph -->
 
-Anyhow, here are some of them with intentions 
+Anyhow, here are some of them with intentions
 
 <!-- /wp:paragraph -->
 
@@ -37,7 +37,7 @@ The overall intention is creating an acceptable VFX synthesis of natural environ
 
 <!-- wp:paragraph -->
 
-To be continued 
+To be continued
 
 <!-- /wp:paragraph -->
 
@@ -47,19 +47,47 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1174,"width":384,"height":512} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6698-e1573269137655-768x1024.jpg" alt="" class="wp-image-1174" width="384" height="512" /><figcaption>foreground element (sample part of the photogrammetry set)</figcaption></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":1143,"linkDestination":"media"} --><figure class="wp-block-image">
+<!-- wp:image {"id":1174,"width":384,"height":512} --><figure class="wp-block-image is-resized"> 
 
-<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382-768x1024.jpg" alt="" class="wp-image-1143" /></a><figcaption>foreground and background reference plate</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6698-e1573269137655-768x1024.jpg" alt="" class="wp-image-1174" width="384" height="512" /><figcaption>foreground element (sample part of the photogrammetry set)</figcaption> 
 
-<!-- wp:image {"id":1144,"linkDestination":"media"} --><figure class="wp-block-image">
+</figure> 
 
-<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111-768x1024.jpg" alt="" class="wp-image-1144" /></a><figcaption>Sky element / comp ref  
-(this is ref as the 16 bit RAW are still on the SLR camera abstracting only the sky)  
-@PS. Also note the SLR Data are time laps ( 2 sequences of 200+ image 1fps 5k 16 bits</figcaption></figure> <!-- /wp:image -->
+<!-- /wp:image -->
+
+ 
+
+ 
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:image {"id":1143,"linkDestination":"media"} --><figure class="wp-block-image"> 
+
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6660-e1573268335382-768x1024.jpg" alt="" class="wp-image-1143" /></a><figcaption>foreground and background reference plate</figcaption> 
+
+</figure> 
+
+<!-- /wp:image -->
+
+
+
+
+
+<!-- wp:image {"id":1144,"linkDestination":"media"} --><figure class="wp-block-image"> 
+
+<a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111.jpg" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6656-e1573268568111-768x1024.jpg" alt="" class="wp-image-1144" /></a><figcaption>Sky element / comp ref (this is ref as the 16 bit RAW are still on the SLR camera abstracting only the sky) @PS. Also note the SLR Data are time laps ( 2 sequences of 200+ image 1fps 5k 16 bits</figcaption> 
+
+</figure> 
+
+<!-- /wp:image -->
+
+
 
 <!-- wp:paragraph -->
 
@@ -79,9 +107,17 @@ TODO Upload and embed the Water movement reference -St-Maurice River ((now I’m
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1153} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6735-576x1024.png" alt="" class="wp-image-1153" /><figcaption>Still of the 60fps 4K water reference movement </figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1153} --><figure class="wp-block-image"> 
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6735-576x1024.png" alt="" class="wp-image-1153" /><figcaption>Still of the 60fps 4K water reference movement </figcaption> 
+
+</figure> 
+
+<!-- /wp:image -->
+
+
 
 <!-- wp:paragraph -->
 
@@ -95,8 +131,14 @@ https://www.dropbox.com/s/luymfuwbcfvydyf/VFXnea\_\_ref\_\_calm_water__191107.mo
 
 <!-- /wp:heading -->
 
-<!-- wp:image {"id":1155,"linkDestination":"custom"} --><figure class="wp-block-image">
 
-[<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6734.png" alt="" class="wp-image-1155" />][1]<figcaption>Results of my first VUE Esprit experimentation (done thinking of components of this creation )</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1155,"linkDestination":"custom"} --><figure class="wp-block-image"> 
+
+[<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/img_6734.png" alt="" class="wp-image-1155" />][1]<figcaption>Results of my first VUE Esprit experimentation (done thinking of components of this creation )</figcaption> 
+
+</figure> 
+
+<!-- /wp:image -->
 
  [1]: http://guillaumeisabelle.com/nad-previz/2019/11/08/results-of-my-first-vue-esprit-experimentation/
