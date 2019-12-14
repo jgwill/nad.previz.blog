@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2019-12-14 13:15:06
 ---
+<!-- wp:heading -->
+
+## **Vision ** 
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph {"customBackgroundColor":"#f3d0ef"} -->
 
 <p style="background-color:#f3d0ef" class="has-background">
@@ -16,6 +22,30 @@ post_date: 2019-12-14 13:15:06
 </p>
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Issues:
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Choose a taxonomy
+
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
 
 <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/WcJhWpj.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
