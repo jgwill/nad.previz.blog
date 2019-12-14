@@ -9,11 +9,17 @@ permalink: >
 published: true
 post_date: 2019-12-13 17:23:35
 ---
-<!-- wp:paragraph -->
+<!-- wp:list -->
 
+*   why reading this ?
 
+<!-- /wp:list -->
 
-<!-- /wp:paragraph -->
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
 
 <!-- wp:shortcode --> [zotpress tag="TheFifthDiscipline" abstract="yes" cite="yes" download="yes" notes="yes"] 
 
