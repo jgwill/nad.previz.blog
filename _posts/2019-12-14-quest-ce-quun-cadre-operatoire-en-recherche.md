@@ -23,8 +23,16 @@ Est-ce que c’est synonyme d’une méthodologie de recherche ?
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
+<hr class="wp-block-separator" />
 
+<!-- /wp:separator -->
 
-<!-- /wp:paragraph -->
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif"} /-->
