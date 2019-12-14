@@ -53,8 +53,8 @@ Syn-thèse - donc le mot thèse fait partie de l’appellation.
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:heading {"level":3} -->
 
+### La fiche synthèse est une abstraction qui permet de réduire en quelques pages le contenu d’une référence sur laquelle la recherche et fondée.
 
-
-<!-- /wp:paragraph -->
+<!-- /wp:heading -->
