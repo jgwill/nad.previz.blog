@@ -40,3 +40,21 @@ J’ai rédigé ma thèse et elle contient une fondation théorique solide.
 </p>
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Un peu d’analyse de la racine du mot : synthèse (fiche).
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Syn-thèse - donc le mot thèse fait partie de l’appellation.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
