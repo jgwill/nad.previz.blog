@@ -20,3 +20,23 @@ A quelques jours de la fin de la session, avec 3 fiches à remettre, je me quest
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Vision du **résultat** final
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+J’ai rédigé ma thèse et elle contient une fondation théorique solide.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+
+<p class="has-text-align-right">
+  C’est un bon début !
+</p>
+
+<!-- /wp:paragraph -->
