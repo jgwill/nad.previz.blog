@@ -11,21 +11,24 @@ post_date: 2019-12-13 15:44:16
 ---
 <!-- wp:paragraph -->
 
+
+
 Je me questionne : qu'est-ce qu'un cadre théorique en recherche ?  
-Le but de ce questionnement est de résoudre à une compréhension suffisante pour le construire.   
-  
-**Contexte : **Artiste en recherche création aillaint besoin d'une perspective d'artiste faisant une recherche.  
-  
+Le but de ce questionnement est de résoudre à une compréhension suffisante pour le construire.
+
+**Contexte : **Artiste en recherche création aillaint besoin d'une perspective d'artiste faisant une recherche.
+
 **Concepts et intensions**: Doit pouvoir fournir à un artiste désirant faire une maitrise
 
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 
-## Article Zotero - CadreThéorique  
-
+## Article Zotero - CadreThéorique
 
 <!-- /wp:heading -->
+
+
 
 <!-- wp:shortcode --> [zotpress tags="article.CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
 
@@ -42,6 +45,8 @@ Le but de ce questionnement est de résoudre à une compréhension suffisante po
 **Possible références**
 
 <!-- /wp:paragraph -->
+
+
 
 <!-- wp:shortcode --> [zotpress tags="CadreTheorique" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
 
