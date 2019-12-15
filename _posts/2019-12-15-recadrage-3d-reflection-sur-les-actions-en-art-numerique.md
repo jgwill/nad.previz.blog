@@ -20,3 +20,7 @@ Propos : **Recadrage 3D : Réflection du processus de la création d’une sculp
 http://simp.ly/publish/mrxZhR
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1895} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/img_7341-scaled.jpg" alt="" class="wp-image-1895" /></figure> <!-- /wp:image -->
