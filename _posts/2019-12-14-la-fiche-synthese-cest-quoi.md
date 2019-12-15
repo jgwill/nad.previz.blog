@@ -17,7 +17,7 @@ A quelques jours de la fin de la session, avec 3 fiches à remettre, je me quest
 
 <!-- wp:paragraph -->
 
-Elle serait le résultat d’une lecture approfondie, de l’extraction des références pertinentes avec leur citation. Ces éléments sont synthétisées dans un document qui dorénavant sera la source utiliser pour rédiger.
+Elle serait le résultat d’une lecture approfondie, de l’extraction des références pertinentes avec leur citation. Ces éléments sont synthétisées dans un document qui dorénavant sera la source utilisée pour rédiger.
 
 <!-- /wp:paragraph -->
 
