@@ -17,8 +17,24 @@ In this experimentation, I want content to be feed to my blogging engine in less
 
 <!-- /wp:paragraph -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:image {"id":1915,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-3.png" alt="" class="wp-image-1915" /></figure> <!-- /wp:image -->
