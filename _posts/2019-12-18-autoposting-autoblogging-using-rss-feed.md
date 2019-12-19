@@ -38,3 +38,15 @@ In this experimentation, I want content to be feed to my blogging engine in less
 <!-- wp:image {"id":1915,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-3.png" alt="" class="wp-image-1915" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1919,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/002-post-type.png" alt="" class="wp-image-1919" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1920,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/003-choosing.CampaignCategories.png" alt="" class="wp-image-1920" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":1921,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/004-activating.ScheduledCron.foreachHour-updating-1024x242.png" alt="" class="wp-image-1921" /></figure> <!-- /wp:image -->
