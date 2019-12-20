@@ -1,7 +1,7 @@
 ---
 ID: 1845
 post_title: >
-  construire un cadre de travail
+  Construire un cadre de travail
   applicatif pour la recherche-création
   de la maitrise en art du NAD
 author: gicomadmin
@@ -16,6 +16,12 @@ post_date: 2019-12-14 14:52:25
 ---
 <!-- wp:block {"ref":1846} /-->
 
+<!-- wp:heading -->
+
+## Quelques actions du cadre...
+
+<!-- /wp:heading -->
+
 <!-- wp:list -->
 
 *   Construire
@@ -25,9 +31,9 @@ post_date: 2019-12-14 14:52:25
 *   Chercher
 *   Stocker
 *   Référencer
-*   Formaliser
+*   Formaliser 
     *   Présenter (Mettre en forme)
-*   
+*   ...
 
 <!-- /wp:list -->
 
@@ -49,6 +55,8 @@ post_date: 2019-12-14 14:52:25
 
 <!-- /wp:heading -->
 
+
+
 <!-- wp:shortcode --> [zotpress tags="WPApp.featuring"] 
 
 <!-- /wp:shortcode -->
@@ -58,6 +66,8 @@ post_date: 2019-12-14 14:52:25
 ### WPApp.relating
 
 <!-- /wp:heading -->
+
+
 
 <!-- wp:shortcode --> [zotpress tags="WPApp.relating"] 
 
