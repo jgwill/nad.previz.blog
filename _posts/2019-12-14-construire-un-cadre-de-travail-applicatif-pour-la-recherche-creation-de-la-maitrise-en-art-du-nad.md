@@ -37,6 +37,21 @@ post_date: 2019-12-14 14:52:25
 
 <!-- /wp:list -->
 
+<!-- wp:heading -->
+
+## Quelques résultats qui seraient produit par les applications de ce cadre de travail...
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Revue de litérature scientifique
+*   Cartographie (Corpus)
+*   Système de classement pour rédaction
+*   Outil de rédaction non-linéaire
+
+<!-- /wp:list -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
