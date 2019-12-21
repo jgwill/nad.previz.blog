@@ -29,6 +29,52 @@ Exploration :Creating a new post using GIT that has references already added in
 
 <!-- /wp:list -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Adding on Blocks for fun
+
+<!-- /wp:heading -->
+
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">Expandable content</summary><div class="ab-accordion-text">
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        These are nested
+      </li>
+      <li>
+        Under an expandable
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:heading -->
 
 ## Referenced Article
