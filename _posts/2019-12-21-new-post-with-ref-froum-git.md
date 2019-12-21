@@ -106,3 +106,21 @@ Exploration :Creating a new post using GIT that has references already added in
 [zotpress tags="nad.article" abstract=yes cite=yes download=yes]
 
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Referenced WPApp
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+[zotpress tags="WPApp" abstract=yes cite=yes download=yes]
+
+<!-- /wp:paragraph -->
