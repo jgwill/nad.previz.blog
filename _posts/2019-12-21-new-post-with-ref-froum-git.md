@@ -77,6 +77,26 @@ Exploration :Creating a new post using GIT that has references already added in
 
 <!-- wp:heading -->
 
+## ...
+
+<!-- /wp:heading -->
+
+<!-- wp:atomic-blocks/ab-button {"buttonText":"Blogging","buttonBackgroundColor":"#cf2e2e","buttonSize":"ab-button-size-extralarge"} -->
+
+<div class="wp-block-atomic-blocks-ab-button ab-block-button">
+  <a href="/blogging" class="ab-button ab-button-shape-rounded ab-button-size-extralarge" style="color:#ffffff;background-color:#cf2e2e">Blogging</a>
+</div>
+
+<!-- /wp:atomic-blocks/ab-button -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
 ## Referenced Article
 
 <!-- /wp:heading -->
