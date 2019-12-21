@@ -2,7 +2,9 @@
 ID: 1961
 post_title: WPApp.editing.blocks
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  An enhanced editing featuring the
+  separation into blocks
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/21/wpapp-editing-blocks/
@@ -11,7 +13,20 @@ post_date: 2019-12-21 06:29:34
 ---
 <!-- wp:paragraph -->
 
-Goal: Enhancing the editing context
+Goal: Enhancing the editing context. An enhanced editing featuring the separation into blocks
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+State: In progress  
+see: http://guillaumeisabelle.com/blogging/2019/12/21/custom-post-types-block-wordpress-plugin-wordpress-org/
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
 
 <!-- /wp:paragraph -->
 
@@ -27,30 +42,10 @@ Goal: Enhancing the editing context
 
 <!-- /wp:separator -->
 
-<!-- wp:group -->
+<!-- wp:block {"ref":1964} /-->
 
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      References
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"level":3} -->
-    
-    <h3>
-      WPApp.editing.blocks
-    </h3>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:shortcode --> [zotpress tags="WPApp.editing.blocks" abstract=yes notes=yes cite=yes download=yes] 
-    
-    <!-- /wp:shortcode -->
-  </div>
-</div>
+<!-- wp:paragraph -->
 
-<!-- /wp:group -->
+
+
+<!-- /wp:paragraph -->
