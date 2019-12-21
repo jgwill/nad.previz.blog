@@ -2,7 +2,7 @@
 ID: 1957
 post_title: Experimentation Type
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: 'Exploration : What are the different type of experimentation you can do while creating or researching?'
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/21/experimentation-type/
@@ -28,6 +28,18 @@ Exploration : What are the different type of experimentation you can do while cr
 *   ...
 
 <!-- /wp:list -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
 
 <!-- wp:heading -->
 
