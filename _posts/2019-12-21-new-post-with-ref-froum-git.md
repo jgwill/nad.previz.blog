@@ -1,12 +1,13 @@
 ---
-ID: 
+ID: 1978
 post_title: New post with REF froum GIT
-author: gicomadmin
-post_excerpt: "A post from GIT"
+author: guillaume
+post_excerpt: ""
 layout: post
-permalink: 
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/12/21/new-post-with-ref-froum-git/
 published: true
-post_date: 
+post_date: 2019-12-21 07:28:39
 ---
 <!-- wp:paragraph -->
 
