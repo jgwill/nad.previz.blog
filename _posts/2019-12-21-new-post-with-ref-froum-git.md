@@ -37,6 +37,6 @@ Exploration :Creating a new post using GIT that has references already added in
 
 <!-- wp:paragraph -->
 
-[zotpress tags="article" abstract=yes cite=yes download=yes]
+[zotpress tags="nad.article" abstract=yes cite=yes download=yes]
 
 <!-- /wp:paragraph -->
