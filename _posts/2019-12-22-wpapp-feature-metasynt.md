@@ -53,7 +53,7 @@ MetaSynt is a feature of WPApp that enables the creation of Synthesis data on to
     
     <div class="wp-block-embed__wrapper">
       https://i.imgur.com/MH2qDAK.png
-    </div><figcaption>
+    </div><figcaption>Hypothesis: 
     
     <strong>Does this could provide conversion of Markdown in Custom field into HTML when presenting ?</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
   </div>
