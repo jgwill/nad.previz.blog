@@ -400,7 +400,78 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/kVWCmWt.jpg
         </div><figcaption> 
         
-        <strong>Fig.4.2.23</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1</strong><br /><strong>Note: </strong>Significant bubbling out is completed</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.4.2.23</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><strong>Note: </strong>Significant bubbling out is completed</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Video : x__lava - dt-1.5, s54-e80, e5-2
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:atomic-blocks/ab-accordion -->
+        
+        <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+          <details><summary class="ab-accordion-title"> Video : x__lava - dt-1.5, s54-e80, e5-2 </summary><div class="ab-accordion-text">
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=zN3ea0hNQp0\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+            
+            <div class="wp-block-embed__wrapper">
+              https://www.youtube.com/watch?v=zN3ea0hNQp0&feature=youtu.be
+            </div></figure> 
+            
+            <!-- /wp:core-embed/youtube -->
+          </div></details>
+        </div>
+        
+        <!-- /wp:atomic-blocks/ab-accordion -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          ...
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:atomic-blocks/ab-accordion -->
+        
+        <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+          <details><summary class="ab-accordion-title"> Video : x__lava - dt-1.5, s54-e110, e5-2 </summary><div class="ab-accordion-text">
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=cvtmMmOnbwU\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+            
+            <div class="wp-block-embed__wrapper">
+              https://www.youtube.com/watch?v=cvtmMmOnbwU&feature=youtu.be
+            </div></figure> 
+            
+            <!-- /wp:core-embed/youtube -->
+          </div></details>
+        </div>
+        
+        <!-- /wp:atomic-blocks/ab-accordion -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Next is reducing Life Expectancy...
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:atomic-blocks/ab-accordion -->
+        
+        <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+          <details><summary class="ab-accordion-title"> Video : x__lava - dt-1.5, s54-e110, e3-1.5 </summary><div class="ab-accordion-text">
+            <!-- wp:paragraph -->
+            
+            <p>
+            </p>
+            
+            <!-- /wp:paragraph -->
+          </div></details>
+        </div>
+        
+        <!-- /wp:atomic-blocks/ab-accordion -->
       </div></details>
     </div>
     
