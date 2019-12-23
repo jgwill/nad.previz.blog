@@ -196,7 +196,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/ReKEX1z.jpg
         </div><figcaption>
         
-        <strong>Fig.3.2.<br /></strong><br />Ending value 90</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.2.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <strong><br /></strong><br />Ending value 90</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:heading -->
         
@@ -212,7 +212,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/SCZvatX.jpg
         </div><figcaption>
         
-        <strong>Fig.3.3.</strong><br /><br />Sounds like yes</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.3.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br />Sounds like yes</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Nzsl9os.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
@@ -236,7 +236,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/dWeFQTG.jpg
         </div><figcaption>
         
-        <strong>Fig.3.5.</strong><br /><br />Still no changes bu<strong><em>t I suspect the reset did not worked</em></strong>...</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.5.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br />Still no changes bu<strong><em>t I suspect the reset did not worked</em></strong>...</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -252,7 +252,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/2fkrSmI.jpg
         </div><figcaption>
         
-        <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline;">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline;">Tandrils/Ending:</span> <strong> 70</strong><br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline;">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline;">Tandrils/Ending:</span> <strong> 70</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -268,7 +268,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/08F1Oii.jpg
         </div><figcaption> 
         
-        <strong>Fig.3.6.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.6.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -360,7 +360,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/08F1Oii.jpg
         </div><figcaption> 
         
-        <strong>Fig.4.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.0</strong><br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.4.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.0</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -376,7 +376,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/CgIChZz.png
         </div><figcaption>
         
-        <strong> Fig.4.2.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong> Fig.4.2.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -392,7 +392,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/RCyLeCv.jpg
         </div><figcaption> 
         
-        <strong>Fig.4.2.2.</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.4.2.2.</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Life : Exp: 5 / 2</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/kVWCmWt.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
