@@ -83,7 +83,7 @@ post_date: 2019-12-23 01:27:50
         
         <!-- /wp:paragraph -->
         
-        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/9qqiPiF.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/9qqiPiF.jpg","type":"rich","providerNameSlug":"imgur","allowResponsive":false,"className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/9qqiPiF.jpg
@@ -107,7 +107,7 @@ post_date: 2019-12-23 01:27:50
         
         <!-- /wp:paragraph -->
         
-        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/LJqkHGQ.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/LJqkHGQ.jpg","type":"rich","providerNameSlug":"imgur","allowResponsive":false,"className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/LJqkHGQ.jpg
@@ -477,6 +477,36 @@ post_date: 2019-12-23 01:27:50
     </div>
     
     <!-- /wp:atomic-blocks/ab-accordion -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="houdini-issue-temp">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Houdini Issue with Temp
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/evlhVav.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/evlhVav.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
