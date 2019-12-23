@@ -236,7 +236,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/dWeFQTG.jpg
         </div><figcaption>
         
-        <strong>Fig.3.5.</strong><br /><br />Still no changes but I suspect the reset did not worked...</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.5.</strong><br /><br />Still no changes bu<strong><em>t I suspect the reset did not worked</em></strong>...</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -261,6 +261,14 @@ post_date: 2019-12-23 01:27:50
         </p>
         
         <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/08F1Oii.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/08F1Oii.jpg
+        </div><figcaption> 
+        
+        <strong>Fig.3.6.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
