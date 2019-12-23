@@ -196,6 +196,22 @@ post_date: 2019-12-23 01:27:50
         
         <!-- /wp:core-embed/imgur -->
         
+        <!-- wp:heading -->
+        
+        <h2>
+          Was that no changes issue because of the tandrils simulation not being reset?
+        </h2>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/SCZvatX.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/SCZvatX.jpg
+        </div><figcaption>Sounds like yes</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
         <!-- wp:paragraph -->
         
         <p>
@@ -222,11 +238,27 @@ post_date: 2019-12-23 01:27:50
         Not much affect or it is bugged
       </li>
       <li>
-        Is it <strong>because of the Tandrils simulation not being reset ??</strong>
+        Is it <strong>because of the Tandrils simulation not being reset ??</strong> YES
       </li>
     </ul>
     
     <!-- /wp:list -->
+    
+    <!-- wp:heading -->
+    
+    <h2>
+      Taken action
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Nzsl9os.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/Nzsl9os.png
+    </div><figcaption>
+    
+    <strong>Upgraded with two reset</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
