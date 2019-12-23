@@ -41,8 +41,13 @@ post_date: 2019-12-23 01:27:50
     
     <ul>
       <li>
-        EndFrame of the Emitted Tandrils
+        EndFrame of the Emitted Tandrils<ul>
+          <li>
+            <strong>Limitation: </strong>To reset the changes of ending value, the Tandrils simulation must be reset
+          </li>
+        </ul>
       </li>
+      
       <li>
         Distance affecting Lava
       </li>
