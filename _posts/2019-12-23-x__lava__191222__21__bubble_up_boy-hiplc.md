@@ -374,17 +374,25 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/CgIChZz.png
-        </div><figcaption> 
+        </div><figcaption>
         
-        <strong>Fig.4.2.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.</strong>5<br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong> Fig.4.2.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
         <p>
-          Fig 4.2 shows clear difference
+          Fig 4.2.1 shows clear difference
         </p>
         
         <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RCyLeCv.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/RCyLeCv.jpg
+        </div><figcaption> 
+        
+        <strong>Fig.4.2.2.</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
