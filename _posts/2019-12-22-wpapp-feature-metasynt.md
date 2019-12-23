@@ -81,10 +81,10 @@ cp content-single.php content-single.php.ori
     
     <!-- /wp:heading -->
     
-    <!-- wp:atomic-blocks/ab-accordion -->
+    <!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-      <details><summary class="ab-accordion-title">src/gi_wp_content__1910/themes/generatepress/content-single.php</summary><div class="ab-accordion-text">
+      <details open><summary class="ab-accordion-title">src/gi_wp_content__1910/themes/generatepress/content-single.php</summary><div class="ab-accordion-text">
         <!-- wp:code {"language":"php"} -->
         
         <pre class="wp-block-code"><code>//cat src/gi_wp_content__1910/themes/generatepress/content-single.php
@@ -114,7 +114,7 @@ use Michelf\Markdown;
 &lt;!-- Added by Guillaume 191222 to display custom field concepts, context etc
 STARTS from : https://www.advancedcustomfields.com/  -->
 &lt;hr>
-&lt;a name="metasynt">&nbsp; &lt;/a>
+&lt;a name="metasynt">  &lt;/a>
 
 
 &lt;?php global $current_user;
@@ -230,10 +230,10 @@ END -->
     
     <!-- /wp:heading -->
     
-    <!-- wp:atomic-blocks/ab-accordion -->
+    <!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-      <details><summary class="ab-accordion-title">CSS Stylesheet code</summary><div class="ab-accordion-text">
+      <details open><summary class="ab-accordion-title">CSS Stylesheet code</summary><div class="ab-accordion-text">
         <!-- wp:code {"language":"css"} -->
         
         <pre class="wp-block-code"><code>.mes_field_border {
