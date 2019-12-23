@@ -253,6 +253,21 @@ post_date: 2019-12-23 01:27:50
         </div><figcaption>
         
         <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline;">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline;">Tandrils/Ending:</span> <strong> 70</strong><br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Next is Ending at : 120
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+        </p>
+        
+        <!-- /wp:paragraph -->
       </div></details>
     </div>
     
@@ -261,7 +276,7 @@ post_date: 2019-12-23 01:27:50
     <!-- wp:heading -->
     
     <h2>
-      Conclusions
+      Conclusions and Observations
     </h2>
     
     <!-- /wp:heading -->
