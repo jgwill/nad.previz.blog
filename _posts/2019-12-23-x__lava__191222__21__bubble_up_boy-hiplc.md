@@ -15,11 +15,13 @@ post_date: 2019-12-23 01:27:50
 
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
+<!-- wp:list -->
 
+*   EndFrame of the Emitted Tandrils
+*   Distance affecting Lava
+*   
 
-
-<!-- /wp:paragraph -->
+<!-- /wp:list -->
 
 <!-- wp:separator -->
 
