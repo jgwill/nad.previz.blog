@@ -176,9 +176,24 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/4G09i9r.jpg
-        </div></figure> 
+        </div><figcaption>Ending value : 99</figcaption></figure> 
         
         <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Next is : 90
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+        </p>
+        
+        <!-- /wp:paragraph -->
       </div></details>
     </div>
     
