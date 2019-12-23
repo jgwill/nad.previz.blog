@@ -44,10 +44,34 @@ MetaSynt is a feature of WPApp that enables the creation of Synthesis data on to
     <!-- wp:heading -->
     
     <h2>
-      ...
+      Installation
     </h2>
     
     <!-- /wp:heading -->
+    
+    <!-- wp:atomic-blocks/ab-accordion -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details><summary class="ab-accordion-title">Install using Bash </summary><div class="ab-accordion-text">
+        <!-- wp:code {"language":"bash"} -->
+        
+        <pre class="wp-block-code"><code>#!/bin/bash
+
+#Change dir
+cd wp/content/themes/generatepress
+
+# clone the PHP Markdown (yeah might be better place than there, I know)
+git clone https://github.com/michelf/php-markdown.git
+
+#Backup ori file
+cp content-single.php content-single.php.ori
+</code></pre>
+        
+        <!-- /wp:code -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
     
     <!-- wp:heading -->
     
@@ -106,22 +130,31 @@ STARTS from : https://www.advancedcustomfields.com/  -->
  */
 //echo '&lt;br>&lt;hr>Trying to get the group ID MetaSynt and print out fields name so to run only once the print out routine&lt;br>&lt;hr>';
 
-
+//-----------------------------------------------------------------------------------
+//------------------------- Edit the Custom Group -----------------------------------
+//@URIR http://guillaumeisabelle.com/r/wpapp/metasynt/prototype/1912/edit
+//@URIR http://guillaumeisabelle.com/blogging/wp-admin/post.php?post=1077&action=edit
 $metasyntid = '1077'; //A group is a post
+//----------------------------------------- Goals --------------
 //@STCGoal Get the Group fields and print them out if authorized
 //@URIR https://wordpress.stackexchange.com/questions/95126/acf-get-fields-from-group
-//----- Bellow Start to print out the fields of a Group
 
-                    //or insert the ID of your fields Group.
-$group_id=$metasyntid ;
-$metasyntfields = array("context","issues","concepts","methodology","results","research_use");
+
+
+//@DEFINITION MetaSynt.Array - Also order them on the page
+$metasyntfields = array("context","issues","hypothesis","questions","concepts","methodology","results","research_use");
+$metasynt_field_html_tag = "h1";
 
 function mes__field_as_markdown_if($field_name)
 {
         if( get_field($field_name)) :
 
-                                $my_text = get_field($field_name) ; //get text content of the field
-                                $my_html = Markdown::defaultTransform($my_text); //convert text content from Markdown to HTML
+                //the whole section of Synt is printed if content
+                echo '&lt;div class="ab-notice-text metasynt-content-box">';
+
+                $my_text = get_field($field_name) ; //get text content of the field
+                $fieldo = get_field_object($field_name);
+                $my_html = Markdown::defaultTransform($my_text); //convert text content from Markdown to HTML
 
                         echo '&lt;!-- jgwill:metasynt -->
                                 &lt;!-- jgwill:metasynt:content
@@ -129,9 +162,20 @@ function mes__field_as_markdown_if($field_name)
                                 /jgwill:metasynt:content
                         /jgwill:metasynt
                         -->';
+                        $instructions = $fieldo['instructions'];
+                        //Titel with tooltip TODO
+
+                echo ""
+                        .'&lt;div class="tooltip">&lt;h1>'
+                        .ucfirst(str_replace("_"," ",$field_name))
+                        .'&lt;/h1>'
+                        .'&lt;span class="tooltiptext">'. $instructions.'&lt;/span>'
+                        .'&lt;/div>'
+                        . "";
                         echo $my_html;
+                        //echo "&lt;hr>" . $fieldo['instructions'] . "&lt;/div>";
 
-
+                echo '&lt;/div>';
                 endif;
 
 }
@@ -142,18 +186,15 @@ $metasynt_title = "Meta Synthesis Content";
 // All that just if logged in
       if ($current_user->ID != 0 ) {
               if ($debug) echo '&lt;h6>----------:) YOU ARE AUTHORIZED TO ACCESS META-SYSTEMIC DATA -----------&lt;/h6>';
-echo '&lt;div style="color:#32373c;background-color:#'.$style_bg_col.'"
-    class="wp-block-atomic-blocks-ab-notice ab-font-size-18 ab-block-notice" >
-    &lt;div class="ab-notice-title" style="color:#fff">
+echo '&lt;div
+    class="wp-block-atomic-blocks-ab-notice ab-font-size-18 ab-block-notice metasynt-block" >
+    &lt;div class="ab-notice-title metasynt-title">
         &lt;p>'.$metasynt_title .'&lt;/p>
     &lt;/div>
 ';
               foreach ($metasyntfields as $f )
               {
-                      echo '&lt;div class="ab-notice-text" style="border-color:#'.$style_bg_col.'">';
-                      echo "&lt;h1>" .ucfirst(str_replace("_"," ",$f)). "&lt;/h1>";
                       mes__field_as_markdown_if($f);
-                      echo '&lt;/div>';
 
               }
 
@@ -172,6 +213,7 @@ echo '&lt;/div>';
 &lt;!-- Added by Guillaume 191222 to display custom field concepts, context etc
 END -->
 &lt;hr>
+
 </code></pre>
         
         <!-- /wp:code -->
@@ -195,6 +237,17 @@ END -->
         <!-- wp:code {"language":"css"} -->
         
         <pre class="wp-block-code"><code>.mes_field_border {
+	border-color:#b20486;
+}
+.metasynt-block {
+	background-color:#b20486;
+	color:#32373c;
+}
+.metasynt-title {
+	color:#fff;
+}
+.metasynt-content-box
+{
 	border-color:#b20486;
 }
 
