@@ -180,6 +180,9 @@ post_date: 2019-12-23 01:27:50
           <li>
             <strong>Resolution : </strong>When changing the endframe, the Tandrils simulation has to be <strong>resetted </strong>for that to affect the Lava
           </li>
+          <li>
+            <strong>Issue:</strong> There must be another way to better deal with that emission because a lack of control is felt
+          </li>
         </ul>
         
         <!-- /wp:list -->
