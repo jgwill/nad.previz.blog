@@ -222,7 +222,7 @@ post_date: 2019-12-23 01:27:50
         Not much affect or it is bugged
       </li>
       <li>
-        ...
+        Is it <strong>because of the Tandrils simulation not being reset ??</strong>
       </li>
     </ul>
     
