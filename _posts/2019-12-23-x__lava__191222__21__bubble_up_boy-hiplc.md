@@ -24,7 +24,7 @@ post_date: 2019-12-23 01:27:50
     <!-- wp:heading {"textColor":"vivid-green-cyan"} -->
     
     <h2 class="has-vivid-green-cyan-color has-text-color" id="abstract">
-      Abstract
+      <strong>Abstract</strong>
     </h2>
     
     <!-- /wp:heading -->
