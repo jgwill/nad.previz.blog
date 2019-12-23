@@ -37,21 +37,23 @@ post_date: 2019-12-23 01:27:50
 
 <div class="wp-block-group" id="lava-distance-affect">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
+    <!-- wp:list {"ordered":true} -->
     
-    <h2>
-      Distance
-    </h2>
+    <ol>
+      <li>
+        Distance
+      </li>
+    </ol>
     
-    <!-- /wp:heading -->
+    <!-- /wp:list -->
     
     <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/F0apzHy.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
     <div class="wp-block-embed__wrapper">
       https://i.imgur.com/F0apzHy.jpg
-    </div><figcaption>Distance 1</figcaption></figure> 
+    </div><figcaption>Fig.1.1
     
-    <!-- /wp:core-embed/imgur -->
+    <br />Distance 1</figcaption></figure> <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
@@ -68,7 +70,7 @@ post_date: 2019-12-23 01:27:50
         <!-- wp:heading -->
         
         <h2>
-          Tendrils start effect
+          2. Tendrils start effect
         </h2>
         
         <!-- /wp:heading -->
@@ -85,9 +87,9 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/9qqiPiF.jpg
-        </div><figcaption>Start Frame = 110</figcaption></figure> 
+        </div><figcaption>Fig.2.1
         
-        <!-- /wp:core-embed/imgur -->
+        <br />Start Frame = 110</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -109,7 +111,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/LJqkHGQ.jpg
-        </div></figure> 
+        </div><figcaption>Fig.2.2</figcaption></figure> 
         
         <!-- /wp:core-embed/imgur -->
         
@@ -117,7 +119,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/VCkHNZ7.jpg
-        </div></figure> 
+        </div><figcaption>Fig.2.3.</figcaption></figure> 
         
         <!-- /wp:core-embed/imgur -->
         
@@ -155,7 +157,7 @@ post_date: 2019-12-23 01:27:50
     <!-- wp:heading -->
     
     <h2>
-      How comes the End frame of the tandrils affect the whole simulation?
+      3. How comes the End frame of the tandrils affect the whole simulation?
     </h2>
     
     <!-- /wp:heading -->
@@ -176,9 +178,9 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/4G09i9r.jpg
-        </div><figcaption>Ending value : 99</figcaption></figure> 
+        </div><figcaption>
         
-        <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.1.</strong><br /><br />Ending value : 99</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -192,9 +194,9 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/ReKEX1z.jpg
-        </div><figcaption>Ending value 90</figcaption></figure> 
+        </div><figcaption>
         
-        <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.2.<br /></strong><br />Ending value 90</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:heading -->
         
@@ -208,16 +210,33 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/SCZvatX.jpg
-        </div><figcaption>Sounds like yes</figcaption></figure> 
+        </div><figcaption>
         
-        <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.3.</strong><br /><br />Sounds like yes</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Nzsl9os.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/Nzsl9os.png
+        </div><figcaption>
+        
+        <strong>Fig.3.4.</strong><br /><br />Upgraded to sequencially reset Tandrils then Main<br /></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
         <p>
+          <strong>Validating that Ending at 110 </strong>will give different result than : <strong>Fig.3.3.</strong>
         </p>
         
         <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/dWeFQTG.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/dWeFQTG.jpg
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
@@ -240,6 +259,9 @@ post_date: 2019-12-23 01:27:50
       <li>
         Is it <strong>because of the Tandrils simulation not being reset ??</strong> YES
       </li>
+      <li>
+        <em>Changing Frame in the sequence is confusing</em> - <strong>When capturing, name the frame</strong>
+      </li>
     </ul>
     
     <!-- /wp:list -->
@@ -256,9 +278,9 @@ post_date: 2019-12-23 01:27:50
     
     <div class="wp-block-embed__wrapper">
       https://i.imgur.com/Nzsl9os.png
-    </div><figcaption>
+    </div><figcaption> Fig.3.4. 
     
-    <strong>Upgraded with two reset</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
+    <br /><br /><strong>Upgraded with two reset</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
