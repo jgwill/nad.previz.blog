@@ -33,6 +33,12 @@ Film Production are migrating to a real-time graphical feedback of the various s
 
 <!-- /wp:heading -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:image {"id":1709} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/img_7273.jpg" alt="" class="wp-image-1709" /><figcaption>Slide by Guillaume B. / Moment Factory, 2019</figcaption></figure> <!-- /wp:image -->
