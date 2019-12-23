@@ -51,6 +51,24 @@ post_date: 2019-12-23 01:27:50
       <li>
         Distance affecting Lava
       </li>
+    </ul>
+    
+    <!-- /wp:list -->
+    
+    <!-- wp:heading {"level":3} -->
+    
+    <h3>
+      References
+    </h3>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        <a href="#ref-lava-flow">Lava Flow Ref</a>
+      </li>
       <li>
       </li>
     </ul>
@@ -594,6 +612,36 @@ post_date: 2019-12-23 01:27:50
     </div></figure> 
     
     <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="ref-lava-flow">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      References - Lava Flowing
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=Jp7OhtSQWX0","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+    
+    <div class="wp-block-embed__wrapper">
+      https://www.youtube.com/watch?v=Jp7OhtSQWX0
+    </div></figure> 
+    
+    <!-- /wp:core-embed/youtube -->
   </div>
 </div>
 
