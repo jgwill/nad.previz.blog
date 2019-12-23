@@ -21,9 +21,9 @@ post_date: 2019-12-23 01:27:50
 
 <div class="wp-block-group" id="abstract-group">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
+    <!-- wp:heading {"textColor":"vivid-green-cyan"} -->
     
-    <h2 id="abstract">
+    <h2 class="has-vivid-green-cyan-color has-text-color" id="abstract">
       Abstract
     </h2>
     
