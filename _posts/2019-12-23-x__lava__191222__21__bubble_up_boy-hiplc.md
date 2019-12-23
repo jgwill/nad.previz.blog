@@ -393,6 +393,14 @@ post_date: 2019-12-23 01:27:50
         </div><figcaption> 
         
         <strong>Fig.4.2.2.</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong><br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/kVWCmWt.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/kVWCmWt.jpg
+        </div><figcaption> 
+        
+        <strong>Fig.4.2.23</strong><br />Frame: <strong>300<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1</strong><br /><strong>Note: </strong>Significant bubbling out is completed</figcaption></figure> <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
