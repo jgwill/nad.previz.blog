@@ -9,9 +9,11 @@ permalink: >
 published: true
 post_date: 2019-12-23 01:27:50
 ---
-<!-- wp:heading -->
+<!-- wp:heading {"textColor":"vivid-purple"} -->
 
-## Lava gets hit from bottom tendrils.
+<h2 class="has-vivid-purple-color has-text-color">
+  @STCGoal Lava gets hit from bottom tendrils.
+</h2>
 
 <!-- /wp:heading -->
 
