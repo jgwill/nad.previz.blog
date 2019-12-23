@@ -57,9 +57,13 @@ MetaSynt is a feature of WPApp that enables the creation of Synthesis data on to
     
     <!-- /wp:heading -->
     
-    <!-- wp:code {"language":"php"} -->
+    <!-- wp:atomic-blocks/ab-accordion -->
     
-    <pre class="wp-block-code"><code>//cat src/gi_wp_content__1910/themes/generatepress/content-single.php
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details><summary class="ab-accordion-title">src/gi_wp_content__1910/themes/generatepress/content-single.php</summary><div class="ab-accordion-text">
+        <!-- wp:code {"language":"php"} -->
+        
+        <pre class="wp-block-code"><code>//cat src/gi_wp_content__1910/themes/generatepress/content-single.php
 //Header of the file
 
 &lt;?php
@@ -169,8 +173,12 @@ echo '&lt;/div>';
 END -->
 &lt;hr>
 </code></pre>
+        
+        <!-- /wp:code -->
+      </div></details>
+    </div>
     
-    <!-- /wp:code -->
+    <!-- /wp:atomic-blocks/ab-accordion -->
     
     <!-- wp:heading -->
     
