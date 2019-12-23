@@ -162,6 +162,32 @@ post_date: 2019-12-23 01:27:50
     
     <!-- /wp:heading -->
     
+    <!-- wp:group -->
+    
+    <div class="wp-block-group" id="post-endframe-notes">
+      <div class="wp-block-group__inner-container">
+        <!-- wp:heading {"level":3} -->
+        
+        <h3>
+          Post EndFrame Notes
+        </h3>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:list -->
+        
+        <ul>
+          <li>
+            <strong>Resolution : </strong>When changing the endframe, the Tandrils simulation has to be <strong>resetted </strong>for that to affect the Lava
+          </li>
+        </ul>
+        
+        <!-- /wp:list -->
+      </div>
+    </div>
+    
+    <!-- /wp:group -->
+    
     <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":23,"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-23">
