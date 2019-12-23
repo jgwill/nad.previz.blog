@@ -57,7 +57,7 @@ MetaSynt is a feature of WPApp that enables the creation of Synthesis data on to
     
     <!-- /wp:heading -->
     
-    <!-- wp:code -->
+    <!-- wp:code {"language":"php"} -->
     
     <pre class="wp-block-code"><code>//cat src/gi_wp_content__1910/themes/generatepress/content-single.php
 //Header of the file
@@ -180,7 +180,7 @@ END -->
     
     <!-- /wp:heading -->
     
-    <!-- wp:code -->
+    <!-- wp:code {"language":"css"} -->
     
     <pre class="wp-block-code"><code>.mes_field_border {
 	border-color:#b20486;
