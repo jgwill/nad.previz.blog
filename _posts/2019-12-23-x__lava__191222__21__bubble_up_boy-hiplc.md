@@ -343,10 +343,10 @@ post_date: 2019-12-23 01:27:50
     
     <!-- /wp:heading -->
     
-    <!-- wp:atomic-blocks/ab-accordion -->
+    <!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-      <details><summary class="ab-accordion-title">Experimenting with distance value</summary><div class="ab-accordion-text">
+      <details open><summary class="ab-accordion-title">Experimenting with distance value</summary><div class="ab-accordion-text">
         <!-- wp:paragraph -->
         
         <p>
