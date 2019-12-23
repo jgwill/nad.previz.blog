@@ -57,9 +57,7 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 
 <!-- /wp:image -->
 
- 
 
- 
 
 <!-- wp:more -->
 
@@ -74,8 +72,6 @@ Bellow are some of the elements of the composition. Among them: foreground and b
 </figure> 
 
 <!-- /wp:image -->
-
-
 
 
 
