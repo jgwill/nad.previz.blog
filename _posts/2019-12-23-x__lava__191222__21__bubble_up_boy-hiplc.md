@@ -350,18 +350,32 @@ post_date: 2019-12-23 01:27:50
         <!-- wp:paragraph -->
         
         <p>
-          1.
         </p>
         
         <!-- /wp:paragraph -->
         
-        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/ReKEX1z.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/08F1Oii.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
         <div class="wp-block-embed__wrapper">
-          https://i.imgur.com/ReKEX1z.jpg
-        </div></figure> 
+          https://i.imgur.com/08F1Oii.jpg
+        </div><figcaption> 
         
-        <!-- /wp:core-embed/imgur -->
+        <strong>Fig.4.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.0</strong><br /><strong>Note: </strong>A bit of difference... </figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Trying distance 1.5
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+        </p>
+        
+        <!-- /wp:paragraph -->
       </div></details>
     </div>
     
