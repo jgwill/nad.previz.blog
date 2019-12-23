@@ -164,12 +164,30 @@ post_date: 2019-12-23 01:27:50
     
     <!-- wp:group -->
     
-    <div class="wp-block-group" id="post-endframe-notes">
+    <div class="wp-block-group" id="Post-Lava-Tandrils-EndFrame-Resolution-and-Issues">
       <div class="wp-block-group__inner-container">
+        <!-- wp:atomic-blocks/ab-notice {"noticeTitle":"Post Notes"} -->
+        
+        <div style="color:#32373c;background-color:#00d1b2" class="wp-block-atomic-blocks-ab-notice ab-font-size-18 ab-block-notice" data-id="495188">
+          <div class="ab-notice-title" style="color:#fff">
+            <p>
+              Post Notes
+            </p>
+          </div>
+          
+          <div class="ab-notice-text" style="border-color:#00d1b2">
+            <p>
+              Those notes are to help know what was resolved and what is still an issue.
+            </p>
+          </div>
+        </div>
+        
+        <!-- /wp:atomic-blocks/ab-notice -->
+        
         <!-- wp:heading {"level":3} -->
         
         <h3>
-          Post EndFrame Notes
+          Post Lava-Tandrils-EndFrame Resolution and Issues
         </h3>
         
         <!-- /wp:heading -->
