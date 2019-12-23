@@ -188,12 +188,87 @@ post_date: 2019-12-23 01:27:50
         
         <!-- /wp:paragraph -->
         
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/ReKEX1z.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/ReKEX1z.jpg
+        </div><figcaption>Ending value 90</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
         <!-- wp:paragraph -->
         
         <p>
         </p>
         
         <!-- /wp:paragraph -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
+    
+    <!-- wp:heading -->
+    
+    <h2>
+      Conclusions
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        Not much affect or it is bugged
+      </li>
+      <li>
+        ...
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="distance-take2">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      How distance affects the simulation ? (again)
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:atomic-blocks/ab-accordion -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details><summary class="ab-accordion-title">Experimenting with distance value</summary><div class="ab-accordion-text">
+        <!-- wp:paragraph -->
+        
+        <p>
+          1.
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/ReKEX1z.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/ReKEX1z.jpg
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
