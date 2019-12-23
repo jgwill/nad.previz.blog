@@ -57,6 +57,91 @@ post_date: 2019-12-23 01:27:50
 
 <!-- /wp:group -->
 
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">Debugging and old Start and end Tandrils emission</summary><div class="ab-accordion-text">
+    <!-- wp:group -->
+    
+    <div class="wp-block-group" id="tendrils-start">
+      <div class="wp-block-group__inner-container">
+        <!-- wp:heading -->
+        
+        <h2>
+          Tendrils start effect
+        </h2>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          110
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/9qqiPiF.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/9qqiPiF.jpg
+        </div><figcaption>Start Frame = 110</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          90
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Fixing stuff - Houdini Channel StartFrame already existed so it confused my experimentation
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/LJqkHGQ.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/LJqkHGQ.jpg
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/VCkHNZ7.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/VCkHNZ7.jpg
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+        </p>
+        
+        <!-- /wp:paragraph -->
+      </div>
+    </div>
+    
+    <!-- /wp:group -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
@@ -65,55 +150,39 @@ post_date: 2019-12-23 01:27:50
 
 <!-- wp:group -->
 
-<div class="wp-block-group" id="tendrils-start">
+<div class="wp-block-group" id="tandrils-ending-effects">
   <div class="wp-block-group__inner-container">
     <!-- wp:heading -->
     
     <h2>
-      Tendrils start effect
+      How comes the End frame of the tandrils affect the whole simulation?
     </h2>
     
     <!-- /wp:heading -->
     
-    <!-- wp:paragraph -->
+    <!-- wp:atomic-blocks/ab-accordion -->
     
-    <p>
-      110
-    </p>
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details><summary class="ab-accordion-title">Experimenting with different ending value</summary><div class="ab-accordion-text">
+        <!-- wp:paragraph -->
+        
+        <p>
+          99
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/4G09i9r.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/4G09i9r.jpg
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div></details>
+    </div>
     
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/9qqiPiF.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-    
-    <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/9qqiPiF.jpg
-    </div><figcaption>Start Frame = 110</figcaption></figure> 
-    
-    <!-- /wp:core-embed/imgur -->
-    
-    <!-- wp:paragraph -->
-    
-    <p>
-      90
-    </p>
-    
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph -->
-    
-    <p>
-      Fixing stuff - Houdini Channel StartFrame already existed so it confused my experimentation
-    </p>
-    
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/LJqkHGQ.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-    
-    <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/LJqkHGQ.jpg
-    </div></figure> 
-    
-    <!-- /wp:core-embed/imgur -->
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
