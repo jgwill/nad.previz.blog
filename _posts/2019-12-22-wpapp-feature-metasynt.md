@@ -255,21 +255,39 @@ END -->
 
 <!-- /wp:group -->
 
+<!-- wp:heading -->
+
+## 
+
+<!-- /wp:heading -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
 
+<!-- wp:heading -->
+
+## FURTHER THINGS TO TRY
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Table are not converted
+
+<!-- /wp:list -->
+
 <!-- wp:group -->
 
 <div class="wp-block-group" id="wpapp-meta2markdown">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
+    <!-- wp:heading {"level":3} -->
     
-    <h2>
-      Wordpress Plugin to realize that:
-    </h2>
+    <h3>
+      Wordpress Plugin to realize that ?
+    </h3>
     
     <!-- /wp:heading -->
     
