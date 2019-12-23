@@ -225,7 +225,7 @@ post_date: 2019-12-23 01:27:50
         <!-- wp:paragraph -->
         
         <p>
-          <strong>Validating that Ending at 110 </strong>will give different result than : <strong>Fig.3.3.</strong>
+          <strong>Validating that Ending at 70 </strong>will give different result than : <strong>Fig.3.3.</strong>
         </p>
         
         <!-- /wp:paragraph -->
@@ -234,9 +234,25 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/dWeFQTG.jpg
-        </div></figure> 
+        </div><figcaption>
         
-        <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.5.</strong><br /><br />Still no changes but I suspect the reset did not worked...</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          Selecting the Tandrils/PopNET and resetting right then
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/2fkrSmI.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/2fkrSmI.jpg
+        </div><figcaption>
+        
+        <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline;">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline;">Tandrils/Ending:</span> <strong> 70</strong><br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
