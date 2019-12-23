@@ -15,13 +15,44 @@ post_date: 2019-12-23 01:27:50
 
 <!-- /wp:heading -->
 
-<!-- wp:list -->
+<!-- wp:group -->
 
-*   EndFrame of the Emitted Tandrils
-*   Distance affecting Lava
-*   
+<div class="wp-block-group" id="abstract">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Abstract
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:heading {"level":3} -->
+    
+    <h3>
+      Parameters that were explored in the Lava/Volcano Simulation System
+    </h3>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        EndFrame of the Emitted Tandrils
+      </li>
+      <li>
+        Distance affecting Lava
+      </li>
+      <li>
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+  </div>
+</div>
 
-<!-- /wp:list -->
+<!-- /wp:group -->
 
 <!-- wp:separator -->
 
