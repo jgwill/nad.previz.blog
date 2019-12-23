@@ -180,7 +180,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/4G09i9r.jpg
         </div><figcaption>
         
-        <strong>Fig.3.1.</strong><br /><br />Ending value : 99</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.1.</strong><br /><br />Ending value : <strong>99</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -196,7 +196,7 @@ post_date: 2019-12-23 01:27:50
           https://i.imgur.com/ReKEX1z.jpg
         </div><figcaption>
         
-        <strong>Fig.3.2.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <strong><br /></strong><br />Ending value 90</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.2.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <strong><br /></strong><br />Ending value <strong>90</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:heading -->
         
