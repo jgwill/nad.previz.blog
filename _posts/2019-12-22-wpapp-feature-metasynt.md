@@ -188,9 +188,13 @@ END -->
     
     <!-- /wp:heading -->
     
-    <!-- wp:code {"language":"css"} -->
+    <!-- wp:atomic-blocks/ab-accordion -->
     
-    <pre class="wp-block-code"><code>.mes_field_border {
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details><summary class="ab-accordion-title">CSS Stylesheet code</summary><div class="ab-accordion-text">
+        <!-- wp:code {"language":"css"} -->
+        
+        <pre class="wp-block-code"><code>.mes_field_border {
 	border-color:#b20486;
 }
 
@@ -240,8 +244,12 @@ END -->
   visibility: visible;
   opacity: 1;
 }</code></pre>
+        
+        <!-- /wp:code -->
+      </div></details>
+    </div>
     
-    <!-- /wp:code -->
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
