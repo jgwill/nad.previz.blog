@@ -159,6 +159,129 @@ post_date: 2019-12-24 17:56:33
     </p>
     
     <!-- /wp:paragraph -->
+    
+    <!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+      <details open><summary class="ab-accordion-title">Particle Separation 0.1</summary><div class="ab-accordion-text">
+        <!-- wp:paragraph -->
+        
+        <p>
+          <strong>81M </strong> Dec 24 18:28 0085.bgeo.sc<br /><strong>607M </strong>Dec 23 21:08 ../../x__lava__22/import_particle/0085.bgeo.sc
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:table --><figure class="wp-block-table">
+        
+        <table class="">
+          <tbody>
+            <tr>
+              <td>
+                fno
+              </td>
+              
+              <td>
+                it
+              </td>
+              
+              <td>
+                mb/fr
+              </td>
+              
+              <td>
+                Param
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                85
+              </td>
+              
+              <td>
+                22
+              </td>
+              
+              <td>
+                <strong>607</strong>
+              </td>
+              
+              <td>
+                ps:0.05, eh:9
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                85
+              </td>
+              
+              <td>
+                23
+              </td>
+              
+              <td>
+                <strong>81</strong>
+              </td>
+              
+              <td>
+                ps:0.05, eh:5
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+                Clear difference between the two.
+              </td>
+              
+              <td>
+                Particle separation is non-linear /2 is 7.5X smaller.
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+          </tbody>
+        </table></figure> 
+        
+        <!-- /wp:table -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
