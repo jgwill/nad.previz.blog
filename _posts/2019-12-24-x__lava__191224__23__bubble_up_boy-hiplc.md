@@ -317,6 +317,136 @@ post_date: 2019-12-24 17:56:33
         </table></figure> 
         
         <!-- /wp:table -->
+        
+        <!-- wp:separator -->
+        
+        <hr class="wp-block-separator" />
+        
+        <!-- /wp:separator -->
+        
+        <!-- wp:heading -->
+        
+        <h2>
+          Stats
+        </h2>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:table {"backgroundColor":"subtle-pale-green"} --><figure class="wp-block-table">
+        
+        <table class="has-subtle-pale-green-background-color has-background">
+          <thead>
+            <tr>
+              <th>
+              </th>
+              
+              <th>
+              </th>
+              
+              <th>
+              </th>
+              
+              <th>
+              </th>
+              
+              <th>
+              </th>
+            </tr>
+          </thead>
+          
+          <tbody>
+            <tr>
+              <td>
+                TotalCacheDU:
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                TotalCachingTF:
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                MaxCachedFrameDU:
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                MaxCachedFrameDU:
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+          </tbody>
+        </table></figure> 
+        
+        <!-- /wp:table -->
       </div></details>
     </div>
     
