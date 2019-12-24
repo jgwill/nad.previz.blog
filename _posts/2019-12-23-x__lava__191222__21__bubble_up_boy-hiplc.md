@@ -17,6 +17,21 @@ post_date: 2019-12-23 01:27:50
 
 <!-- /wp:heading -->
 
+<!-- wp:list -->
+
+*   19-12-24 : 
+    *   Rendered 1 Frame then Crashed
+    *   Cached 141/325 and crashed
+        *   Frame 141 is 2.1 GB
+
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:heading {"textColor":"vivid-purple"} -->
 
 <h2 class="has-vivid-purple-color has-text-color">
