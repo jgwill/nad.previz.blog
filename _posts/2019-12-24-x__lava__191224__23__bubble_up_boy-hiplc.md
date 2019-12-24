@@ -92,9 +92,49 @@ post_date: 2019-12-24 17:56:33
       <li>
         Hardware limitation
       </li>
+      <li>
+      </li>
     </ul>
     
     <!-- /wp:list -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="lavanet-interface">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      LavaNet-Interface
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":20,"accordionOpen":true} -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-20">
+      <details open><summary class="ab-accordion-title">LavaNet-Interface</summary><div class="ab-accordion-text">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/4bbrNPv.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/4bbrNPv.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
