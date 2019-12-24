@@ -766,6 +766,36 @@ post_date: 2019-12-23 01:27:50
     
     <div class="wp-block-group">
       <div class="wp-block-group__inner-container">
+        <!-- wp:group -->
+        
+        <div class="wp-block-group" id="rendering-conclusion">
+          <div class="wp-block-group__inner-container">
+            <!-- wp:heading -->
+            
+            <h2>
+              x__lava::22::Rendering conclusion
+            </h2>
+            
+            <!-- /wp:heading -->
+            
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=yi6JPJh5W_s","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+            
+            <div class="wp-block-embed__wrapper">
+              https://www.youtube.com/watch?v=yi6JPJh5W_s
+            </div><figcaption>Due to an issue limiting the rendering 
+            
+            <br />--> Wireframe of the simulation</figcaption></figure> <!-- /wp:core-embed/youtube -->
+          </div>
+        </div>
+        
+        <!-- /wp:group -->
+        
+        <!-- wp:separator -->
+        
+        <hr class="wp-block-separator" />
+        
+        <!-- /wp:separator -->
+        
         <!-- wp:heading -->
         
         <h2>
