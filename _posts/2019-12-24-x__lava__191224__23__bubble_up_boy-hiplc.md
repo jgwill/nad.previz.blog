@@ -172,25 +172,45 @@ post_date: 2019-12-24 17:56:33
         
         <!-- /wp:paragraph -->
         
-        <!-- wp:table --><figure class="wp-block-table">
+        <!-- wp:table {"backgroundColor":"subtle-pale-blue"} --><figure class="wp-block-table">
         
-        <table class="">
+        <table class="has-subtle-pale-blue-background-color has-background">
+          <thead>
+            <tr>
+              <th>
+                fno
+              </th>
+              
+              <th>
+                it
+              </th>
+              
+              <th>
+                mb/f
+              </th>
+              
+              <th>
+                Param
+              </th>
+              
+              <th>
+                Notes
+              </th>
+            </tr>
+          </thead>
+          
           <tbody>
             <tr>
               <td>
-                fno
               </td>
               
               <td>
-                it
               </td>
               
               <td>
-                mb/fr
               </td>
               
               <td>
-                Param
               </td>
               
               <td>
@@ -254,7 +274,7 @@ post_date: 2019-12-24 17:56:33
               </td>
               
               <td>
-                Particle separation is non-linear /2 is 7.5X smaller.
+                Particle separation is non-linear /2 is 7.5X Bigger.
               </td>
             </tr>
             
@@ -275,6 +295,25 @@ post_date: 2019-12-24 17:56:33
               </td>
             </tr>
           </tbody>
+          
+          <tfoot>
+            <tr>
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+              
+              <td>
+              </td>
+            </tr>
+          </tfoot>
         </table></figure> 
         
         <!-- /wp:table -->
