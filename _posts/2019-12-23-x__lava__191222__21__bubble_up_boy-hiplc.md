@@ -50,13 +50,7 @@ post_date: 2019-12-23 01:27:50
 
 <div class="wp-block-group" id="abstract-group">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading {"textColor":"vivid-green-cyan"} -->
-    
-    <h2 class="has-vivid-green-cyan-color has-text-color" id="abstract">
-      <strong>Abstract</strong>
-    </h2>
-    
-    <!-- /wp:heading -->
+    <!-- wp:block {"ref":2093} /-->
     
     <!-- wp:heading {"level":3} -->
     
@@ -689,13 +683,7 @@ post_date: 2019-12-23 01:27:50
 
 <div class="wp-block-group" id="fact-rendering-caching">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      Caching Facts (i22)
-    </h2>
-    
-    <!-- /wp:heading -->
+    <!-- wp:block {"ref":2094} /-->
     
     <!-- wp:list -->
     
@@ -763,13 +751,7 @@ post_date: 2019-12-23 01:27:50
 
 <div class="wp-block-group" id="conclusion-22">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading {"level":1,"textColor":"vivid-green-cyan"} -->
-    
-    <h1 class="has-vivid-green-cyan-color has-text-color">
-      <strong>Concluding</strong>
-    </h1>
-    
-    <!-- /wp:heading -->
+    <!-- wp:block {"ref":2095} /-->
     
     <!-- wp:group -->
     
@@ -831,13 +813,7 @@ post_date: 2019-12-23 01:27:50
         
         <!-- /wp:separator -->
         
-        <!-- wp:heading -->
-        
-        <h2>
-          Related Posts
-        </h2>
-        
-        <!-- /wp:heading -->
+        <!-- wp:block {"ref":2096} /-->
         
         <!-- wp:atomic-blocks/ab-post-grid {"categories":"563","displaySectionTitle":true,"sectionTitle":"Other Lava Posting"} /-->
         
