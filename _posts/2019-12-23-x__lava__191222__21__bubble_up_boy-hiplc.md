@@ -2,7 +2,7 @@
 ID: 2025
 post_title: x__lava__191222__21__bubble_up_boy.hiplc
 author: gicomadmin
-post_excerpt: Lava gets hit from bottom tendrills
+post_excerpt: 'Lava gets hit from bottom tendrils - Simulating natural phenomenon of the pressure of gas being released.'
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/23/x__lava__191222__21__bubble_up_boy-hiplc/
