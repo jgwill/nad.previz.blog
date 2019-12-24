@@ -646,3 +646,55 @@ post_date: 2019-12-23 01:27:50
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="fact-rendering-caching">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Caching Facts
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        Issue: Crashed at frame 141
+      </li>
+      <li>
+        93 GB
+      </li>
+      <li>
+        8 hours
+      </li>
+      <li>
+        141 of 325 frames
+      </li>
+      <li>
+        Frame 141 is 2.1 GB
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/KZ308Ai.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/KZ308Ai.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
