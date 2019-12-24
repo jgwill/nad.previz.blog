@@ -9,6 +9,14 @@ permalink: >
 published: true
 post_date: 2019-12-23 01:27:50
 ---
+<!-- wp:heading {"textColor":"luminous-vivid-amber"} -->
+
+<h2 class="has-luminous-vivid-amber-color has-text-color" id="@STCIssue-Blocked-by-Hardware-limitation">
+  --@STCIssue Blocked by Hardware limitation
+</h2>
+
+<!-- /wp:heading -->
+
 <!-- wp:heading {"textColor":"vivid-purple"} -->
 
 <h2 class="has-vivid-purple-color has-text-color">
@@ -669,19 +677,19 @@ post_date: 2019-12-23 01:27:50
     
     <ul>
       <li>
-        Issue: Crashed at frame 141
+        <strong>Issue: <em>Crashed </em>at frame 141</strong>
       </li>
       <li>
-        93 GB
+        <strong>93 GB</strong>
       </li>
       <li>
-        8 hours
+        <strong>8 hours</strong>
       </li>
       <li>
-        141 of 325 frames
+        <strong>141 of 325 frames</strong>
       </li>
       <li>
-        Frame 141 is 2.1 GB
+        <strong>Frame 141 is 2.1 GB</strong> (last frame before crash)
       </li>
     </ul>
     
@@ -710,6 +718,18 @@ post_date: 2019-12-23 01:27:50
     </div><figcaption>Frame 141 - 2.1 GB wireframe preview</figcaption></figure> 
     
     <!-- /wp:core-embed/youtube -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
   </div>
 </div>
 
