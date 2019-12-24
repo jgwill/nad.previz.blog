@@ -789,7 +789,24 @@ post_date: 2019-12-23 01:27:50
         </div>
         
         <!-- /wp:group -->
+        <!-- wp:separator -->
         
+        <hr class="wp-block-separator" />
+        
+        <!-- /wp:separator -->
+        
+         <!-- wp:heading {"level":1,"textColor":"vivid-green-cyan"} -->
+    
+    <h1 class="has-vivid-green-cyan-color has-text-color">
+      <strong>Picture observer</strong>
+    </h1>
+    
+    <!-- /wp:heading -->
+    
+<!-- wp:shortcode --> [spin360 canvas_name="x__lava_22" imgs_folder="x_\_lava\_\_191223\_\_22\_\_bubble\_up\_boy/" imgs_nbr=55 aspect_ratio=1.778 speed=1] 
+
+<!-- /wp:shortcode -->
+    
         <!-- wp:separator -->
         
         <hr class="wp-block-separator" />
