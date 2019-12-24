@@ -39,6 +39,7 @@ post_date: 2019-12-24 17:56:33
         <a href="#x-caching-facts-no23-01">#x-caching-facts-no23-01</a>
       </li>
       <li>
+        <a href="#hardware-simulation-recommendation"># hardware-simulation-recommendation</a>
       </li>
     </ul>
     
