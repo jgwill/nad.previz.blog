@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2019-12-23 01:27:50
 ---
+<!-- wp:paragraph -->
+
+[**rendering-conclusion**][1]
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"textColor":"luminous-vivid-amber"} -->
 
 <h2 class="has-luminous-vivid-amber-color has-text-color" id="@STCIssue-Blocked-by-Hardware-limitation">
@@ -73,6 +79,9 @@ post_date: 2019-12-23 01:27:50
       
       <li>
         Distance affecting Lava
+      </li>
+      <li>
+        <a href="#rendering-conclusion"><strong>rendering-conclusion</strong></a>
       </li>
     </ul>
     
@@ -852,3 +861,5 @@ post_date: 2019-12-23 01:27:50
 
 
 <!-- /wp:paragraph -->
+
+ [1]: http://guillaumeisabelle.com/nad-previz/wp-admin/post.php?post=2025&action=edit#rendering-conclusion
