@@ -21,7 +21,7 @@ post_date: 2019-12-23 01:27:50
 
 *   19-12-24 : 
     *   Rendered 1 Frame then Crashed
-    *   Cached 141/325 and crashed
+    *   Cached 141/325 and crashed 
         *   Frame 141 is 2.1 GB
 
 <!-- /wp:list -->
@@ -132,7 +132,7 @@ post_date: 2019-12-23 01:27:50
     
     <div class="wp-block-embed__wrapper">
       https://i.imgur.com/F0apzHy.jpg
-    </div><figcaption>Fig.1.1
+    </div><figcaption>Fig.1.1 
     
     <br />Distance 1</figcaption></figure> <!-- /wp:core-embed/imgur -->
   </div>
@@ -168,7 +168,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/9qqiPiF.jpg
-        </div><figcaption>Fig.2.1
+        </div><figcaption>Fig.2.1 
         
         <br />Start Frame = 110</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -306,7 +306,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/4G09i9r.jpg
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong>Fig.3.1.</strong><br /><br />Ending value : <strong>99</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -322,7 +322,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/ReKEX1z.jpg
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong>Fig.3.2.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <strong><br /></strong><br />Ending value <strong>90</strong></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -338,7 +338,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/SCZvatX.jpg
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong>Fig.3.3.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br />Sounds like yes</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -346,7 +346,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/Nzsl9os.png
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong>Fig.3.4.</strong><br /><br />Upgraded to sequencially reset Tandrils then Main<br /></figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -362,7 +362,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/dWeFQTG.jpg
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong>Fig.3.5.</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br />Still no changes bu<strong><em>t I suspect the reset did not worked</em></strong>...</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -378,9 +378,9 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/2fkrSmI.jpg
-        </div><figcaption>
+        </div><figcaption> 
         
-        <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline;">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline;">Tandrils/Ending:</span> <strong> 70</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
+        <strong>Fig.3.6.</strong><br /><span style="text-decoration: underline">Frame</span>: <strong>154<br /></strong><span style="text-decoration: underline">Tandrils/Ending:</span> <strong> 70</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><br /><strong>Note: </strong>Right, it worked</figcaption></figure> <!-- /wp:core-embed/imgur -->
         
         <!-- wp:paragraph -->
         
@@ -502,7 +502,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/CgIChZz.png
-        </div><figcaption>
+        </div><figcaption> 
         
         <strong> Fig.4.2.1.</strong><br />Frame: <strong>154<br /></strong>Tandrils/Ending: <strong> 120</strong><br /><strong>Distance: 1.5</strong> <br /><strong>Life : Exp: 5 / 2</strong> <br /><strong>Note: </strong>Significant bubbling out.. </figcaption></figure> <!-- /wp:core-embed/imgur -->
         
@@ -542,7 +542,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
           <details><summary class="ab-accordion-title"> Video : x__lava - dt-1.5, s54-e80, e5-2 </summary><div class="ab-accordion-text">
-            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=zN3ea0hNQp0\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=zN3ea0hNQp0u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"> 
             
             <div class="wp-block-embed__wrapper">
               https://www.youtube.com/watch?v=zN3ea0hNQp0&feature=youtu.be
@@ -566,7 +566,7 @@ post_date: 2019-12-23 01:27:50
         
         <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
           <details><summary class="ab-accordion-title"> Video : x__lava - dt-1.5, s54-e110, e5-2 </summary><div class="ab-accordion-text">
-            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=cvtmMmOnbwU\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=cvtmMmOnbwUu0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"> 
             
             <div class="wp-block-embed__wrapper">
               https://www.youtube.com/watch?v=cvtmMmOnbwU&feature=youtu.be
@@ -726,7 +726,7 @@ post_date: 2019-12-23 01:27:50
     
     <!-- /wp:core-embed/imgur -->
     
-    <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=xqi48A_QKQ4\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+    <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=xqi48A_QKQ4u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"> 
     
     <div class="wp-block-embed__wrapper">
       https://www.youtube.com/watch?v=xqi48A_QKQ4&feature=youtu.be
@@ -784,29 +784,38 @@ post_date: 2019-12-23 01:27:50
               https://www.youtube.com/watch?v=yi6JPJh5W_s
             </div><figcaption>Due to an issue limiting the rendering 
             
-            <br />--> Wireframe of the simulation</figcaption></figure> <!-- /wp:core-embed/youtube -->
+            <br />--> Wireframe of the simulation<br /></figcaption></figure> <!-- /wp:core-embed/youtube -->
+            
+            <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/playlist?list=PLjsaMJ2MBBR0q4waq7zXx7WLCD6fYI_jA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+            
+            <div class="wp-block-embed__wrapper">
+              https://www.youtube.com/playlist?list=PLjsaMJ2MBBR0q4waq7zXx7WLCD6fYI_jA
+            </div><figcaption> Due to an issue limiting the rendering 
+            
+            <br />--> Wireframe of the simulation<br /> </figcaption></figure> <!-- /wp:core-embed/youtube -->
           </div>
         </div>
         
         <!-- /wp:group -->
+        
         <!-- wp:separator -->
         
         <hr class="wp-block-separator" />
         
         <!-- /wp:separator -->
         
-         <!-- wp:heading {"level":1,"textColor":"vivid-green-cyan"} -->
-    
-    <h1 class="has-vivid-green-cyan-color has-text-color">
-      <strong>Picture observer</strong>
-    </h1>
-    
-    <!-- /wp:heading -->
-    
-<!-- wp:shortcode --> [spin360 canvas_name="x__lava_22" imgs_folder="x_\_lava\_\_191223\_\_22\_\_bubble\_up\_boy/" imgs_nbr=55 aspect_ratio=1.778 speed=1] 
-
-<!-- /wp:shortcode -->
-    
+        <!-- wp:heading {"level":1,"textColor":"vivid-green-cyan"} -->
+        
+        <h1 class="has-vivid-green-cyan-color has-text-color">
+          <strong>Picture observer</strong>
+        </h1>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:shortcode --> [spin360 canvas_name="x__lava_22" imgs_folder="x__lava__191223__22__bubble_up_boy/" imgs_nbr=55 aspect_ratio=1.778 speed=1] 
+        
+        <!-- /wp:shortcode -->
+        
         <!-- wp:separator -->
         
         <hr class="wp-block-separator" />
