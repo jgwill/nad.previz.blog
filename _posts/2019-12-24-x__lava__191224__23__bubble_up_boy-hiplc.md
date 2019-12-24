@@ -326,7 +326,7 @@ post_date: 2019-12-24 17:56:33
         
         <!-- wp:heading -->
         
-        <h2>
+        <h2 id="x-caching-facts-no23-01-stats">
           Stats
         </h2>
         
