@@ -660,7 +660,7 @@ post_date: 2019-12-23 01:27:50
     <!-- wp:heading -->
     
     <h2>
-      Caching Facts
+      Caching Facts (i21)
     </h2>
     
     <!-- /wp:heading -->
@@ -687,13 +687,29 @@ post_date: 2019-12-23 01:27:50
     
     <!-- /wp:list -->
     
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/KZ308Ai.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    <!-- wp:paragraph -->
+    
+    <p>
+      Lava Interface
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/VosthqA.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
     <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/KZ308Ai.png
+      https://i.imgur.com/VosthqA.png
     </div></figure> 
     
     <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=xqi48A_QKQ4\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+    
+    <div class="wp-block-embed__wrapper">
+      https://www.youtube.com/watch?v=xqi48A_QKQ4&feature=youtu.be
+    </div><figcaption>Frame 141 - 2.1 GB wireframe preview</figcaption></figure> 
+    
+    <!-- /wp:core-embed/youtube -->
   </div>
 </div>
 
