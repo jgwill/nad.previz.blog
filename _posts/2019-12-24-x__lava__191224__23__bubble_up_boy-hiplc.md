@@ -485,6 +485,14 @@ post_date: 2019-12-24 17:56:33
     </p>
     
     <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      Action: Rendering capability of i23-01 will tell if capable to resolve more<strong>. if yes, particle separation 0.08 test</strong>: i23-02
+    </p>
+    
+    <!-- /wp:paragraph -->
   </div>
 </div>
 
