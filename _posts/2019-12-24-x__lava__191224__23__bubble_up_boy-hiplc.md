@@ -361,6 +361,7 @@ post_date: 2019-12-24 17:56:33
               </td>
               
               <td>
+                1000
               </td>
               
               <td>
@@ -379,6 +380,7 @@ post_date: 2019-12-24 17:56:33
               </td>
               
               <td>
+                +70
               </td>
               
               <td>
@@ -397,6 +399,7 @@ post_date: 2019-12-24 17:56:33
               </td>
               
               <td>
+                258
               </td>
               
               <td>
@@ -411,10 +414,11 @@ post_date: 2019-12-24 17:56:33
             
             <tr>
               <td>
-                MaxCachedFrameDU:
+                AVGCachedFrameDU:
               </td>
               
               <td>
+                88
               </td>
               
               <td>
