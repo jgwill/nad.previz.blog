@@ -1,8 +1,8 @@
 ---
 ID: 2157
-post_title: 'WPApp &#8211; extending WordPress using hooks'
+post_title: 'WPApp - extending WordPress using hooks'
 author: guillaume
-post_excerpt: ""
+post_excerpt: "Researching a deep understanding of hooks and why that is practical when using a complex framework to create your own framework and apps."
 layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/26/wpapp-extending-wordpress-using-hooks/
