@@ -25,8 +25,47 @@ Exploration :Extending wordpress using hooks
 
 <!-- wp:list -->
 
+*   In post section
+*   In comment section
+
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### Hooks in post section
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   
 *   generate_before_content
 *   ...
+
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### Hooks in comments section
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   
+*   generate_before_comments
 *   ...
 
 <!-- /wp:list -->
