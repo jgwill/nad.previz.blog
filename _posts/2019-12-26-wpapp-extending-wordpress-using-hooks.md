@@ -1,12 +1,13 @@
 ---
-ID: 
-post_title: WPApp - extending Wordpress using hooks
+ID: 2157
+post_title: 'WPApp &#8211; extending WordPress using hooks'
 author: guillaume
-post_excerpt: "extending Wordpress using hooks"
+post_excerpt: ""
 layout: post
-permalink:
+permalink: >
+  http://guillaumeisabelle.com/nad-previz/2019/12/26/wpapp-extending-wordpress-using-hooks/
 published: true
-post_date: 
+post_date: 2019-12-26 16:26:43
 ---
 <!-- wp:paragraph -->
 
@@ -41,7 +42,7 @@ Exploration :Extending wordpress using hooks
 ## What is the end result of this experimentation ?
 
 <!-- /wp:heading -->
- 
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
