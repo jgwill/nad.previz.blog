@@ -46,7 +46,7 @@ Exploration :Extending wordpress using hooks
 
 * generate_after_entry_header 
 * generate_before_content
-* **generate_after_entry_content**
+* **generate_after_entry_content** or generate_after_content
 
 <!-- /wp:list -->
 
