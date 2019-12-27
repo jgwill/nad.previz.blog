@@ -78,7 +78,7 @@ Exploration :Extending wordpress using hooks
 
 <!-- wp:heading -->
 
-## What is the end result of this experimentation ?
+## What is the end result of this experimentation ? MetaSynt is using the hook : generate_after_entry_content
 
 <!-- /wp:heading -->
 
