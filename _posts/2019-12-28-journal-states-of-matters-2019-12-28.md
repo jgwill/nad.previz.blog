@@ -15,6 +15,18 @@ I questioned myself on the why creating that simulation of lava volcanic activit
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## Time of resolution
+
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+
+## There is no blame
+
+<!-- /wp:heading -->
+
 <!-- wp:more -->
 
 <!--more-->
