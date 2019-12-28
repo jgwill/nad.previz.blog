@@ -27,6 +27,18 @@ I questioned myself on the why creating that simulation of lava volcanic activit
 
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+
+References on Personal Mastery and “there is no blame”
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+[zotpress tags=“SystemThinking” cite=yes]
+
+<!-- /wp:paragraph -->
+
 <!-- wp:more -->
 
 <!--more-->
