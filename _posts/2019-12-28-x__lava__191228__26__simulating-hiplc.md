@@ -17,6 +17,25 @@ A higher resolution with the same setting as in i25
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## Rendering
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Particle Sep: 0.22, voxel scale 0.8
+*   Rendering the Particle cache then the rendering of the sequence from the UI
+
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
 <!-- wp:more -->
 
 <!--more-->
@@ -30,10 +49,17 @@ A higher resolution with the same setting as in i25
     <!-- wp:heading -->
     
     <h2>
-      ...
+      Rendering with this
     </h2>
     
     <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
     
     <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/nt6nD1S.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
