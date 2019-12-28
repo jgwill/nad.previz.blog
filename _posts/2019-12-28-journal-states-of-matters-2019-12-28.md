@@ -27,6 +27,12 @@ I questioned myself on the why creating that simulation of lava volcanic activit
 
 <!-- /wp:heading -->
 
+<!-- wp:heading -->
+
+## Meltdown of blames 
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
 References on Personal Mastery and “there is no blame”
