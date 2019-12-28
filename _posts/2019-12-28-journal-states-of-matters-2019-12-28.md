@@ -15,6 +15,24 @@ I questioned myself on the why creating that simulation of lava volcanic activit
 
 <!-- /wp:paragraph -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### I have a **few** concepts **and** possible title/name for the art
+
+<!-- /wp:heading -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:heading -->
 
 ## Time of resolution
@@ -44,12 +62,6 @@ References on Personal Mastery and “there is no blame”
 [zotpress tags=“SystemThinking” cite=yes]
 
 <!-- /wp:paragraph -->
-
-<!-- wp:more -->
-
-<!--more-->
-
-<!-- /wp:more -->
 
 <!-- wp:heading -->
 
