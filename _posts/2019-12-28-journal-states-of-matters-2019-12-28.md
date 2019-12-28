@@ -35,7 +35,7 @@ I questioned myself on the why creating that simulation of lava volcanic activit
 
 <!-- wp:heading -->
 
-## Journal nktrs
+## Journal **notes**
 
 <!-- /wp:heading -->
 
