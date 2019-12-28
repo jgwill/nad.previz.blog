@@ -42,6 +42,61 @@ post_date: 2019-12-27 20:52:48
     </div></figure> 
     
     <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      Emission Illuminate the object around
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:group -->
+    
+    <div class="wp-block-group" id="shading-illuminate-object">
+      <div class="wp-block-group__inner-container">
+        <!-- wp:heading -->
+        
+        <h2>
+          Emission Illuminate the object around
+        </h2>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/x2XMdpW.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/x2XMdpW.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:paragraph -->
+        
+        <p>
+          So far the Temp attribute passed thru a Range 1-150 / 1-50
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/SgVVoWF.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/SgVVoWF.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div>
+    </div>
+    
+    <!-- /wp:group -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
   </div>
 </div>
 
