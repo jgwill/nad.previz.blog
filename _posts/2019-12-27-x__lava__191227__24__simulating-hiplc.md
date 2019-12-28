@@ -47,13 +47,13 @@ Completing - What I've I learned? Completed?
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
       <details><summary class="ab-accordion-title">Rendering</summary><div class="ab-accordion-text">
-        <!-- wp:embed {"url":"https://youtu.be/WDmh1GnZoUk"} --><figure class="wp-block-embed">
+        <!-- wp:paragraph -->
         
-        <div class="wp-block-embed__wrapper">
-          https://youtu.be/WDmh1GnZoUk
-        </div></figure> 
+        <p>
+          <a href="https://youtu.be/WDmh1GnZoUk">https://youtu.be/WDmh1GnZoUk</a>
+        </p>
         
-        <!-- /wp:embed -->
+        <!-- /wp:paragraph -->
         
         <!-- wp:embed {"url":"https://www.dropbox.com/s/5440xmu9mrlhpzu/x__lava__191227__25__simulating.hiplc.avi?dl=0"} --><figure class="wp-block-embed">
         
