@@ -16,3 +16,15 @@ post_date: 2019-12-14 14:31:43
 Questionnement relatif à la fiche synthèse et à la structure de ma compréhension d’une recherche-création dans le context du NAD.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:image {"id":2216} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/img_7519.png" alt="" class="wp-image-2216" /><figcaption>« Expliquer ou comprendre »   
+  
+-Chiapello,7ART801 2019</figcaption></figure> <!-- /wp:image -->
