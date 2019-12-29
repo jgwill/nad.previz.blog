@@ -17,6 +17,12 @@ Questionnement relatif à la fiche synthèse et à la structure de ma compréhen
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+Cette question touche aussi la compréhension du but d’une recherche en art ?
+
+<!-- /wp:paragraph -->
+
 <!-- wp:more -->
 
 <!--more-->
