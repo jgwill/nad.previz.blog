@@ -62,6 +62,16 @@ post_date: 2019-12-29 19:43:41
     <!-- wp:image {"id":2228,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-8.png" alt="" class="wp-image-2228" /></figure> <!-- /wp:image -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:image {"id":2232,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-9.png" alt="" class="wp-image-2232" /><figcaption>Thermal / Cut Angle from 31 to 11</figcaption></figure> <!-- /wp:image -->
   </div>
 </div>
 
