@@ -44,6 +44,24 @@ post_date: 2019-12-29 19:43:41
     <!-- wp:image {"id":2226,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-7.png" alt="" class="wp-image-2226" /></figure> <!-- /wp:image -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      Some adjustments...
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:image {"id":2228,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/12/image-8.png" alt="" class="wp-image-2228" /></figure> <!-- /wp:image -->
   </div>
 </div>
 
