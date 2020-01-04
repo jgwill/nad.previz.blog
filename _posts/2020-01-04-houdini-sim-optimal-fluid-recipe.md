@@ -21,12 +21,26 @@ The first topic is the Voxel size compared to the Particle separation, if there 
 
 <!-- /wp:more -->
 
-<!-- wp:image {"id":2272,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
 
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/0140.jpg" alt="" class="wp-image-2272" /><figcaption>Voxel 0.4  
-Particle separation 0.2</figcaption></figure> <!-- /wp:image -->
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+  <details open><summary class="ab-accordion-title">Voxel Size</summary><div class="ab-accordion-text">
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/yPDSRms.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/yPDSRms.png
+    </div><figcaption>Not much difference</figcaption></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:image {"id":2273,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/voxel_0_8.0140.jpg" alt="" class="wp-image-2273" /><figcaption> Voxel 0.8<br />Particle separation 0.2 </figcaption></figure> <!-- /wp:image -->
+    
+    <!-- wp:image {"id":2272,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/0140.jpg" alt="" class="wp-image-2272" /><figcaption>Voxel 0.4<br />Particle separation 0.2</figcaption></figure> <!-- /wp:image -->
+  </div></details>
+</div>
 
-<!-- wp:image {"id":2273,"sizeSlug":"full"} --><figure class="wp-block-image size-full">
-
-<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/voxel_0_8.0140.jpg" alt="" class="wp-image-2273" /><figcaption> Voxel 0.8  
-Particle separation 0.2 </figcaption></figure> <!-- /wp:image -->
+<!-- /wp:atomic-blocks/ab-accordion -->
