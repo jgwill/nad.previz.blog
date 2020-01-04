@@ -38,6 +38,28 @@ post_date: 2020-01-04 07:29:29
     <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+      <details open><summary class="ab-accordion-title">What are the ramping colors in my creative context ?</summary><div class="ab-accordion-text">
+        <!-- wp:heading {"level":3} -->
+        
+        <h3>
+          Volcanic eruption...
+        </h3>
+        
+        <!-- /wp:heading -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
       <details open><summary class="ab-accordion-title">What are ramping colors of an explosions?</summary><div class="ab-accordion-text">
         <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/91v6cRs.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
         
@@ -75,20 +97,29 @@ post_date: 2020-01-04 07:29:29
     
     <!-- /wp:core-embed/imgur -->
     
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/4DjG9my.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
     
-    <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/4DjG9my.png
-    </div><figcaption>Changing few things :)</figcaption></figure> 
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+      <details open><summary class="ab-accordion-title">v2</summary><div class="ab-accordion-text">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/4DjG9my.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/4DjG9my.png
+        </div><figcaption>Changing few things :)</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/QpiqBLB.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/QpiqBLB.png
+        </div><figcaption>Results</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div></details>
+    </div>
     
-    <!-- /wp:core-embed/imgur -->
-    
-    <!-- wp:paragraph -->
-    
-    <p>
-    </p>
-    
-    <!-- /wp:paragraph -->
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
