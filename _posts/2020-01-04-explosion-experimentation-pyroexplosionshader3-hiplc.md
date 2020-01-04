@@ -11,9 +11,11 @@ permalink: >
 published: true
 post_date: 2020-01-04 07:29:29
 ---
-<!-- wp:paragraph -->
+<!-- wp:paragraph {"customBackgroundColor":"#d0aaf4","fontSize":"medium"} -->
 
-@STCGoal An explosion I love and a learning experimentation that will be the foundation for creating my Volcanic Creation / Resolution - A part of this will be knowledge for creating my volcanic creation 
+<p style="background-color:#d0aaf4" class="has-background has-medium-font-size">
+  <strong>@STCGoal An explosion I love and a learning experimentation that will be the foundation for creating my Volcanic Creation / Resolution - A part of this will be knowledge for creating my volcanic creation </strong>
+</p>
 
 <!-- /wp:paragraph -->
 
@@ -22,6 +24,30 @@ post_date: 2020-01-04 07:29:29
 <!--more-->
 
 <!-- /wp:more -->
+
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+  <details open><summary class="ab-accordion-title">Created Houdini Interface</summary><div class="ab-accordion-text">
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/BZLnZls.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/BZLnZls.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/6F31beC.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/6F31beC.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
 
 <!-- wp:group -->
 
@@ -167,7 +193,7 @@ post_date: 2020-01-04 07:29:29
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/DEv0g2V.png
-        </div><figcaption>Yellow is burning a bit more
+        </div><figcaption>Yellow is burning a bit less
         
         <br />but not much...<br /></figcaption></figure> <!-- /wp:core-embed/imgur -->
       </div></details>
