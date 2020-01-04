@@ -116,6 +116,20 @@ post_date: 2020-01-04 07:29:29
         </div><figcaption>Results</figcaption></figure> 
         
         <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:separator -->
+        
+        <hr class="wp-block-separator" />
+        
+        <!-- /wp:separator -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/SY7fX7z.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/SY7fX7z.png
+        </div><figcaption>Pyro Shader conf captured...</figcaption></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
