@@ -70,19 +70,51 @@ A part of this will be knowledge for creating my volcanic creation
 
 <!-- wp:group -->
 
-<div class="wp-block-group">
+<div class="wp-block-group" id="references">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading {"level":3} -->
+    <!-- wp:heading -->
     
-    <h3>
-      ref.Explosion
-    </h3>
+    <h2>
+      References
+    </h2>
     
     <!-- /wp:heading -->
     
-    <!-- wp:shortcode --> [zotpress tags="ref.Explosion" abstract=yes notes=yes download=yes cite=yes] 
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21} -->
     
-    <!-- /wp:shortcode -->
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+      <details><summary class="ab-accordion-title">Top 30 Explosions - Youtube</summary><div class="ab-accordion-text">
+        <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=m7Paph37tcE","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+        
+        <div class="wp-block-embed__wrapper">
+          https://www.youtube.com/watch?v=m7Paph37tcE
+        </div></figure> 
+        
+        <!-- /wp:core-embed/youtube -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
+    
+    <!-- wp:group -->
+    
+    <div class="wp-block-group" id="ref.explosion">
+      <div class="wp-block-group__inner-container">
+        <!-- wp:heading {"level":3} -->
+        
+        <h3>
+          ref.Explosion
+        </h3>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:shortcode --> [zotpress tags="ref.Explosion" abstract=yes notes=yes download=yes cite=yes] 
+        
+        <!-- /wp:shortcode -->
+      </div>
+    </div>
+    
+    <!-- /wp:group -->
   </div>
 </div>
 
