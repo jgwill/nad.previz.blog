@@ -167,9 +167,9 @@ post_date: 2020-01-04 07:29:29
         
         <div class="wp-block-embed__wrapper">
           https://i.imgur.com/DEv0g2V.png
-        </div></figure> 
+        </div><figcaption>Yellow is burning a bit more
         
-        <!-- /wp:core-embed/imgur -->
+        <br />but not much...<br /></figcaption></figure> <!-- /wp:core-embed/imgur -->
       </div></details>
     </div>
     
