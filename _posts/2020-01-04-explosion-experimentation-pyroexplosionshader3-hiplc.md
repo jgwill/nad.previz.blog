@@ -142,6 +142,38 @@ post_date: 2020-01-04 07:29:29
     </div>
     
     <!-- /wp:atomic-blocks/ab-accordion -->
+    
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+      <details open><summary class="ab-accordion-title">V3 - Fire Intensity Field / Ramp</summary><div class="ab-accordion-text">
+        <!-- wp:paragraph -->
+        
+        <p>
+          Trying different Fire Intensity Field / Ramp
+        </p>
+        
+        <!-- /wp:paragraph -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/QVylJ8B.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/QVylJ8B.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+        
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/DEv0g2V.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/DEv0g2V.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
   </div>
 </div>
 
