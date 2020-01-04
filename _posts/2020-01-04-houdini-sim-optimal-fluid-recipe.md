@@ -44,3 +44,33 @@ The first topic is the Voxel size compared to the Particle separation, if there 
 </div>
 
 <!-- /wp:atomic-blocks/ab-accordion -->
+
+<!-- wp:heading -->
+
+## Given that it does not seems to be voxel alone, I found new information to test: 
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Atom from : <https://forums.odforce.net/topic/28796-high-quality-fluid-recipe/> is giving the following params for water...
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+*Voxel Scale = 0.92*
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+*Influence Scale = 0.92*
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+*Droplet Scale = 0.72*
+
+<!-- /wp:paragraph -->
