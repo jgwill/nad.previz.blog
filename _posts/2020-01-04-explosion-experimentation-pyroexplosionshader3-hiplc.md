@@ -13,7 +13,7 @@ post_date: 2020-01-04 07:29:29
 ---
 <!-- wp:paragraph -->
 
-A part of this will be knowledge for creating my volcanic creation
+@STCGoal An explosion I love and a learning experimentation that will be the foundation for creating my Volcanic Creation / Resolution - A part of this will be knowledge for creating my volcanic creation 
 
 <!-- /wp:paragraph -->
 
@@ -22,6 +22,38 @@ A part of this will be knowledge for creating my volcanic creation
 <!--more-->
 
 <!-- /wp:more -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="shading">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Shading
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
+    
+    <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+      <details open><summary class="ab-accordion-title">What are ramping colors of an explosions?</summary><div class="ab-accordion-text">
+        <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/91v6cRs.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+        
+        <div class="wp-block-embed__wrapper">
+          https://i.imgur.com/91v6cRs.png
+        </div></figure> 
+        
+        <!-- /wp:core-embed/imgur -->
+      </div></details>
+    </div>
+    
+    <!-- /wp:atomic-blocks/ab-accordion -->
+  </div>
+</div>
+
+<!-- /wp:group -->
 
 <!-- wp:group -->
 
