@@ -44,6 +44,14 @@ post_date: 2020-01-04 07:29:29
     </div></figure> 
     
     <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/auv8zpa.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/auv8zpa.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
   </div></details>
 </div>
 
