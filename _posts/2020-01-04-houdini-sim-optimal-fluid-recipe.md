@@ -15,6 +15,12 @@ The first topic is the Voxel size compared to the Particle separation, if there 
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## See: [Resolution][1]
+
+<!-- /wp:heading -->
+
 <!-- wp:more -->
 
 <!--more-->
@@ -51,48 +57,75 @@ The first topic is the Voxel size compared to the Particle separation, if there 
 
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
+<!-- wp:group -->
 
-Atom from : <https://forums.odforce.net/topic/28796-high-quality-fluid-recipe/> is giving the following params for water...
+<div class="wp-block-group" id="resolution">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Resolution...
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      Atom from : <a href="https://forums.odforce.net/topic/28796-high-quality-fluid-recipe/">https://forums.odforce.net/topic/28796-high-quality-fluid-recipe/</a> is giving the following params for water...
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <em>Voxel Scale = 0.92</em>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <em>Influence Scale = 0.92</em>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <em>Droplet Scale = 0.72</em>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue"} -->
+    
+    <p class="has-background has-vivid-cyan-blue-background-color">
+      <strong>No doubt better :)</strong>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/94S8S6y.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/94S8S6y.png
+    </div><figcaption>
+    
+    <strong>Fluid Compress: </strong><br />Cull Bandwidth = 1<br /><br /><strong>Particle Fluid Surface: </strong><br />Voxel Scale = 0.9<br /> Influence Scale = 1<br /> Droplet Scale = 0.867</figcaption></figure> <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
 
-<!-- /wp:paragraph -->
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-
-*Voxel Scale = 0.92*
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-*Influence Scale = 0.92*
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-*Droplet Scale = 0.72*
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue"} -->
-
-<p class="has-background has-vivid-cyan-blue-background-color">
-  <strong>No doubt better :)</strong>
-</p>
-
-<!-- /wp:paragraph -->
-
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/94S8S6y.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-
-<div class="wp-block-embed__wrapper">
-  https://i.imgur.com/94S8S6y.png
-</div><figcaption>
-
-**Fluid Compress: **  
-Cull Bandwidth = 1  
-  
-**Particle Fluid Surface: **  
-Voxel Scale = 0.9  
-Influence Scale = 1  
-Droplet Scale = 0.867</figcaption></figure> <!-- /wp:core-embed/imgur -->
+ [1]: #resolution
