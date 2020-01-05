@@ -74,3 +74,25 @@ Atom from : <https://forums.odforce.net/topic/28796-high-quality-fluid-recipe/> 
 *Droplet Scale = 0.72*
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue"} -->
+
+<p class="has-background has-vivid-cyan-blue-background-color">
+  <strong>No doubt better :)</strong>
+</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/94S8S6y.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+<div class="wp-block-embed__wrapper">
+  https://i.imgur.com/94S8S6y.png
+</div><figcaption>
+
+**Fluid Compress: **  
+Cull Bandwidth = 1  
+  
+**Particle Fluid Surface: **  
+Voxel Scale = 0.9  
+Influence Scale = 1  
+Droplet Scale = 0.867</figcaption></figure> <!-- /wp:core-embed/imgur -->
