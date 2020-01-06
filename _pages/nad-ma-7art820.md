@@ -14,3 +14,9 @@ post_date: 2020-01-05 20:01:04
 Production et sujet de recherche￼ - j’ai l’intention de... hum... a définir :)￼
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+[zotpress tags=7ART820 abstract=yes notes=yes cite=yes download=yes]
+
+<!-- /wp:paragraph -->
