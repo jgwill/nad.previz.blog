@@ -33,7 +33,7 @@ post_date: 2020-01-05 12:14:08
 
 <!-- wp:paragraph -->
 
-
+@STCIssue - Remembering Issues...
 
 <!-- /wp:paragraph -->
 
@@ -51,9 +51,22 @@ post_date: 2020-01-05 12:14:08
 
 <!-- wp:paragraph -->
 
-
+@STCGoal Picture what knowing is and why that is so powerful
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**Concepts**
+
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+
+*   Imagine when you listen by forming images of what you are hearing
+*   ...
+
+<!-- /wp:list -->
 
 <!-- wp:separator -->
 
