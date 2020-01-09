@@ -18,3 +18,11 @@ Lecture for the course.
 <!-- wp:shortcode --> [zotpress tags="MASURE.lecture.cartographier" abstract=yes download=yes cite=yes notes=yes] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+
+See other tag: [**Research.PbR**][1]
+
+<!-- /wp:paragraph -->
+
+ [1]: /nad-previz/tag/Research-PbR
