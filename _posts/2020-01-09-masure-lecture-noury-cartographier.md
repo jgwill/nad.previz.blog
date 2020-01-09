@@ -25,4 +25,28 @@ See other tag: [**Research.PbR**][1]
 
 <!-- /wp:paragraph -->
 
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Creative production is research
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      ...
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
  [1]: /nad-previz/tag/Research-PbR
