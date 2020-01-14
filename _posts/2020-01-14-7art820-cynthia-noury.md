@@ -27,6 +27,14 @@ Former une Tension entre la théorie et l'oeuvre
 
 <!-- /wp:paragraph -->
 
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/fUyP4Ou.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+<div class="wp-block-embed__wrapper">
+  https://i.imgur.com/fUyP4Ou.jpg
+</div></figure> 
+
+<!-- /wp:core-embed/imgur -->
+
 <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/87dRcR3.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
 <div class="wp-block-embed__wrapper">
