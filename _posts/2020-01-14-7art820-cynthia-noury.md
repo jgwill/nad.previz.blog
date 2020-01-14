@@ -24,6 +24,37 @@ Former une Tension entre la théorie et l'oeuvre
 <!-- wp:atomic-blocks/ab-accordion -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">Liens</summary><div class="ab-accordion-text">
+    <!-- wp:paragraph -->
+    
+    <p>
+      <a href="http://rec.hexagram.ca/">REC Hexagram : http://rec.hexagram.ca/</a>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      ResearchGate : <a href="https://www.researchgate.net/profile/Cynthia_Noury">https://www.researchgate.net/profile/Cynthia_Noury</a>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
   <details><summary class="ab-accordion-title">Cynthia Noury - Tweets</summary><div class="ab-accordion-text">
     <!-- wp:core-embed/twitter {"url":"https://twitter.com/cynnour","type":"rich","providerNameSlug":"twitter","className":""} --><figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
     
