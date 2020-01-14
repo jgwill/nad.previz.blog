@@ -21,6 +21,22 @@ Former une Tension entre la théorie et l'oeuvre
 
 <!-- /wp:paragraph -->
 
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">Cynthia Noury - Tweets</summary><div class="ab-accordion-text">
+    <!-- wp:core-embed/twitter {"url":"https://twitter.com/cynnour","type":"rich","providerNameSlug":"twitter","className":""} --><figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+    
+    <div class="wp-block-embed__wrapper">
+      https://twitter.com/cynnour
+    </div></figure> 
+    
+    <!-- /wp:core-embed/twitter -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
 <!-- wp:paragraph -->
 
 Tablo
