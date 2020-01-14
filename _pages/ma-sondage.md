@@ -15,11 +15,11 @@ Cette cartographie faite à partir du sondage dans le cours Production et Sujet 
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:more -->
 
-<https://www.lucidchart.com/publicSegments/view/49f6f4d1-6825-4e4c-a3b3-977cd15629b2/image.png>
+<!--more-->
 
-<!-- /wp:paragraph -->
+<!-- /wp:more -->
 
 <!-- wp:html -->
 
@@ -32,6 +32,12 @@ Cette cartographie faite à partir du sondage dans le cours Production et Sujet 
 <!-- wp:paragraph -->
 
 PDF : <https://www.lucidchart.com/publicSegments/view/66974a6f-3560-4895-a491-da225d5f86d7>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+IMG: <https://www.lucidchart.com/publicSegments/view/49f6f4d1-6825-4e4c-a3b3-977cd15629b2/image.png>
 
 <!-- /wp:paragraph -->
 
