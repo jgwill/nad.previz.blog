@@ -17,6 +17,10 @@ AI - Artificial Intelligence - **Defining the term,** from the **point of view o
 
 <!-- /wp:paragraph -->
 
+<!-- wp:audio {"id":2348} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/RC\_\_AI\_\_HEXAGRAM_Event__20200207.mp3" preload="auto"></audio><figcaption>Écouter le programme audio</figcaption></figure> 
+
+<!-- /wp:audio -->
+
 <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/YXgh4Tp.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
 <div class="wp-block-embed__wrapper">
@@ -28,6 +32,12 @@ AI - Artificial Intelligence - **Defining the term,** from the **point of view o
 <!-- wp:paragraph -->
 
 <https://hexagram.ca/index.php/eng/hidden-future-events/451-l-intelligence-artificielle-dans-le-milieu-des-arts-mediatiques-de-l-industrie-et-du-savoir-2> 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
 
 <!-- /wp:paragraph -->
 
