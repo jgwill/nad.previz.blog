@@ -27,8 +27,6 @@ Today, I want to try to paint an image (bare with me, not matte painting but mor
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:image {"id":2387,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
-
-
-<!-- /wp:paragraph -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-1024x655.png" alt="" class="wp-image-2387" /></figure> <!-- /wp:image -->
