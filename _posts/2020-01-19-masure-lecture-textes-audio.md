@@ -45,6 +45,10 @@ post_date: 2020-01-19 06:57:46
     
     <!-- /wp:audio -->
     
+    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://masure-textes.s3.ca-central-1.amazonaws.com/boutet(2004)_pratique_reflexive_enseignement.pdf.04.mp3"></audio><figcaption>04</figcaption></figure> 
+    
+    <!-- /wp:audio -->
+    
     <!-- wp:paragraph -->
     
     <p>
