@@ -19,6 +19,23 @@ post_date: 2020-01-21 12:45:19
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/W3u9yc7.png
-</div></figure> 
+</div><figcaption>Interesting CLI MergeTool</figcaption></figure> 
 
 <!-- /wp:core-embed/imgur -->
+
+<!-- wp:code {"language":"bash"} -->
+
+<pre class="wp-block-code"><code>git mergetool
+# Solve the merge using the above CLI interface
+
+git commit -m "fixing merge conflicts"
+git push
+</code></pre>
+
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
