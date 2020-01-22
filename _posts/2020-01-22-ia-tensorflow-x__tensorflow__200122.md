@@ -20,3 +20,34 @@ I want to install and try tensorFlow - Run a ML example to generate questions an
 <!--more-->
 
 <!-- /wp:more -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      TensorFlow on Docker
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <a href="https://www.tensorflow.org/install/docker">https://www.tensorflow.org/install/docker</a>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:group -->
