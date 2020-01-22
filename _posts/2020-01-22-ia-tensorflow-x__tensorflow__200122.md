@@ -69,6 +69,14 @@ docker run -it --rm tensorflow/tensorflow \
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-1.png" alt="" class="wp-image-2466" /><figcaption>@STCGoal Pulled locally the container to run TensorFlow on Docker<br /> docker pull tensorflow/tensorflow</figcaption></figure> <!-- /wp:image -->
     
+    <!-- wp:paragraph -->
+    
+    <p>
+      <strong>@STCIssue Will not run on Docker be-cause no GPU on Platform HU.</strong>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
     <!-- wp:html -->
     
     <pre><font color="#8AE234"><b>jgi@hu</b></font>:<font color="#729FCF"><b>~/x/tensorflow/x__tensorflow__200122</b></font>$ docker run -it --rm tensorflow/tensorflow    python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
