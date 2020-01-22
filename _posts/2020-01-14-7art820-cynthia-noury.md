@@ -52,6 +52,12 @@ Former une Tension entre la théorie et l'oeuvre
 
 <!-- /wp:atomic-blocks/ab-accordion -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:atomic-blocks/ab-accordion -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
@@ -74,42 +80,62 @@ Tablo
 
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/fUyP4Ou.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/fUyP4Ou.jpg","type":"rich","providerNameSlug":"imgur"} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"> 
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/fUyP4Ou.jpg
-</div></figure> 
+</div>
+
+</figure> 
 
 <!-- /wp:core-embed/imgur -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/87dRcR3.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/87dRcR3.jpg","type":"rich","providerNameSlug":"imgur"} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"> 
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/87dRcR3.jpg
-</div></figure> 
+</div>
+
+</figure> 
 
 <!-- /wp:core-embed/imgur -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/7Wrn5G1.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/7Wrn5G1.jpg","type":"rich","providerNameSlug":"imgur"} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"> 
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/7Wrn5G1.jpg
-</div></figure> 
+</div>
+
+</figure> 
 
 <!-- /wp:core-embed/imgur -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Du1mPWw.jpg","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Du1mPWw.jpg","type":"rich","providerNameSlug":"imgur"} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"> 
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/Du1mPWw.jpg
-</div></figure> 
+</div>
+
+</figure> 
 
 <!-- /wp:core-embed/imgur -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/qAjeHD0.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/qAjeHD0.png","type":"rich","providerNameSlug":"imgur"} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"> 
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/qAjeHD0.png
-</div></figure> 
+</div>
+
+</figure> 
 
 <!-- /wp:core-embed/imgur -->
