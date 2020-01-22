@@ -41,12 +41,21 @@ I want to install and try tensorFlow - Run a ML example to generate questions an
     
     <!-- /wp:paragraph -->
     
-    <!-- wp:paragraph -->
+    <!-- wp:code {"language":"bash","showLines":true} -->
     
-    <p>
-    </p>
+    <pre class="wp-block-code"><code>#@STCGoal Pulled locally the container to run TensorFlow on Docker
+docker pull tensorflow/tensorflow   
+
+docker pull tensorflow/tensorflow:latest-gpu-jupyter  # latest release w/ GPU support and Jupyter
+
+#@URIR https://www.tensorflow.org/install/docker#start_a_tensorflow_docker_container
+
+
+## Example RUN
+docker run -it --rm tensorflow/tensorflow \
+   python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"</code></pre>
     
-    <!-- /wp:paragraph -->
+    <!-- /wp:code -->
   </div>
 </div>
 
