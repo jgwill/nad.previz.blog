@@ -113,6 +113,19 @@ tf.Tensor(2047.2864, shape=(), dtype=float32)
     <!-- wp:image {"id":2474,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-2.png" alt="" class="wp-image-2474" /><figcaption>docker run -it tensorflow/tensorflow bash</figcaption></figure> <!-- /wp:image -->
+    
+    <!-- wp:code -->
+    
+    <pre class="wp-block-code"><code>#@STCIssue Solved : WARNING: You are running this container as root, which can cause new files in
+mounted volumes to be created as the root user on your host machine.
+
+docker run -u $(id -u):$(id -g) -it tensorflow/tensorflow bash</code></pre>
+    
+    <!-- /wp:code -->
+    
+    <!-- wp:image {"id":2478,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-3.png" alt="" class="wp-image-2478" /></figure> <!-- /wp:image -->
   </div></details>
 </div>
 
