@@ -61,10 +61,10 @@ docker run -it --rm tensorflow/tensorflow \
 
 <!-- /wp:group -->
 
-<!-- wp:atomic-blocks/ab-accordion -->
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21,"accordionOpen":true} -->
 
-<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-  <details><summary class="ab-accordion-title">Logging : Installation using Docker</summary><div class="ab-accordion-text">
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+  <details open><summary class="ab-accordion-title">Logging : Installation using Docker</summary><div class="ab-accordion-text">
     <!-- wp:image {"id":2466,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-1.png" alt="" class="wp-image-2466" /><figcaption>@STCGoal Pulled locally the container to run TensorFlow on Docker<br /> docker pull tensorflow/tensorflow</figcaption></figure> <!-- /wp:image -->
@@ -137,10 +137,10 @@ docker run -u $(id -u):$(id -g) -it tensorflow/tensorflow bash</code></pre>
 
 <!-- /wp:separator -->
 
-<!-- wp:atomic-blocks/ab-accordion -->
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":23,"accordionOpen":true} -->
 
-<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-  <details><summary class="ab-accordion-title">TensionFlow on Pi</summary><div class="ab-accordion-text">
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-23">
+  <details open><summary class="ab-accordion-title">TensionFlow on Pi</summary><div class="ab-accordion-text">
     <!-- wp:code {"language":"bash","showLines":true} -->
     
     <pre class="wp-block-code"><code># Clone example
