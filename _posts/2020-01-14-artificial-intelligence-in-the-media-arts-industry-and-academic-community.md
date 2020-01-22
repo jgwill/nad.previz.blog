@@ -17,19 +17,15 @@ AI - Artificial Intelligence - **Defining the term,** from the **point of view o
 
 <!-- /wp:paragraph -->
 
+<!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://masure.s3.ca-central-1.amazonaws.com/RC\_\_AI\_\_HEXAGRAM_Event__20200207.mp3"></audio><figcaption>Listen to the program</figcaption></figure> 
 
+<!-- /wp:audio -->
 
-<!-- wp:core-embed/imgur {"url":"https:\/\/i.imgur.com\/YXgh4Tp.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-
-
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/YXgh4Tp.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/YXgh4Tp.png
-</div>
-
-</figure>
-
-
+</div></figure> 
 
 <!-- /wp:core-embed/imgur -->
 
