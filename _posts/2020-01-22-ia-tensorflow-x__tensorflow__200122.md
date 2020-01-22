@@ -60,3 +60,15 @@ docker run -it --rm tensorflow/tensorflow \
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">Logging : Installation using Docker</summary><div class="ab-accordion-text">
+    <!-- wp:image {"id":2466,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-1.png" alt="" class="wp-image-2466" /><figcaption>@STCGoal Pulled locally the container to run TensorFlow on Docker<br /> docker pull tensorflow/tensorflow</figcaption></figure> <!-- /wp:image -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
