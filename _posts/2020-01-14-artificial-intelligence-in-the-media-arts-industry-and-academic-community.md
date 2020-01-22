@@ -13,25 +13,29 @@ post_date: 2020-01-14 15:47:05
 ---
 <!-- wp:paragraph -->
 
-AI - Artificial Intelligence - **Defining the term,** from the **point of view of art**, 
+AI - Artificial Intelligence - **Defining the term,** from the **point of view of art**,
 
 <!-- /wp:paragraph -->
 
-<!-- wp:audio {"id":2348} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/RC\_\_AI\_\_HEXAGRAM_Event__20200207.mp3" preload="auto"></audio><figcaption>Écouter le programme audio</figcaption></figure> 
 
-<!-- /wp:audio -->
 
-<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/YXgh4Tp.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+<!-- wp:core-embed/imgur {"url":"https:\/\/i.imgur.com\/YXgh4Tp.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/YXgh4Tp.png
-</div></figure> 
+</div>
+
+</figure>
+
+
 
 <!-- /wp:core-embed/imgur -->
 
 <!-- wp:paragraph -->
 
-<https://hexagram.ca/index.php/eng/hidden-future-events/451-l-intelligence-artificielle-dans-le-milieu-des-arts-mediatiques-de-l-industrie-et-du-savoir-2> 
+<https://hexagram.ca/index.php/eng/hidden-future-events/451-l-intelligence-artificielle-dans-le-milieu-des-arts-mediatiques-de-l-industrie-et-du-savoir-2>
 
 <!-- /wp:paragraph -->
 
@@ -44,22 +48,20 @@ AI - Artificial Intelligence - **Defining the term,** from the **point of view o
 <!-- wp:list -->
 
 *   9:15 am to 10:30 am  
-    Introduction : Artificial Intelligence - **Defining the term,** from the **point of view of art**, industry and academia  
-      
-    
+    Introduction : Artificial Intelligence - **Defining the term,** from the **point of view of art**, industry and academia
+
 *   ▶︎10:30 am to 11:30 am  
-    Panel 1:** Artificial intelligence as a creative tool**  
-    
+    Panel 1:** Artificial intelligence as a creative tool**
+
 *   ▶︎1 pm to 2 pm  
-    Panel 2: **The limits of artificial intelligence**  
-      
-    
+    Panel 2: **The limits of artificial intelligence**
+
 *   ▶︎2 pm to 3 pm  
-    Panel 3. **Copyright in artificial intelligence**  
-    
+    Panel 3. **Copyright in artificial intelligence**
+
 *   ▶︎3:15 pm to 4:15 pm  
-    Panel 4. **Artificial intelligence research and development axis**  
-    
+    Panel 4. **Artificial intelligence research and development axis**
+
 *   ▶︎4:15 pm  
     **Networking Cocktail**
 
@@ -67,7 +69,7 @@ AI - Artificial Intelligence - **Defining the term,** from the **point of view o
 
 <!-- wp:paragraph -->
 
-This project receives financial support from the Programme Initiatives collaboratives art-industrie-savoir en créativité numérique of the City of Montréal 
+This project receives financial support from the Programme Initiatives collaboratives art-industrie-savoir en créativité numérique of the City of Montréal
 
 <!-- /wp:paragraph -->
 
@@ -76,7 +78,6 @@ This project receives financial support from the Programme Initiatives collabora
 CONTACT  
 Conseil québécois des arts médiatiques (CQAM)  
 3995 rue Berri Montréal QC H2L 4H2  
-<info@cqam.org> | 514 527-5116  
-
+<info@cqam.org> | 514 527-5116
 
 <!-- /wp:paragraph -->
