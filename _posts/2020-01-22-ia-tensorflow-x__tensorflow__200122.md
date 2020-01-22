@@ -95,6 +95,24 @@ tf.Tensor(2047.2864, shape=(), dtype=float32)
 </pre>
     
     <!-- /wp:html -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:heading -->
+    
+    <h2>
+      Run in a Bash on the Docker TensionFlow
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:image {"id":2474,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/01/image-2.png" alt="" class="wp-image-2474" /><figcaption>docker run -it tensorflow/tensorflow bash</figcaption></figure> <!-- /wp:image -->
   </div></details>
 </div>
 
