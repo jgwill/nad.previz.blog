@@ -131,8 +131,26 @@ docker run -u $(id -u):$(id -g) -it tensorflow/tensorflow bash</code></pre>
 
 <!-- /wp:atomic-blocks/ab-accordion -->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
+<hr class="wp-block-separator" />
 
+<!-- /wp:separator -->
 
-<!-- /wp:paragraph -->
+<!-- wp:atomic-blocks/ab-accordion -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
+  <details><summary class="ab-accordion-title">TensionFlow on Pi</summary><div class="ab-accordion-text">
+    <!-- wp:code {"language":"bash","showLines":true} -->
+    
+    <pre class="wp-block-code"><code># Clone example
+cd ~/x/tensorflow/ ; mkdir pi && cd pi
+git clone https://github.com/tensorflow/examples --depth 1
+
+#@STCResult Cloned Example for doing the exercise of KNOWING What are the classification of the image that is in front of the Pi Camera ?</code></pre>
+    
+    <!-- /wp:code -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
