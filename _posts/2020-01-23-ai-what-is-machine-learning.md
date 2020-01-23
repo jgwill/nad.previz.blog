@@ -11,7 +11,7 @@ post_date: 2020-01-23 12:55:00
 ---
 <!-- wp:paragraph -->
 
-Let’s get a good start at the capabilities of the machine to learn from experiences the system users has. In our case, it is experiences we had creating. I am expecting machine learning to assist us creating, enabling automation of recurrence. Therefore, the AI system would have to learn our ways to create, analyze our sequences, our intentions and our results along with problems we had that might have shifted our orientation during our creative process, why, because next time I would expect the system to solve that problem without human interventions (or minimally suggest the procedure to apply to the current procedural network to solve it - the goal being 
+The perspective of creating using artificial intelligence is what I am dreaming about for all my life. Let’s get a good start at the capabilities of the machine to learn from experiences the system users has. In our case, it is experiences we had creating. I am expecting machine learning to assist us creating, enabling automation of recurrence. Therefore, the AI system would have to learn our ways to create, analyze our sequences, our intentions and our results along with problems we had that might have shifted our orientation during our creative process, why, because next time I would expect the system to solve that problem without human interventions (or minimally suggest the procedure to apply to the current procedural network to solve it - the goal being 
 
 <!-- /wp:paragraph -->
 
