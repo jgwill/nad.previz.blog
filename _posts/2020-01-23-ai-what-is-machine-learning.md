@@ -17,6 +17,12 @@ The perspective of creating using artificial intelligence is what I am dreaming 
 
 <!-- wp:paragraph -->
 
+When I read Google Brain I am expecting that we are 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
 Procedurally ....
 
 <!-- /wp:paragraph -->
