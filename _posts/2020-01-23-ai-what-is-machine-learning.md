@@ -32,3 +32,56 @@ Procedurally ....
 Recurrence in procedural node being used
 
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:heading -->
+
+## **Experimentation** no 1
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+I have had my first experimentation using one of the Google Teachable Machine which I train to recognized my physical poses. The resulting AI was able to know if :
+
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+
+*   I was working on my computer
+*   Drinking my cofee
+*   Writing and drawing on my paper
+*   Was Gone from my desk
+*   Talking to my colleague 
+*   Meditating
+
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
