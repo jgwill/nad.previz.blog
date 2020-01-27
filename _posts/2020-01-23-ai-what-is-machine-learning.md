@@ -70,7 +70,13 @@ I have had my first experimentation using one of the Google Teachable Machine wh
 
 <!-- wp:paragraph -->
 
+One insight I got to understand what is ML is the name of each sets of data I give the learning module which were called classes. Class are really usual term I use in my framework and app development and therefor my understanding was immediate when I saw the trained model telling me which class it was recognizing. (Fore each classes describe in the list above, I gave the model a set of poses of the same category (like many meditating poses, many drawing poses which were in the form of still image of me in the said position)).
 
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Much easier than I thought and was really a good exercise to understand what an artist can do with an ML model to have its audience affect the CyberSculpture results.
 
 <!-- /wp:paragraph -->
 
