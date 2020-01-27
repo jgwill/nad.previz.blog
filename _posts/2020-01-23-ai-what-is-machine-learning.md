@@ -23,13 +23,7 @@ The perspective of creating using artificial intelligence is what I am dreaming 
 
 <!-- wp:paragraph -->
 
-Procedurally ....
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Recurrence in procedural node being used
 
 <!-- /wp:paragraph -->
 
@@ -80,11 +74,29 @@ Much easier than I thought and was really a good exercise to understand what an 
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
+<hr class="wp-block-separator" />
 
+<!-- /wp:separator -->
 
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+
+## Intentions de **recherche** 
+
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+
+### **Procédurale** (contexte de production avec Houdini et **l’apprentissage** profond - une **définition** artistique **pour résoudre** les points de contentions entre l’art **numérique** et la science informatique.)
+
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
 
 <!-- wp:paragraph -->
 
