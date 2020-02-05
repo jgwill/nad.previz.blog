@@ -45,10 +45,9 @@ Related term: NST (Neural Style Transfert)
 
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
+<!-- wp:image {"id":2545,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
-
-
-<!-- /wp:paragraph -->
+<img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/02/image-2.png" alt="" class="wp-image-2545" /><figcaption> Litwinowicz, Peter. “Processing Images and Video for an Impressionist Effect.” In *Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques*, 407–414. SIGGRAPH ’97. USA: ACM Press/Addison-Wesley Publishing Co., 1997. <https://doi.org/10.1145/258734.258893>.  
+</figcaption></figure> <!-- /wp:image -->
 
  [1]: https://en.wikipedia.org/wiki/Non-photorealistic_rendering
