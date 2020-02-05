@@ -25,25 +25,7 @@ Related term: NST (Neural Style Transfert)
 
 <!-- /wp:more -->
 
-<!-- wp:group -->
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      NPR zReferences
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:shortcode --> [zotpress tags="NPR" cite=yes download=yes notes=yes abstract=yes] 
-    
-    <!-- /wp:shortcode -->
-  </div>
-</div>
-
-<!-- /wp:group -->
+<!-- wp:block {"ref":2547} /-->
 
 <!-- wp:image {"id":2545,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
