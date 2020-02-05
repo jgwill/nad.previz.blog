@@ -40,10 +40,10 @@ Target for receiving the Style</figcaption></figure> <!-- /wp:image -->
 
 <!-- /wp:more -->
 
-<!-- wp:atomic-blocks/ab-accordion -->
+<!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-  <details><summary class="ab-accordion-title">Rejected Results</summary><div class="ab-accordion-text">
+  <details open><summary class="ab-accordion-title">Rejected Results</summary><div class="ab-accordion-text">
     <!-- wp:image {"id":2526,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/02/image-1.png" alt="" class="wp-image-2526" /><figcaption>Higher rendering using an HDR Sky and the same NST source as experimentation no 2 (x__style_transfer__200203.py)</figcaption></figure> <!-- /wp:image -->
@@ -64,10 +64,10 @@ Target for receiving the Style</figcaption></figure> <!-- /wp:image -->
     
     <!-- /wp:heading -->
     
-    <!-- wp:atomic-blocks/ab-accordion -->
+    <!-- wp:atomic-blocks/ab-accordion {"accordionOpen":true} -->
     
     <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion">
-      <details><summary class="ab-accordion-title"> <a href="https://github.com/jgwill/nad.previz/blob/master/ai/jupyter/x__style_transfer__200203.py">https://github.com/jgwill/nad.previz/blob/master/ai/jupyter/x__style_transfer__200203.py</a> </summary><div class="ab-accordion-text">
+      <details open><summary class="ab-accordion-title"> <a href="https://github.com/jgwill/nad.previz/blob/master/ai/jupyter/x__style_transfer__200203.py">https://github.com/jgwill/nad.previz/blob/master/ai/jupyter/x__style_transfer__200203.py</a> </summary><div class="ab-accordion-text">
         <!-- wp:code {"language":"python","showLines":true} -->
         
         <pre class="wp-block-code"><code>#@title Licensed under the Apache License, Version 2.0 (the "License");
