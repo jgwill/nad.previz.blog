@@ -9,13 +9,45 @@ permalink: >
 published: true
 post_date: 2020-02-05 10:49:47
 ---
-> Non-photorealistic rendering (NPR) is an area of computer graphics that focuses on enabling a wide variety of expressive styles for digital art. In contrast to traditional computer graphics, which has focused on photorealism, NPR is inspired by artistic styles such as painting, drawing, technical illustration, and animated cartoons. NPR has appeared in movies and video games in the form of "toon shading", as well as in scientific visualization, architectural illustration and experimental animation. An examp
+> Non-photorealistic rendering (NPR) is an area of computer graphics that focuses on enabling a wide variety of expressive styles for digital art. In contrast to traditional computer graphics, which has focused on photorealism, NPR is inspired by artistic styles such as painting, drawing, technical illustration, and animated cartoons. NPR has appeared in movies and video games in the form of "toon shading", as well as in scientific visualization, architectural illustration and experimental animation. 
 
 Source: *[Non-photorealistic rendering - Wikipedia][1]*
 
 <!-- wp:paragraph -->
 
 Related term: NST (Neural Style Transfert)
+
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      NPR zReferences
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [zotpress tags="NPR" cite=yes download=yes notes=yes abstract=yes] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+
 
 <!-- /wp:paragraph -->
 
