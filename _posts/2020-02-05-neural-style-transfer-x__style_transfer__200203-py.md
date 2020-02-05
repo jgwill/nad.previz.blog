@@ -13,7 +13,7 @@ post_date: 2020-02-05 09:38:57
 ---
 <!-- wp:paragraph -->
 
-Neural Style Transfer (NST) which is part of my DeepArt creative-research - Those are my pilot experimentation to support further "well structured experimentation".
+Neural Style Transfer (NST) which is part of my NadIA creative-research - Those are my pilot experimentation to support further "well structured experimentation" of my Master Degree in Art (M.A.).
 
 <!-- /wp:paragraph -->
 
