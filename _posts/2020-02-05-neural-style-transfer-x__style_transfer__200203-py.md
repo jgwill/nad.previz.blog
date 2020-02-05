@@ -568,3 +568,29 @@ else:
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      References
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [zotpress tags="x__style_transfer.ref" abstract=yes notes=yes cite=yes download=yes] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
+
+<!-- /wp:group -->
