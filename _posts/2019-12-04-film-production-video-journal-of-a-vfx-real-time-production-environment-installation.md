@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://guillaumeisabelle.com/nad-previz/2019/12/04/film-production-video-journal-of-a-vfx-real-time-production-environment-installation/
 published: true
-post_date: 2019-12-04 10:56:40
+post_date: 2019-12-04 15:56:40
 ---
 <!-- wp:paragraph -->
 
