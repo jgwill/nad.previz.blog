@@ -21,6 +21,12 @@ Feed collection of my Artificial Intelligence ZoteroLib
 
 <!-- /wp:more -->
 
+<!-- wp:heading {"level":3} -->
+
+### well, I was expected a collection to be feed in here but that does not work :(
+
+<!-- /wp:heading -->
+
 <!-- wp:shortcode --> [wp-rss-aggregator sources="2556"] 
 
 <!-- /wp:shortcode -->
