@@ -21,6 +21,6 @@ Feed collection of my Artificial Intelligence ZoteroLib
 
 <!-- /wp:more -->
 
-<!-- wp:shortcode --> [wp-rss-aggregator feeds="nadia-collection"] 
+<!-- wp:shortcode --> [wp-rss-aggregator sources="2556"] 
 
 <!-- /wp:shortcode -->
