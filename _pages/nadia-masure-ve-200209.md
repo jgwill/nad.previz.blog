@@ -19,46 +19,4 @@ post_date: 2020-02-09 16:11:40
 
 <!-- wp:block {"ref":2376} /-->
 
-<!-- wp:group -->
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      M.A. - Sujet Recherche
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:group -->
-    
-    <div class="wp-block-group" id="MASURE.srct">
-      <div class="wp-block-group__inner-container">
-        <!-- wp:heading {"level":3} -->
-        
-        <h3>
-          MASURE Source Théorique
-        </h3>
-        
-        <!-- /wp:heading -->
-        
-        <!-- wp:paragraph -->
-        
-        <p>
-          tag: MASURE.srct
-        </p>
-        
-        <!-- /wp:paragraph -->
-        
-        <!-- wp:shortcode --> [zotpress tags="MASURE.srct"] 
-        
-        <!-- /wp:shortcode -->
-      </div>
-    </div>
-    
-    <!-- /wp:group -->
-  </div>
-</div>
-
-<!-- /wp:group -->
+<!-- wp:block {"ref":2578} /-->
