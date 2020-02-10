@@ -41,6 +41,13 @@ Neural Style Transfer (NST) - Reproduction of the experimentation no 2 with vari
     
     <!-- /wp:paragraph -->
     
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
     <!-- wp:group -->
     
     <div class="wp-block-group">
