@@ -41,6 +41,10 @@ Neural Style Transfer (NST) - Reproduction of the experimentation no 2 with vari
     
     <!-- /wp:paragraph -->
     
+    <!-- wp:image {"id":2611,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/02/x__style_transfer__200208__02_02-477x1024.png" alt="" class="wp-image-2611" /></figure> <!-- /wp:image -->
+    
     <!-- wp:paragraph -->
     
     <p>
@@ -74,3 +78,11 @@ Neural Style Transfer (NST) - Reproduction of the experimentation no 2 with vari
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+[https://github.com/jgwill/nadia.public/blob/master/x\_\_style_transfer\_\_200208\_\_02_02/x\_\_style_transfer\_\_200208\_\_02_02.md][1]
+
+<!-- /wp:paragraph -->
+
+ [1]: https://github.com/jgwill/nadia.public/blob/master/x__style_transfer__200208__02_02/x__style_transfer__200208__02_02.md
