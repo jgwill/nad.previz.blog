@@ -27,22 +27,4 @@ post_date: 2020-02-09 19:03:36
 
 <!-- /wp:more -->
 
-<!-- wp:group -->
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      Biblio ref Tag:AIBengio
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:shortcode --> [zotpress tags="AIBengio"] 
-    
-    <!-- /wp:shortcode -->
-  </div>
-</div>
-
-<!-- /wp:group -->
+<!-- wp:block {"ref":2605} /-->
