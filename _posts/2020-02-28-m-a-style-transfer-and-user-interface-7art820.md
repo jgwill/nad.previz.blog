@@ -137,8 +137,42 @@ post_date: 2020-02-28 14:20:35
 
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
+<!-- wp:group -->
 
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      NST Biblio withOUT abstract
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [zotpress tags="NST" abstract=no cite=yes download=yes] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
 
+<!-- /wp:group -->
 
-<!-- /wp:paragraph -->
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      NST Biblio with Abstract
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [zotpress tags="NST" abstract=yes cite=yes download=yes] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
+
+<!-- /wp:group -->
