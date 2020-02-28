@@ -19,14 +19,6 @@ post_date: 2020-02-28 14:20:35
 
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      Which publication/process for NST is the more appropriate ?
-    </h2>
-    
-    <!-- /wp:heading -->
-    
     <!-- wp:paragraph -->
     
     <p>
