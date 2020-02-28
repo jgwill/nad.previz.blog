@@ -22,6 +22,15 @@ post_date: 2020-02-28 14:20:35
     <!-- wp:paragraph -->
     
     <p>
+      <strong>Definition “Artistic Style”</strong>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      The constant form—and some-times the constant elements, qualities, and expression—in the art of an individual or a group.— Meyer Schapiro [Schapiro 1994]<br />
     </p>
     
     <!-- /wp:paragraph -->
@@ -129,22 +138,10 @@ post_date: 2020-02-28 14:20:35
 
 <!-- /wp:group -->
 
-<!-- wp:group -->
+<!-- wp:block {"ref":2663} /-->
 
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      NST Biblio with Abstract
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:shortcode --> [zotpress tags="NST" abstract=yes cite=yes download=yes] 
-    
-    <!-- /wp:shortcode -->
-  </div>
-</div>
+<!-- wp:paragraph -->
 
-<!-- /wp:group -->
+<https://docs.google.com/document/d/1XIPjX9--F-KREuG4ZO0o9ZfcxToXl02Ve3qylgcgGWc/edit#>
+
+<!-- /wp:paragraph -->
