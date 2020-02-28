@@ -9,6 +9,24 @@ permalink: >
 published: true
 post_date: 2020-02-28 14:20:35
 ---
+<!-- wp:heading {"level":3} -->
+
+### Definition of Neural Style Transfer
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
 <!-- wp:paragraph -->
 
 Artificial Intelligent Style Transfer lack adequate user interface. 
@@ -44,12 +62,6 @@ Artificial Intelligent Style Transfer lack adequate user interface.
 </blockquote>
 
 <!-- /wp:quote -->
-
-<!-- wp:more -->
-
-<!--more-->
-
-<!-- /wp:more -->
 
 <!-- wp:group -->
 
