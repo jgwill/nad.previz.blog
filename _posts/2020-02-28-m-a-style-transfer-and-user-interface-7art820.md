@@ -59,6 +59,14 @@ post_date: 2020-02-28 14:20:35
     <!-- wp:image {"id":2654,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
     <img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2020/02/image-5.png" alt="" class="wp-image-2654" /><figcaption>None of <br /> (Semmo, Isenberg, and Döllner 2017) <br />has <strong>User Interaction</strong> covered.</figcaption></figure> <!-- /wp:image -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      Giving the above chart, Which publication/process for NST is the more appropriate ?
+    </p>
+    
+    <!-- /wp:paragraph -->
   </div>
 </div>
 
