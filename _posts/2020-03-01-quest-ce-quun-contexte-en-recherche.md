@@ -9,9 +9,11 @@ permalink: >
 published: true
 post_date: 2020-03-01 13:47:15
 ---
-<!-- wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
 
-
+<p class="has-medium-font-size">
+  Je me questionne sur le sens du mot contexte (une fois de plus) dans le contexte d'une rercheche-création.
+</p>
 
 <!-- /wp:paragraph -->
 
@@ -24,7 +26,35 @@ post_date: 2020-03-01 13:47:15
 <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":22} -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-22">
-  <details><summary class="ab-accordion-title">Exemple de contexte</summary><div class="ab-accordion-text">
+  <details><summary class="ab-accordion-title">Exemple de mon directeur sur le AI</summary><div class="ab-accordion-text">
+    <!-- wp:quote -->
+    
+    <blockquote class="wp-block-quote">
+      <p>
+        Actuellement, avec des investissements considérables en intelligence artificielle, Montréal tente de se positionner comme une des capitales mondiale de la recherche dans ce domaine. Yoshua Bengio Ai, figure incontournable du « deep learning » développe diverses applications de recherches dans les champs de l’intelligence artificielle. Les applications de ces nouvelles technologies auront des impacts dans le domaine des communication, du transport, de l’hébergement etc. En parallèle avec la croissance, à Montréal, les industries créatives ne cessent de prendre de l’expantion. Actuellement, il est possible d’entrevoir d’immenses possibilités dans les secteurs de la captation, de la génération, du calcul, du traitement des images et du son.<br /><br />Dans les technologies de l’image et du son ( donner des exemples : deep fake en est un…). Mentionner Nuke.<br />
+      </p>
+      
+      <cite>Y.B., 2020, M.A.</cite>
+    </blockquote>
+    
+    <!-- /wp:quote -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":22} -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-22">
+  <details><summary class="ab-accordion-title">Exemple de contexte 1</summary><div class="ab-accordion-text">
+    <!-- wp:paragraph -->
+    
+    <p>
+      1
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
     <!-- wp:quote -->
     
     <blockquote class="wp-block-quote">
