@@ -17,6 +17,18 @@ post_date: 2020-03-01 13:47:15
 
 <!-- /wp:paragraph -->
 
+<!-- wp:quote -->
+
+<blockquote class="wp-block-quote">
+  <p>
+    Le concept de contexte issu traditionnellement de l'analyse littéraire est aujourd'hui utilisé dans de nombreuses <a href="https://fr.wikipedia.org/wiki/Discipline_scientifique">disciplines scientifiques</a>. Suivant la discipline en question le sens que l'on donne au concept de contexte mérite d'être précisé.
+  </p>
+  
+  <cite> “Contexte.” In <em>Wikipédia</em>, February 12, 2020. <a href="https://fr.wikipedia.org/wiki/Contexte">https://fr.wikipedia.org/wiki/Contexte</a>.<br /> </cite>
+</blockquote>
+
+<!-- /wp:quote -->
+
 <!-- wp:more -->
 
 <!--more-->
