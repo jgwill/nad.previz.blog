@@ -56,7 +56,7 @@ post_date: 2020-03-01 13:47:15
 <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":22} -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-22">
-  <details><summary class="ab-accordion-title">Exemple de mon directeur sur le AI</summary><div class="ab-accordion-text">
+  <details><summary class="ab-accordion-title">Exemple de contexte par mon directeur (Nad) sur le AI</summary><div class="ab-accordion-text">
     <!-- wp:quote -->
     
     <blockquote class="wp-block-quote">
