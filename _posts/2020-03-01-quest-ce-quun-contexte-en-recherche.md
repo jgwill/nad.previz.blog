@@ -29,6 +29,24 @@ post_date: 2020-03-01 13:47:15
 
 <!-- /wp:quote -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:quote -->
+
+<blockquote class="wp-block-quote">
+  <p>
+    <strong>Context is "a frame that surrounds the event and provides resources for its appropriate interpretation".</strong>
+  </p>
+  
+  <cite> Goodwin, Charles; Duranti, Alessandro, eds. (1992). <a href="http://www.sscnet.ucla.edu/anthro/faculty/duranti/reprints/rethco.pdf">"Rethinking context: an introduction"</a> (PDF). <em>Rethinking context: Language as an interactive phenomenon</em>. Cambridge: Cambridge University Press. pp. 1–42. Retrieved February 19, 2017.<br /><a href="https://en.wikipedia.org/wiki/Context_(language_use)#cite_note-rethinking-1">https://en.wikipedia.org/wiki/Context_(language_use)#cite_note-rethinking-1</a></cite>
+</blockquote>
+
+<!-- /wp:quote -->
+
 <!-- wp:more -->
 
 <!--more-->
