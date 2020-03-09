@@ -51,10 +51,10 @@ post_date: 2020-03-01 13:47:15
 
 <blockquote class="wp-block-quote">
   <p>
-    Communicative systems presuppose contexts that are structured in terms of particular physical and communicative dimensions, for instance time, location, and communicative role
+    <strong>Contextual variables</strong> :: Communicative systems presuppose contexts that are structured in terms of particular physical and communicative dimensions, for instance time, location, and communicative role
   </p>
   
-  <cite>[zotpressInText item="{180474:UARR4DIM,2}"]</cite>
+  <cite> “Context (Language Use).” In <em>Wikipedia</em>, February 19, 2020. <a href="https://en.wikipedia.org/wiki/Context_(language_use)">https://en.wikipedia.org/wiki/Context_(language_use)</a>. </cite>
 </blockquote>
 
 <!-- /wp:quote -->
