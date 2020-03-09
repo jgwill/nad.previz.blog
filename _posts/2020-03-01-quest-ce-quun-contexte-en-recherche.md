@@ -47,6 +47,18 @@ post_date: 2020-03-01 13:47:15
 
 <!-- /wp:quote -->
 
+<!-- wp:quote -->
+
+<blockquote class="wp-block-quote">
+  <p>
+    Communicative systems presuppose contexts that are structured in terms of particular physical and communicative dimensions, for instance time, location, and communicative role
+  </p>
+  
+  <cite>[zotpressInText item="{180474:UARR4DIM,2}"]</cite>
+</blockquote>
+
+<!-- /wp:quote -->
+
 <!-- wp:more -->
 
 <!--more-->
