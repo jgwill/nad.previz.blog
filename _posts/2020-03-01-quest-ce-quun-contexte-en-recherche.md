@@ -58,7 +58,7 @@ post_date: 2020-03-01 13:47:15
 <!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":22} -->
 
 <div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-22">
-  <details><summary class="ab-accordion-title">Exemple de contexte 1</summary><div class="ab-accordion-text">
+  <details><summary class="ab-accordion-title">Exemple de contexte 2</summary><div class="ab-accordion-text">
     <!-- wp:paragraph -->
     
     <p>
