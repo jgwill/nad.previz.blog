@@ -32,6 +32,12 @@ I love the shadows inside the fractal that the right part does on the left part<
 
 <!-- /wp:shortcode -->
 
+<!-- wp:paragraph -->
+
+(Click above and drag to navigate as you wish)
+
+<!-- /wp:paragraph -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
