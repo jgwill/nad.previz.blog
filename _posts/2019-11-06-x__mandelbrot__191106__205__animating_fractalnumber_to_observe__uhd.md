@@ -32,6 +32,12 @@ I love the shadows inside the fractal that the right part does on the left part<
 
 <!-- /wp:shortcode -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:image {"id":1136,"linkDestination":"media"} --><figure class="wp-block-image">
 
 <a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" alt="" class="wp-image-1136" /></a><figcaption>Iteration 1  
