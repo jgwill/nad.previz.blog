@@ -22,6 +22,16 @@ Fractal number animated over 40 frames to observe the results - Quality enhanced
 I love the shadows inside the fractal that the right part does on the left part" class="wp-image-1137" /></a><figcaption>iteration 2 (still rendering)  
 I love the shadows inside the fractal that the right part does on the left part</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:shortcode --> [spin360 canvas_name="x\_\_mandelbrot\_\_191103\_\_204\_\_Animating_FractalNumber_TO_OBSERVE\_\_UHD_it2\_\_v2" imgs_folder="x\_\_mandelbrot\_\_191103\_\_204\_\_Animating_FractalNumber_TO_OBSERVE\_\_UHD_it2\_\_v2/" imgs_nbr=26 aspect_ratio=1.778 speed=0.07] 
+
+<!-- /wp:shortcode -->
+
 <!-- wp:image {"id":1136,"linkDestination":"media"} --><figure class="wp-block-image">
 
 <a href="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/nad-previz/wp-content/uploads/sites/19/2019/11/image-11.png" alt="" class="wp-image-1136" /></a><figcaption>Iteration 1  
