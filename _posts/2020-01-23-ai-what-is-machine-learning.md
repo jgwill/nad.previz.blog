@@ -9,9 +9,21 @@ permalink: >
 published: true
 post_date: 2020-01-23 12:55:00
 ---
+<!-- wp:quote -->
+
+<blockquote class="wp-block-quote">
+  <p>
+    Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+  </p>
+  
+  <cite> Team, E. S. (2017, March 6). What is Machine Learning? A definition. <em>Expert System</em>. <a href="https://expertsystem.com/machine-learning-definition/">https://expertsystem.com/machine-learning-definition/</a><br /> </cite>
+</blockquote>
+
+<!-- /wp:quote -->
+
 <!-- wp:paragraph -->
 
-When I read Google Brain I am expecting that we are 
+When I read Google Brain I am expecting that we are ...
 
 <!-- /wp:paragraph -->
 
