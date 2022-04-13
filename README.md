@@ -3,6 +3,6 @@ Blog of nad.previz
 
 # ARCHIVED
 
-## [pages](_pages)
+## [pages](_pages/index.md)
 
-## [posts](_posts)
+## [posts](_posts/index)
